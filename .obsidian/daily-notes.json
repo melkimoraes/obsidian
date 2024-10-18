@@ -1,3 +1,4 @@
 {
-  "format": "YYYY/MM DD-MM-YYYY"
+  "format": "YYYY / DD-MM-YYYY",
+  "folder": "Diario"
 }

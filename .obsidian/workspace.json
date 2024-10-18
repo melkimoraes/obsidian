@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +175,7 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "fe1e93f10f2c1f33",
+  "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
     "Brasil Paralelo/DASH NOTAZZ.md",
     "Brasil Paralelo/Guru.md",

@@ -152,6 +152,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "672e1431c943e2b5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -169,13 +179,15 @@
       "graph:Abrir visualização em gráfico": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Criar um novo quadro": false
     }
   },
   "active": "cb978fec31ad4bd7",
   "lastOpenFiles": [
-    "Bioclean/Atualiza KITS.md",
+    "Kanban sem título.md",
     "Bioclean/Flow/Flow.excalidraw",
+    "Bioclean/Atualiza KITS.md",
     "Excalidraw/Drawing 2024-10-18 14.16.30.excalidraw.md",
     "Bioclean/Flow/Flow.md",
     "Possehl - CREMER.md",
@@ -202,9 +214,7 @@
     "Brasil Paralelo/Notazz.md",
     "Thatho/Enviar Email.md",
     "Bioclean/MRP.md",
-    "Bionatus/IQVIA.md",
     "Thatho",
-    "Ferraspari/DAYS.md",
     "Sem título.canvas",
     "Sanches",
     "Pasted image 20240819175130.png",

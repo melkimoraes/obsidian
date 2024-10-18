@@ -11,10 +11,12 @@
             "id": "e2bf7a45eeccea09",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "excalidraw",
+              "state": {
+                "file": "Bioclean/Flow.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Flow"
             }
           },
           {
@@ -103,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bioclean/Flow.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Flow"
             }
           },
           {
@@ -121,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bioclean/Flow.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Flow"
             }
           },
           {
@@ -147,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-18 13.40.13.excalidraw.md"
+                "file": "Bioclean/Flow.excalidraw"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2024-10-18 13.40.13.excalidraw"
+              "title": "Sumário de Flow"
             }
           },
           {
@@ -182,8 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdbd9ae6bf2082f0",
+  "active": "e2bf7a45eeccea09",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-18 13.40.13.excalidraw.md",
+    "Bioclean/Flow.excalidraw.crswap",
+    "Bioclean/Flow.excalidraw",
     "Bioclean/plugg.to.md",
     "⭐.md",
     "Excalidraw/Drawing 2024-10-18 14.08.17.excalidraw.md",
@@ -192,7 +199,6 @@
     "Excalidraw/Drawing 2024-10-18 14.08.19.excalidraw.md",
     "Excalidraw/Drawing 2024-10-18 14.08.20.excalidraw.md",
     "Bioclean/DAYS.md",
-    "Excalidraw/Drawing 2024-10-18 13.40.13.excalidraw.md",
     "Excalidraw",
     "Brasil Paralelo/Guru.md",
     "JotaFlex/ireport.md",
@@ -212,7 +218,6 @@
     "Bioclean/Integração Transportadoras.md",
     "2024-09-20.md",
     "Bionatus/Botao Login.md",
-    "Bioclean/Transportadora Preferencial.md",
     "Sanches",
     "Pasted image 20240819175130.png",
     "JotaFlex",
@@ -223,8 +228,6 @@
     "Pasted image 20240318154839.png",
     "Pasted image 20240318154907.png",
     "Bionatus",
-    "Ferraspari",
-    "Vortx/Flow.canvas",
-    "Vortx"
+    "Vortx/Flow.canvas"
   ]
 }

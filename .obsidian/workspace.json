@@ -163,12 +163,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +185,9 @@
   },
   "active": "cb978fec31ad4bd7",
   "lastOpenFiles": [
-    "Kanban sem título.md",
+    "2024-10-18.md",
     "Bioclean/Flow/Flow.excalidraw",
+    "Kanban sem título.md",
     "Bioclean/Atualiza KITS.md",
     "Excalidraw/Drawing 2024-10-18 14.16.30.excalidraw.md",
     "Bioclean/Flow/Flow.md",
@@ -213,7 +214,6 @@
     "VGX/ClickSign.md",
     "Brasil Paralelo/Notazz.md",
     "Thatho/Enviar Email.md",
-    "Bioclean/MRP.md",
     "Thatho",
     "Sem título.canvas",
     "Sanches",

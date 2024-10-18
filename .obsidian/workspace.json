@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d0d9950cdbca288",
+        "id": "e5cb6ddd48d7e414",
         "type": "tabs",
         "children": [
           {
-            "id": "ea29ad9061ad7966",
+            "id": "cb978fec31ad4bd7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -18,21 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "Flow"
             }
-          },
-          {
-            "id": "f39e04a9e0cfff4f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-18 14.16.30.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-18 14.16.30.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-18 14.16.30.excalidraw.md",
+                "file": "Bioclean/Flow/Flow.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Drawing 2024-10-18 14.16.30.excalidraw"
+              "title": "Links inversos para Flow"
             }
           },
           {
@@ -123,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-18 14.16.30.excalidraw.md",
+                "file": "Bioclean/Flow/Flow.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Drawing 2024-10-18 14.16.30.excalidraw"
+              "title": "Links de saída para Flow"
             }
           },
           {
@@ -150,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-18 14.16.30.excalidraw.md"
+                "file": "Bioclean/Flow/Flow.excalidraw"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2024-10-18 14.16.30.excalidraw"
+              "title": "Sumário de Flow"
             }
           },
           {
@@ -185,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f39e04a9e0cfff4f",
+  "active": "cb978fec31ad4bd7",
   "lastOpenFiles": [
     "Bioclean/Flow/Flow.excalidraw",
     "Excalidraw/Drawing 2024-10-18 14.16.30.excalidraw.md",

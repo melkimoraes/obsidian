@@ -1,0 +1,48 @@
+- [x] DASH 161 -> TRANSFORMAR PRA USUARIO NORMAL
+
+151, 145, 133, 96, 76, 72
+
+67 - 70 -> vendas ver!
+
+
+153
+
+
+DASH/IREPORT ireport  -> enviar email, marcar isso nele!?
+FILTRAR SÓ A PORTO
+TELEVENDAS
+E-COMMERCE
+
+PEDIDOS NAO PENDENTES COM NOTAS FATURADAS!
+
+PEDIDO PENDENTE -> TUDO DA PORTO
+
+
+DASH DOS FRETES! VER CTE
+TGFFNF -> NUFIN/NUNOTA -> VLRFRETE CAB -> BATER DO CTE
+
+9 HORAS DA MANHA -> RELATORIO CENARIOS -> DIRETORIA -> MARCIA 
+
+
+---
+
+Pedidos separados e notas emitidas - Depil / Raavi -> CODEMP 1 , 2 ,3, TODAS TOPS DE PEDIDO DE VENDA, - E-COMMERCE! FATURADAS D-1
+
+
+Pedidos separados e notas emitidas - Televendas - CODEMP 4 0 SÓ A TOP TELEVENDA! FATURADAS D-1
+
+Pedidos separados e notas emitidas - E-Commerce - CODEMP 4 SÓ A TOP E-COMMERCE FATURADAS D-1
+
+
+Pedidos para Início de separação na Plataforma Depil - PEDIDOS CONFIRMADOS, LIBERAÇAO ADM = SIM DO DIA ANTERIOR, CODEMP 1, 2, 3, TODAS AS TOPS MENOS E-COMMERCE!
+
+
+Previsão Faturamento e Expedição-> PEDIDOS CONFIRMADOS, LIBERAÇAO ADM NAO, DO DIA ANTERIOR, CODEMP 1,2 ,3, TODAS AS TOPS MENOS E-COMMERCE
+
+
+Pedidos confirmados abertos - Depil / Raavi -> PEDIDOS CONFIRMADOS, ABERTOS D-1 , CODEMP 1,2,3 TODAS AS TOPS MENOS E-COMMERCE
+
+
+Pedidos confirmados abertos - Televendas -> PEDIDOS CONFIRMADOS, ABERTOS D-1, CODEMP 4 TOP DE TELEVENDA!
+
+Pedidos confirmados abertos - E-Commerce -> PEDIDOS CONFIRMADOS ABERTOS D-1 CODEMP 4 TOP DE E-COMMERCE!

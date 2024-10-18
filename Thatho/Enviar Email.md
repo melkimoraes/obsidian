@@ -1,0 +1,1 @@
+E-mails da TOP -> tudo que tiver lá, que tiver o tipo Parceiro e Ativo -> vou pegar o modelo ali e mandar pro email da aba endereço ao confirmar a nota da TOP!

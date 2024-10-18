@@ -1,0 +1,48 @@
+- [x] escopar sequoia ou ativa
+- [x] wisly falar da etiqueta -> ELE VAI FAZER ETIQUETA DA ATIVA E DOS CORREIOS -> e dai podemos testar!
+- [x] wisly falar dos campos de medidas das caixas!
+	- [x] aba nova produtos -> Medidas Embalagem -> altura,largura,espessura, m3 e unidade de medida cm.
+	- [x] subir as medidas da tela AD do erick pros campos novos de medidas embalagem! e também codigo embalagem
+- [x] wisly flar do flow se da pra ver a tarefa finalizada 
+	- [x] historico do processo ou faz tela formatada que da pra ver no banco e construir um dashboard
+- [x] escopar flow vortx
+- [x] jogar integraçao equals em produçao bp
+- [x] filtros guru bp
+- [x] ver o lance de incluir com a cidade codigo ibge bruno tinha comentado - bp
+- [x] bionatus -> ver com o bruno integração frenet, eles querem sigep+rastreio tb.
+- [x] bionatus -> ver com o allyson aquela conferencia de volumes na nota de venda!
+- [x] escopo da conferencia de volumes na bionatus
+
+- [x] fazer as alteraçoes na integraçao cielo
+- [x] ver o imprimir etiqueta, wisly comentou que nao saiu nada!
+- [x] subir java cielo bioclean!
+- [x] ver com o erick alteraçoes no gerar etiqueta aonde for possivel gerar etiqueta na nota de venda sem estar confirmada alterar -> dai entao fazer o documento de gerar etiqueta e rastreio.
+- [x] ver criteria com inner join pra MB
+- [x] relembrar o guru pro caio -> pedir pro rogerio.
+- [x] TERÇA -> VER SE O ERICK PODE CONVERSAR PRA VER OS POONTOS DO FRETE LÁ! E CONFIRMAR COM ELE
+- [x] SEGUNDA -> FAZER O RELATORIO FORMATADO DOS CORREIOS E TERMINAR O OUTRO!
+- [x] LIGAR AÇAO AGENDADA BP TESTE -> EQUALS!
+- [x] SEGUNDA -> VER SE CONSIGO MOSTRAR PRA NATALIA DA BP O IMPORTAR NFSE CERTINHO -> PEDIR CODIGO DA AUTORIZAÇAO EM PRODUCAO !? TALVEZ COLCOAR O MEU EMAIL DNV PRA ISSO!
+- [x] SEGUNDA -> REENVIAR EMAIL DO GURU PRO CAIO!!
+- [x] ver as baixas cielo!
+- [x] fazer configuraçoes na bioclean dos rastreios nas transportadoras e açoes agendadas!
+- [x] fazer escopo MB!
+- [x] ativar guru em teste!
+- [x] QUARTA -> FAZER TESTE  DO LINK DE PAGAMENTO NA BIOCLEAN PRIMEIRO!
+- [x] QUARTA -> AÇOES/SCHEDULE JAVA A PARTE! bioclean!
+- [x] testar impresso etiqueta!
+- [x] logos da bioclean estao mt grandes!
+- [x] ver cielo e integraçao com transpotadoras -> se nao vai travar nada eles fazerem em cima do orçamento!
+- [x] terminar de analisar mb teste!!
+- [x] ver mensagem marcelo
+- [x] ver pro marcelo a diferença do faturamento na curva abc e no portal de vendas!
+- [x] validar dashboard na bioclean, dash colorida com os pedidos de ontem!
+- [x] alterar regra negocio cielo e quando gerar link!
+- [x] transformar dash dos pedidos na bioclean pra usuario normal
+- [x] botao de pre-visualizar boleto e imprimir pix/boleto na tgffin!
+- [x] fazer escopo notazz
+- [x] ver possibilidade da tela gerar arquivo xml/danfe -> se teria como fazer um grid pra selecionar as notas pra download.
+- [x] rodar wpm na bioclean, e ver a ação agendada da vtex!!
+- [x] amanha ver gia-sp pro gui!
+- [x] fazer documento IQVIA
+- [x] ver ClickSign -> video e doc api.

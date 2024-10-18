@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e762a5207348dc3",
+        "id": "52bea2fad6821031",
         "type": "tabs",
         "children": [
           {
-            "id": "e2bf7a45eeccea09",
+            "id": "1afa20649a288c0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioclean/Flow.md",
+                "file": "Bioclean/Flow/Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Flow"
-            }
-          },
-          {
-            "id": "24c84dd98086ebd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brasil Paralelo/Guru.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guru"
             }
           }
         ]
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioclean/Flow.md",
+                "file": "Bioclean/Flow/Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioclean/Flow.md",
+                "file": "Bioclean/Flow/Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -153,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioclean/Flow.md"
+                "file": "Bioclean/Flow/Flow.md"
               },
               "icon": "lucide-list",
               "title": "Sumário de Flow"
@@ -188,10 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2bf7a45eeccea09",
+  "active": "1afa20649a288c0f",
   "lastOpenFiles": [
-    "Bioclean/Flow.excalidraw",
-    "Bioclean/Flow.md",
+    "Bioclean/Flow",
+    "Bioclean/Flow/Flow.excalidraw",
+    "Bioclean/Flow/Flow.md",
+    "Brasil Paralelo/Guru.md",
+    "Vortx/Flow.md",
     "Excalidraw/Drawing 2024-10-18 13.40.13.excalidraw.md",
     "Bioclean/Flow.excalidraw.crswap",
     "Bioclean/plugg.to.md",
@@ -203,7 +192,6 @@
     "Excalidraw/Drawing 2024-10-18 14.08.20.excalidraw.md",
     "Bioclean/DAYS.md",
     "Excalidraw",
-    "Brasil Paralelo/Guru.md",
     "JotaFlex/ireport.md",
     "JotaFlex/DAYS.md",
     "VGX/ClickSign.md",
@@ -219,7 +207,6 @@
     "Sem título.canvas",
     "Bioclean/Integração Transportadoras.md",
     "2024-09-20.md",
-    "Bionatus/Botao Login.md",
     "Sanches",
     "Pasted image 20240819175130.png",
     "JotaFlex",

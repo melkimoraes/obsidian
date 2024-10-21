@@ -70,9 +70,9 @@ Mapeamento Principal
 		- quando forçado o pedido a gente capturar a etiqueta pra eles imprirem em sankhya.
 	- Tipo de negociação -> se for padrao da plugto sem ser por marktplace -> vou fazer uma tela pra fazer depara.
 
-- [ ] Etiqueta -> eles enviam ela emitida e enviam a etiqueta impressa ?
+- [ ] Etiqueta -> eles enviam ela emitida e enviam a etiqueta impressa?
 - [ ] Como anexar o produto aos marketplaces -> é pela tabela de preço?
-- [ ] Cadastro de produto já pede um preço e preço especial fora do cadsatro do produto??
+- [ ] Cadastro de produto já pede um preço e preço especial fora do cadastro do produto??
 
 ---
 

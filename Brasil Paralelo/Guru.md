@@ -18,3 +18,6 @@ Nf Serviço -> cancelar se tiver dentro do mesmo mês.  ou até o quinto dia do 
 expired, chargeback e refunded e canceled
 
 expired → pix e boletos expirados
+
+
+gravar o marketplace id → pra depara bem melhor!

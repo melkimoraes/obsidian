@@ -11,3 +11,7 @@ Nf produto -> se dentro de 24 horas da data de emissao -> tento cancelar
 			-> senao devolução
 
 Nf Serviço -> cancelar se tiver dentro do mesmo mês.  ou até o quinto dia do mês subsequente.
+
+
+---
+

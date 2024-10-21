@@ -72,3 +72,4 @@ Mapeamento Principal
 
 - [ ] Etiqueta -> eles enviam ela emitida e enviam a etiqueta impressa ?
 - [ ] Como anexar o produto aos marktplaces -> é pela tabela de preço?
+- [ ] Cadastro de produto já pede um preço e preço especial fora do cadsatro do produto??

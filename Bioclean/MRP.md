@@ -23,3 +23,7 @@ TRG_IU_AD_TPRMRS2_BC  -> deixa muito lento
 - [x] E na dash aonde eles geram as cotaçoes do MRP -> ter opçao de gerar Cotação OU o Pedido de Compra, sem cotar!
 
 Sem. 01 - Qtd. Req. Compra: -> vai ter que olhar a top 1318, nao mais a requisição.
+
+---
+
+https://www.diffchecker.com/Dbmo7yot/

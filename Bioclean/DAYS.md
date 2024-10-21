@@ -102,3 +102,16 @@
 - Ajustamos o Gerar MRP -> trigger em partes fiz alguns ajustes pra parar o erro fantasma. Testei varias vezes com a Luciana.
 - Ajustamos a Proc de Ajustar Vlr Outros novamente com o Robinho -> visto alguns casos que o valor outros ficou certo porem financeiros errados.
 - Inicio do mapeamento da Plugg.to
+
+
+21/10
+Estoque atual → uma coluna com quanto que eu consumo de produto, com base em um range de data, tudo que a OP consumiu (aquela coluna na consulta que fica como Produção) → com base nisso.
+quantidade que comprou → que entrou
+media pelos dias de consumo
+
+dias de estoque
+consumo do produto
+quantidade que comprou
+média de consumo com base nos dias de estoque
+
+TIRA COLUNA EMPRESA → VAI TER FILTRO DE EMPRESA, MAS ELE VAI SOMAR TUDO!!

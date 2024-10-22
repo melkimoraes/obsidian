@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,13 +211,13 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "fde8767a26203e22",
+  "active": "b8360f3c94090de7",
   "lastOpenFiles": [
+    "Brasil Paralelo/Guru.md",
+    "Bioclean/Plugg.to.md",
     "Diario/21-10-2024.md",
     "Bioclean/DAYS.md",
     "⭐.md",
-    "Bioclean/Plugg.to.md",
-    "Brasil Paralelo/Guru.md",
     "Bioclean/MRP.md",
     "Diario/18-10-2024.md",
     "Diario/28-10-2024.md",

@@ -80,3 +80,4 @@ o produto das tabelas de preço vai ta na origem! na TGFEXC!
 
 
 Exceção do produto → 
+DIMENSOES EMBALAGEM → MANDAR VAZIO

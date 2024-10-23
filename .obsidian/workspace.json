@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioclean/Plugg.to.md",
+                "file": "Diario/23-10-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Plugg.to"
+              "title": "Links de saída para 23-10-2024"
             }
           },
           {
@@ -181,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioclean/Plugg.to.md"
+                "file": "Diario/23-10-2024.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Plugg.to"
+              "title": "Sumário de 23-10-2024"
             }
           },
           {
@@ -227,10 +227,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "353249fde52ecbe8",
+  "active": "6933874c0aeb565c",
   "lastOpenFiles": [
-    "⭐.md",
     "Bioclean/Plugg.to.md",
+    "⭐.md",
     "Brasil Paralelo/Guru.md",
     "Diario/23-10-2024.md",
     "Bioclean/DAYS.md",

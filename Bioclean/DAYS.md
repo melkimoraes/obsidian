@@ -109,7 +109,7 @@ Estoque atual → uma coluna com quanto que eu consumo de produto, com base em u
 quantidade que comprou → que entrou
 media pelos dias de consumo
 
-dias de estoque
+dias de estoque 🆗
 consumo do produto 🆗
 quantidade que comprou 🆗
 média de consumo com base nos dias de estoque

@@ -76,10 +76,8 @@ Mapeamento Principal
 
 ---
 
-o produto das tabelas de preço vai ta na origem! na TGFEXC!
-
 
 Exceção do produto → 
-DIMENSOES EMBALAGEM → MANDAR VAZIO
-Origem do Produto → Procedencia Nacional
-imagens →
+	DIMENSOES EMBALAGEM → MANDAR VAZIO
+	Origem do Produto → Procedência Nacional
+	Imagens → TESTAR AS ABAS DE ANEXOS DO CADASTRO DO PRODUTO

@@ -110,8 +110,8 @@ quantidade que comprou → que entrou
 media pelos dias de consumo
 
 dias de estoque
-consumo do produto
-quantidade que comprou
+consumo do produto 🆗
+quantidade que comprou 🆗
 média de consumo com base nos dias de estoque
 
 TIRA COLUNA EMPRESA → VAI TER FILTRO DE EMPRESA, MAS ELE VAI SOMAR TUDO!!

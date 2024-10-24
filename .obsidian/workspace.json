@@ -49,7 +49,8 @@
               "title": "24-10-2024"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,12 +213,12 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "353249fde52ecbe8",
+  "active": "b8360f3c94090de7",
   "lastOpenFiles": [
+    "Bioclean/Plugg.to.md",
     "⭐.md",
     "Diario/24-10-2024.md",
     "Diario/23-10-2024.md",
-    "Bioclean/Plugg.to.md",
     "Brasil Paralelo/Guru.md",
     "Bioclean/DAYS.md",
     "Diario/21-10-2024.md",

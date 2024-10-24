@@ -78,6 +78,9 @@ Mapeamento Principal
 
 
 Exceção do produto → 
-	DIMENSOES EMBALAGEM → MANDAR VAZIO
-	Origem do Produto → Procedência Nacional
+	DIMENSOES EMBALAGEM → MANDAR VAZIO ok
+	Origem do Produto → Procedência Nacional → criar campo na tela de produto plugg.to
+	Criar todos os campos que estamos subindo como cadastro do produto! os que puxamos do cadastro do produto sankhya, deixa somente leitura  e o de origem como é um campo especifico plugg.to deixa pra preencher obrigatorio!
 	Imagens → TESTAR AS ABAS DE ANEXOS DO CADASTRO DO PRODUTO
+
+nas ações agendadas de atualização de preço e estoque assim como no processar do produto → só substitui o log do estoque/preço caso tenha alterado esse valor!

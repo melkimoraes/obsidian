@@ -74,6 +74,7 @@ Mapeamento Principal
 - [x] Como anexar o produto aos marketplaces -> é pela tabela de preço?
 - [ ] Cadastro de produto já pede um preço e preço especial fora do cadastro do produto??
 - [ ] Oq diz pra plugg.to que quero parar a venda de um produto?? Tipo desativar!?
+- [ ] Imagens → precisa ser url → ver com o erick
 
 ---
 

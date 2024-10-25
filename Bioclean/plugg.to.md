@@ -87,3 +87,5 @@ Exceção do produto →
 	Imagens → TESTAR AS ABAS DE ANEXOS DO CADASTRO DO PRODUTO
 
 nas ações agendadas de atualização de preço e estoque assim como no processar do produto → só substitui o log do estoque/preço caso tenha alterado esse valor!
+
+fazer a exceção do preço dos produtos!

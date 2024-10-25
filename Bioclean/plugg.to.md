@@ -89,4 +89,6 @@ Exceção do produto →
 
 nas ações agendadas de atualização de preço e estoque assim como no processar do produto → só substitui o log do estoque/preço caso tenha alterado esse valor! 🆗
 
-fazer a exceção do preço dos produtos! 
+to-do
+- [ ] exceção do preço dos produtos!
+- [ ] desativação do produto!

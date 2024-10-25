@@ -74,6 +74,7 @@ Mapeamento Principal
 - [x] Como anexar o produto aos marketplaces -> é pela tabela de preço?
 - [ ] Cadastro de produto já pede um preço e preço especial fora do cadastro do produto??
 - [ ] Oq diz pra plugg.to que quero parar a venda de um produto?? Tipo desativar!? → depois ver, o arquivor do produto na plugg.to! talvez o caminho seja esse!
+	- [ ] fazer o teste, mas se eu quero cancelar a venda em um marketplace, basta eu sumir com a tabela de preço!?
 - [x] Imagens → precisa ser url → ver com o erick
 - [x] Nas fotos, preenchi o externla mas nao o url!
 
@@ -88,4 +89,4 @@ Exceção do produto →
 
 nas ações agendadas de atualização de preço e estoque assim como no processar do produto → só substitui o log do estoque/preço caso tenha alterado esse valor! 🆗
 
-fazer a exceção do preço dos produtos!
+fazer a exceção do preço dos produtos! 

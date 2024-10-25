@@ -90,5 +90,43 @@ Exceção do produto →
 nas ações agendadas de atualização de preço e estoque assim como no processar do produto → só substitui o log do estoque/preço caso tenha alterado esse valor! 🆗
 
 to-do
-- [ ] exceção do preço dos produtos!
-- [ ] desativação do produto!
+- [ ] exceção do preço dos produtos! → tava construindo pra por um union all no select, falto a parte das contas com o campo TIPO da TGFEXC! o duro que se for porcentagem vou ter que fazer conta com o valor de venda da tabela original!
+- [ ] desativação do produto! → testar o arquivar na plugg.to talvez descobrindo no postman qual campo diz respeito a isso!? se bem que se for desativar de um marketplace nao descobrimos
+
+```
+SELECT MKT.CODMKTPLC,
+  MKT.DESCRMKTPLC,
+  TAB.CODTAB,
+  TAB2.NUTAB,
+  EXC.CODPROD,
+  EXC.VLRVENDA AS VLRVENDAORIG,
+  ROUND((CASE WHEN NVL(TAB.PERCENTUAL,0) <> 0 THEN (((TAB.PERCENTUAL/100)*EXC.VLRVENDA)+EXC.VLRVENDA) ELSE EXC.VLRVENDA END),2) AS VLRVENDA,
+  NVL(TAB.PERCENTUAL,0) AS PERCENTUAL
+   FROM AD_MKTPLCPLGT MKT
+   INNER JOIN TGFTAB TAB ON TAB.CODTAB = MKT.CODTAB AND TAB.DTVIGOR = (SELECT MAX(DTVIGOR)
+FROM TGFTAB
+ WHERE DTVIGOR <= SYSDATE
+AND CODTAB = TAB.CODTAB)
+   INNER JOIN TGFTAB TAB2 ON TAB2.CODTAB = TAB.CODTABORIG AND TAB2.DTVIGOR = (SELECT MAX(DTVIGOR)
+FROM TGFTAB
+ WHERE DTVIGOR <= SYSDATE
+AND CODTAB = TAB2.CODTAB)
+   INNER JOIN TGFEXC EXC ON EXC.NUTAB = TAB2.NUTAB
+   WHERE MKT.ATIVO='S'
+   AND EXC.CODPROD=748
+   AND NOT EXISTS (SELECT CODPROD FROM TGFEXC WHERE NUTAB=TAB.NUTAB);
+   
+   
+SELECT MKT.CODMKTPLC,
+  MKT.DESCRMKTPLC,
+  TAB.CODTAB,
+  TAB.NUTAB,
+  EXC.CODPROD
+FROM AD_MKTPLCPLGT MKT
+   INNER JOIN TGFTAB TAB ON TAB.CODTAB = MKT.CODTAB AND TAB.DTVIGOR = (SELECT MAX(DTVIGOR)
+FROM TGFTAB
+ WHERE DTVIGOR <= SYSDATE
+AND CODTAB = TAB.CODTAB)
+INNER JOIN TGFEXC EXC ON EXC.NUTAB = TAB.NUTAB
+WHERE EXC.CODPROD=748;
+```

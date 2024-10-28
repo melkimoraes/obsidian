@@ -135,3 +135,21 @@ AND CODTAB = TAB.CODTAB)
 INNER JOIN TGFEXC EXC ON EXC.NUTAB = TAB.NUTAB
 WHERE EXC.CODPROD=748;
 ```
+
+
+
+---
+
+PA2600
+PA2785
+PA2606
+PA2468
+PA2770
+
+
+
+- inserir eles na plugg.to -> OK
+- inserir tabela de preço - 10% beleza na web -> OK
+- colocar dimensões embalagem na integração -> ESPERANDO RETORNO
+- colocar categoria -> pegar perfil -> criar perfil plugg.to -> PUXAR DA CATEGORIA VTEX
+- colocar descrição e-commerce. -> PUXAR DA TELA DA VTEX PRA CAMPO NA PLUGG.TO

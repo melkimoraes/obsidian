@@ -52,7 +52,7 @@ Mapeamento Principal
 	- Produto
 		- vai querer selecionar o produto do sankhya e enviar pra plugg.to -> e dai quando inserir retornar o id plug.too em sankhya também.
 	- Marktplace -> o marktplace -> vai ter que importar 
-		- e variso campos que vamos usar pra tabela de preço, tipo de negociação, empresa, vendedor.
+		- e varios campos que vamos usar pra tabela de preço, tipo de negociação, empresa, vendedor.
 	- Preço
 		- o preço vai ser por marktplace, entao no sankhya vmaos ter uma tabela pai PLUGGTO e dai as filhas por marktplace!
 		- Ação agendada pra atualizar o preço de tempo em tempo.
@@ -76,6 +76,7 @@ Mapeamento Principal
 - [ ] Oq diz pra plugg.to que quero parar a venda de um produto?? Tipo desativar!? → depois ver, o arquivor do produto na plugg.to! talvez o caminho seja esse!
 	- [ ] fazer o teste, mas se eu quero cancelar a venda em um marketplace, basta eu sumir com a tabela de preço!?
 	- [ ] inclusive não pensei aonde jogar o desativar produto pra um marketplace especifico!
+- [ ] Perguntar do produto kit → se eles colocarem um kit PK na tela eu vou ler e entendo que é um kit, vejo se os componentes estão cadastrados no pluggto e mando inserir o kit!?
 - [x] Imagens → precisa ser url → ver com o erick
 - [x] Nas fotos, preenchi o externla mas nao o url!
 

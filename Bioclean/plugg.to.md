@@ -75,6 +75,7 @@ Mapeamento Principal
 - [ ] Cadastro de produto já pede um preço e preço especial fora do cadastro do produto??
 - [ ] Oq diz pra plugg.to que quero parar a venda de um produto?? Tipo desativar!? → depois ver, o arquivor do produto na plugg.to! talvez o caminho seja esse!
 	- [ ] fazer o teste, mas se eu quero cancelar a venda em um marketplace, basta eu sumir com a tabela de preço!?
+	- [ ] inclusive não pensei aonde jogar o desativar produto pra um marketplace especifico!
 - [x] Imagens → precisa ser url → ver com o erick
 - [x] Nas fotos, preenchi o externla mas nao o url!
 

@@ -96,7 +96,7 @@ nas ações agendadas de atualização de preço e estoque assim como no process
 to-do
 - [x] exceção do preço dos produtos! → tava construindo pra por um union all no select, falto a parte das contas com o campo TIPO da TGFEXC! o duro que se for porcentagem vou ter que fazer conta com o valor de venda da tabela original!
 - [ ] desativação do produto! → testar o arquivar na plugg.to talvez descobrindo no postman qual campo diz respeito a isso!? se bem que se for desativar de um marketplace nao descobrimos
-- [ ] FAZER O KIT! DEPOS DE DISCUTIR COM A TATI E ERICK
+- [ ] FAZER O KIT! 
 
 ```
 SELECT MKT.CODMKTPLC,

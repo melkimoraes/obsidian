@@ -90,7 +90,7 @@ Exceção do produto →
 nas ações agendadas de atualização de preço e estoque assim como no processar do produto → só substitui o log do estoque/preço caso tenha alterado esse valor! 🆗
 
 to-do
-- [ ] exceção do preço dos produtos! → tava construindo pra por um union all no select, falto a parte das contas com o campo TIPO da TGFEXC! o duro que se for porcentagem vou ter que fazer conta com o valor de venda da tabela original!
+- [x] exceção do preço dos produtos! → tava construindo pra por um union all no select, falto a parte das contas com o campo TIPO da TGFEXC! o duro que se for porcentagem vou ter que fazer conta com o valor de venda da tabela original!
 - [ ] desativação do produto! → testar o arquivar na plugg.to talvez descobrindo no postman qual campo diz respeito a isso!? se bem que se for desativar de um marketplace nao descobrimos
 
 ```

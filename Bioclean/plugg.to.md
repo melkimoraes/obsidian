@@ -74,9 +74,10 @@ Mapeamento Principal
 - [x] Como anexar o produto aos marketplaces -> é pela tabela de preço?
 - [ ] Cadastro de produto já pede um preço e preço especial fora do cadastro do produto??
 - [ ] Oq diz pra plugg.to que quero parar a venda de um produto?? Tipo o arquivar!? mas nao tem algo na API deles que fala como arquivar, sei que eles pedem pra zerar estoque
-	- [ ] testar o campo archived como true 
+	- [ ] testar o campo archived como true e zerar os estoques!
 	- [ ] fazer o teste, mas se eu quero cancelar a venda em um marketplace, basta eu sumir com a tabela de preço!?
 	- [ ] inclusive não pensei aonde jogar o desativar produto pra um marketplace especifico!
+		- [ ] vi como exemplo o mercado livre o enviar produtos (novo anuncio direto no marketplace) → mas isso na tela da pluggto!
 - [ ] Perguntar do produto kit → se eles colocarem um kit PK na tela eu vou ler e entendo que é um kit, vejo se os componentes estão cadastrados no pluggto e mando inserir o kit!?
 - [x] Imagens → precisa ser url → ver com o erick
 - [x] Nas fotos, preenchi o externla mas nao o url!

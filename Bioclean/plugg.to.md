@@ -152,4 +152,4 @@ PA2770
 - inserir tabela de preço - 10% beleza na web -> OK
 - colocar dimensões embalagem na integração -> ESPERANDO RETORNO
 - colocar categoria -> pegar perfil -> criar perfil plugg.to -> PUXAR DA CATEGORIA VTEX
-- colocar descrição e-commerce. -> PUXAR DA TELA DA VTEX PRA CAMPO NA PLUGG.TO
+- colocar descrição e-commerce. -> PUXAR DA TELA DA VTEX PRA CAMPO NA PLUGG.TO → OK

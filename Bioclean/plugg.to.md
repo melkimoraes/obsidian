@@ -96,7 +96,8 @@ nas ações agendadas de atualização de preço e estoque assim como no process
 to-do
 - [x] exceção do preço dos produtos! → tava construindo pra por um union all no select, falto a parte das contas com o campo TIPO da TGFEXC! o duro que se for porcentagem vou ter que fazer conta com o valor de venda da tabela original!
 - [ ] desativação do produto! → testar o arquivar na plugg.to talvez descobrindo no postman qual campo diz respeito a isso!? se bem que se for desativar de um marketplace nao descobrimos
-- [ ] FAZER O KIT! 
+- [x] FAZER O KIT! 
+- [ ] Talvez tirar Empresa da tela de Configuração já que vou usar nota modelo pra gerar o pedido!
 
 ```
 SELECT MKT.CODMKTPLC,
@@ -153,3 +154,7 @@ PA2770
 - colocar dimensões embalagem na integração -> ESPERANDO RETORNO
 - colocar categoria -> pegar perfil -> criar perfil plugg.to -> PUXAR DA CATEGORIA VTEX
 - colocar descrição e-commerce. -> PUXAR DA TELA DA VTEX PRA CAMPO NA PLUGG.TO → OK
+
+
+
+

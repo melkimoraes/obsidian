@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioclean/Plugg.to.md",
+                "file": "Diario/30-10-2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plugg.to"
+              "title": "30-10-2024"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "⭐"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +199,11 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "48fd4eb41758f604",
+  "active": "b8360f3c94090de7",
   "lastOpenFiles": [
-    "⭐.md",
+    "Diario/30-10-2024.md",
     "Bioclean/Plugg.to.md",
+    "⭐.md",
     "Brasil Paralelo/Notazz.md",
     "Brasil Paralelo/Guru.md",
     "Diario/25-10-2024.md",
@@ -234,7 +236,6 @@
     "BP Matoso.md",
     "2024-10-18.md",
     "Kanban sem título.md",
-    "Bioclean/Atualiza KITS.md",
     "Bioclean/Flow",
     "Sem título.canvas",
     "Pasted image 20240819175130.png",

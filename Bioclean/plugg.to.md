@@ -98,6 +98,8 @@ to-do
 - [ ] desativação do produto! → testar o arquivar na plugg.to talvez descobrindo no postman qual campo diz respeito a isso!? se bem que se for desativar de um marketplace nao descobrimos
 - [x] FAZER O KIT! 
 - [ ] Talvez tirar Empresa da tela de Configuração já que vou usar nota modelo pra gerar o pedido!
+- [ ] Fazer tela de Log do processar pedido
+- [ ] Abas na tela de produtos como - Frete, Itens, Pagamento, Cliente
 
 ```
 SELECT MKT.CODMKTPLC,

@@ -95,7 +95,7 @@ nas ações agendadas de atualização de preço e estoque assim como no process
 
 to-do
 - [x] exceção do preço dos produtos! → tava construindo pra por um union all no select, falto a parte das contas com o campo TIPO da TGFEXC! o duro que se for porcentagem vou ter que fazer conta com o valor de venda da tabela original!
-- [ ] desativação do produto! → testar o arquivar na plugg.to talvez descobrindo no postman qual campo diz respeito a isso!? se bem que se for desativar de um marketplace nao descobrimos
+- [x] desativação do produto! → testar o arquivar na plugg.to talvez descobrindo no postman qual campo diz respeito a isso!? se bem que se for desativar de um marketplace nao descobrimos
 - [x] FAZER O KIT! 
 - [ ] Talvez tirar Empresa da tela de Configuração já que vou usar nota modelo pra gerar o pedido!
 - [ ] Fazer tela de Log do processar pedido
@@ -160,6 +160,7 @@ PA2770
 status do pedido → vai estar pendente, aprovar (atualizar na buscaPedido)
 status do pedido → despacho, dados de entrega
 
+uma vez o pedido aprovado → pode ser cancelado.
 
 
 

@@ -101,6 +101,8 @@ to-do
 - [x] desativação do produto! → testar o arquivar na plugg.to talvez descobrindo no postman qual campo diz respeito a isso!? se bem que se for desativar de um marketplace nao descobrimos
 - [x] FAZER O KIT! 
 - [x] ver primeiro o erro do produto já processado!
+- [ ] qualquer hora testar o erro que deu quando enviei varios produtos pra processar e um produto com erro fez nao atualizar o cadastro sankhya pluggto, coloquei o wrapperVO persist → só testar em teste com algum produto que nao tem estoque enviando junto com varios pra pluggto!
+- [ ] testar cadastro do cliente → e dai de quebra criar a aba cliente com as informaçoes! e a informaçao de entrega!
 - [ ] Talvez tirar Empresa da tela de Configuração já que vou usar nota modelo pra gerar o pedido!
 - [ ] Fazer tela de Log do processar pedido
 - [ ] Abas na tela de produtos como - Frete, Itens, Pagamento, Cliente

@@ -158,10 +158,15 @@ PA2770
 - colocar descrição e-commerce. -> PUXAR DA TELA DA VTEX PRA CAMPO NA PLUGG.TO → OK
 
 status do pedido → vai estar pendente, aprovar (atualizar na buscaPedido)
-status do pedido → despacho, dados de entrega
+status do pedido → envia a fatura (talvez com o id do endereço!)
+status do pedido → envia os dados do frete (caso for em sankhya)
 depois status do pedido → entregue
 
 uma vez o pedido aprovado → pode ser cancelado.
 
 
+camila:
+
+- [ ] ver o cancelamento do produto - desativação
+- [ ] me informar se realmente o dado da fatura que eu envio vai ser com o id do endereço, mas pelo oq eu vi é isso msm!
 

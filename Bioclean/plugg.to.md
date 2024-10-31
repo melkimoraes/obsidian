@@ -159,6 +159,7 @@ PA2770
 
 status do pedido → vai estar pendente, aprovar (atualizar na buscaPedido)
 status do pedido → despacho, dados de entrega
+depois status do pedido → entregue
 
 uma vez o pedido aprovado → pode ser cancelado.
 

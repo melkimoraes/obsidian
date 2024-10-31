@@ -157,6 +157,9 @@ PA2770
 - colocar categoria -> pegar perfil -> criar perfil plugg.to -> PUXAR DA CATEGORIA VTEX
 - colocar descrição e-commerce. -> PUXAR DA TELA DA VTEX PRA CAMPO NA PLUGG.TO → OK
 
+status do pedido → vai estar pendente, aprovar (atualizar na buscaPedido)
+status do pedido → despacho, dados de entrega
+
 
 
 

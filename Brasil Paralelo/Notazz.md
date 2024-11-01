@@ -73,7 +73,7 @@ PRAS NOTAS DE NFE:
 
 
 
-2412005 campo Cidade -> na NFS
+2412005 campo Cidade -> na NFS → feito, verificando principalmente se tiver o campo preenchido no xml e também se o  CEP tiver preenchido ou for diferente de 99999999
 	NA NFE -> campo cMun,
 -> verificação código municipo fiscal ambas os tipos
 

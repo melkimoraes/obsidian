@@ -73,16 +73,14 @@ PRAS NOTAS DE NFE:
 
 
 
-2412005 campo Cidade -> na NFS → feito, verificando principalmente se tiver o campo preenchido no xml e também se o  CEP tiver preenchido ou for diferente de 99999999
+campo Cidade -> na NFS → feito, verificando principalmente se tiver o campo preenchido no xml e também se o  CEP tiver preenchido ou for diferente de 99999999
 	NA NFE -> campo cMun, → feito
 -> verificação código municipo fiscal ambas os tipos
 
-preencher no cadastro da cidade o campo Mun. domicílio fiscal:
 
 
-
--> se na nota fiscal de serviço eu não tiver cpf, vou por EUA
-	-> na nota eletrônica -> eu vou verificar se o Pais tem nota eletrônica está correto no cadastro Sankhya.
+-> se na nota fiscal de serviço eu não tiver cpf, vou por EUA → ok
+	-> na nota eletrônica -> eu vou verificar se o Pais tem nota eletrônica está correto no cadastro Sankhya. → ok
 
 
 

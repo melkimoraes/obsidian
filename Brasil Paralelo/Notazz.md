@@ -68,3 +68,25 @@ PRAS NOTAS DE NFE:
 - [x] ver o nota cancelada 29/07 
 - [ ] inserir notas canceladas que nao tiverem a aprovada em sankhya -> pra cancelar.
 - [ ] dia 15 nao tem nota duplicada, 9199 é a quantidade de linhas de notas que o notazz integrou.
+
+
+
+
+
+2412005 campo Cidade -> na NFS
+	NA NFE -> campo cMun,
+-> verificação código municipo fiscal ambas os tipos
+
+preencher no cadastro da cidade o campo Mun. domicílio fiscal:
+
+
+
+-> se na nota fiscal de serviço eu não tiver cpf, vou por EUA
+	-> na nota eletrônica -> eu vou verificar se o Pais tem nota eletrônica está correto no cadastro Sankhya.
+
+
+
+Devolução -> só nas notas de NFEA
+-> criar campo de TOP Devolução -> Config Notazz -> top 1200 -> ver o tpNF = "0" na devolução.
+
+

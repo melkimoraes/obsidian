@@ -4,6 +4,7 @@ token = 99bf8db7-e7ae-4003-b153-42410517027e|G5dj5IocUng2LL9KJcfhgJBTaFSeSCd9HWE
 https://docs.digitalmanager.guru/developers/transactions
 
 - [x] botar em teste sem numero de paginas na importação pra testar!
+- [ ] ver busca de cadastro de clientes → fazer igual notazz, sem cpf nome e email!
 
 ---
 

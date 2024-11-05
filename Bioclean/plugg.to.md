@@ -177,7 +177,7 @@ uma vez o pedido aprovado → pode ser cancelado.
 
 aprovado → faturado → entrega informada → enviado → entregue
 aprovado → tentei aprovar noa foi
-faturado → ao gerar NFe
+faturado → ao gerar NFe → pra enviar o faturado lembro que tive que ter o id do shipment!
 entrega informada → nao achei, tem o shipped → porem é quando foi enviado pelo oq eu entendi
 enviado → shipped! nao sei ainda quando vou atualizar isso, nao sei se vai ser atraves do rastreio dai
 entregue → aqui sim talvez com o rastreio concluido no status final! delivered

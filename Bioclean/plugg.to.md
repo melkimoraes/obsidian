@@ -175,6 +175,11 @@ depois status do pedido → entregue
 
 uma vez o pedido aprovado → pode ser cancelado.
 
+aprovado → faturado → entrega informada → enviado → entregue
+aprovado → tentei aprovar noa foi
+faturado → ao gerar NFe
+entrega informada → 
+
 
 camila:
 

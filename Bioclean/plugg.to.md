@@ -81,7 +81,6 @@ Mapeamento Principal
 - [x] Perguntar do produto kit → se eles colocarem um kit PK na tela eu vou ler e entendo que é um kit, vejo se os componentes estão cadastrados no pluggto e mando inserir o kit!?
 - [x] Imagens → precisa ser url → ver com o erick
 - [x] Nas fotos, preenchi o externla mas nao o url!
-- [ ] melhor colocar o Processar Produto, Processar Pedido como transação manual
 
 ---
 
@@ -108,7 +107,9 @@ to-do
 - [x] testar cadastro do cliente → e dai de quebra criar a aba cliente com as informaçoes! e a informaçao de entrega!
 - [ ] Talvez tirar Empresa da tela de Configuração já que vou usar nota modelo pra gerar o pedido!
 - [ ] Fazer tela de Log do processar pedido
+- [ ] melhor colocar o Processar Produto, Processar Pedido como transação manual
 - [ ] Abas na tela de produtos como - Frete, Itens, Pagamento, Cliente
+- [ ] ver oq mais a Tati precisa na te al d
 
 ```
 SELECT MKT.CODMKTPLC,

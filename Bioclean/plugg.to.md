@@ -108,8 +108,8 @@ to-do
 - [ ] Talvez tirar Empresa da tela de Configuração já que vou usar nota modelo pra gerar o pedido!
 - [ ] Fazer tela de Log do processar pedido
 - [ ] melhor colocar o Processar Produto, Processar Pedido como transação manual
-- [ ] Abas na tela de produtos como - Frete, Itens, Pagamento, Cliente
-- [ ] ver oq mais a Tati precisa na te al d
+- [x] Abas na tela de produtos como - Frete, Itens, Pagamento, Cliente
+- [ ] ver oq mais a Tati precisa na tela de Pedidos → nao coloquei informaçoes do cliente em especifico!
 
 ```
 SELECT MKT.CODMKTPLC,

@@ -167,6 +167,7 @@ PA2770
 - colocar descrição e-commerce. -> PUXAR DA TELA DA VTEX PRA CAMPO NA PLUGG.TO → OK
 
 status do pedido → vai estar pendente, aprovar (atualizar na buscaPedido)
+→ processando o pedido sankhya vai mandar o pedido + ack true lá
 status do pedido → envia a fatura (talvez com o id do endereço!)
 status do pedido → envia os dados do frete (caso for em sankhya)
 depois status do pedido → entregue

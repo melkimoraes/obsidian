@@ -81,6 +81,7 @@ Mapeamento Principal
 - [x] Perguntar do produto kit → se eles colocarem um kit PK na tela eu vou ler e entendo que é um kit, vejo se os componentes estão cadastrados no pluggto e mando inserir o kit!?
 - [x] Imagens → precisa ser url → ver com o erick
 - [x] Nas fotos, preenchi o externla mas nao o url!
+- [ ] testar se o shippment id vai ser preenchido em um pedido teste e entao da pra testar o faturamento! e começar o schedule!
 
 ---
 

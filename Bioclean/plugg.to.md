@@ -169,7 +169,7 @@ PA2770
 
 status do pedido → vai estar pendente, aprovar (atualizar na buscaPedido)
 → processando o pedido sankhya vai mandar o pedido + ack true lá
-status do pedido → envia a fatura (talvez com o id do endereço!)
+status do pedido → envia a fatura (talvez com o id do endereço!) → aqui verificar o status dele melhor!?
 status do pedido → envia os dados do frete (caso for em sankhya) → mas no caso depois da fatura , vai ter que fazer o gerar etiqueta procurando aquele labels pelo id do pedido! pra retornar a etiqueta
 depois status do pedido → entregue
 

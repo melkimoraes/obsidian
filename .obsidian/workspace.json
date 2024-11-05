@@ -49,7 +49,8 @@
               "title": "⭐"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,12 +213,12 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "0cf482860c1f8d1c",
+  "active": "07397a9118dac924",
   "lastOpenFiles": [
+    "Bioclean/DAYS.md",
     "Diario/04-11-2024.md",
     "Bioclean/Plugg.to.md",
     "⭐.md",
-    "Bioclean/DAYS.md",
     "Brasil Paralelo/Notazz.md",
     "Brasil Paralelo/Guru.md",
     "Diario/30-10-2024.md",

@@ -97,6 +97,7 @@ nas ações agendadas de atualização de preço e estoque assim como no process
 fazer na extensao
 - [ ] colocar nro pedido pluggto na TGFCAB
 - [ ] colocar campo parcela pluggto na TGFCAB!
+- [ ] colocar marketplace na TGFCAB
 
 to-do
 - [x] exceção do preço dos produtos! → tava construindo pra por um union all no select, falto a parte das contas com o campo TIPO da TGFEXC! o duro que se for porcentagem vou ter que fazer conta com o valor de venda da tabela original!

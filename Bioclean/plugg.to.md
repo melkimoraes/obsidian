@@ -82,7 +82,7 @@ Mapeamento Principal
 - [x] Imagens → precisa ser url → ver com o erick
 - [x] Nas fotos, preenchi o externla mas nao o url!
 - [x] testar se o shippment id vai ser preenchido em um pedido teste e entao da pra testar o faturamento! e começar o schedule!
-- [ ] transportadora company tem quando busco o pedido sozinho!!
+- [x] transportadora company tem quando busco o pedido sozinho!!
 - [ ] colocar ações agendadas de busca de pedidos e também processamento de pedido!
 
 ---

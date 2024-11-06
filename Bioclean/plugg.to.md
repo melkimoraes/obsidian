@@ -98,6 +98,7 @@ fazer na extensao
 - [ ] colocar nro pedido pluggto na TGFCAB
 - [ ] colocar campo parcela pluggto na TGFCAB!
 - [ ] colocar marketplace na TGFCAB
+- [ ] na tabela de Pagamentos Pluggto → colocar CODPAG de vez de ID!
 
 to-do
 - [x] exceção do preço dos produtos! → tava construindo pra por um union all no select, falto a parte das contas com o campo TIPO da TGFEXC! o duro que se for porcentagem vou ter que fazer conta com o valor de venda da tabela original!

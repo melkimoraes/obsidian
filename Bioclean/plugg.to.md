@@ -81,7 +81,8 @@ Mapeamento Principal
 - [x] Perguntar do produto kit → se eles colocarem um kit PK na tela eu vou ler e entendo que é um kit, vejo se os componentes estão cadastrados no pluggto e mando inserir o kit!?
 - [x] Imagens → precisa ser url → ver com o erick
 - [x] Nas fotos, preenchi o externla mas nao o url!
-- [ ] testar se o shippment id vai ser preenchido em um pedido teste e entao da pra testar o faturamento! e começar o schedule!
+- [x] testar se o shippment id vai ser preenchido em um pedido teste e entao da pra testar o faturamento! e começar o schedule!
+- [ ] colocar ações agendadas de busca de pedidos e também processamento de pedido!
 
 ---
 
@@ -105,7 +106,7 @@ to-do
 - [x] desativação do produto! → testar o arquivar na plugg.to talvez descobrindo no postman qual campo diz respeito a isso!? se bem que se for desativar de um marketplace nao descobrimos
 - [x] FAZER O KIT! 
 - [x] ver primeiro o erro do produto já processado!
-- [ ] qualquer hora testar o erro que deu quando enviei varios produtos pra processar e um produto com erro fez nao atualizar o cadastro sankhya pluggto, coloquei o wrapperVO persist → só testar em teste com algum produto que nao tem estoque enviando junto com varios pra pluggto!
+- [x] qualquer hora testar o erro que deu quando enviei varios produtos pra processar e um produto com erro fez nao atualizar o cadastro sankhya pluggto, coloquei o wrapperVO persist → só testar em teste com algum produto que nao tem estoque enviando junto com varios pra pluggto!
 - [x] testar cadastro do cliente → e dai de quebra criar a aba cliente com as informaçoes! e a informaçao de entrega!
 - [ ] Talvez tirar Empresa da tela de Configuração já que vou usar nota modelo pra gerar o pedido!
 - [ ] Fazer tela de Log do processar pedido → fiz log direto no pedido, se caso precisar pode ser sim!! talvez o log pra outras açoes seja necessario

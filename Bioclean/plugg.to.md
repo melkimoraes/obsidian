@@ -194,5 +194,6 @@ Camila:
 	- [ ] Desativação completa do produto → zerar o estoque do produto.
 	- [ ] Desativação de um marketplace → direto na Pluggto.
 - [ ] me informar se realmente o dado da fatura que eu envio vai ser com o id do endereço, mas pelo oq eu vi é isso msm!
+	- [ ] → eu mesmo testar esse caso
 - [ ] como que eu mando pra aprovar o pedido
 

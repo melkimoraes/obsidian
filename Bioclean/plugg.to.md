@@ -115,7 +115,9 @@ to-do
 - [x] melhor colocar o Processar Produto, Processar Pedido como transação manual
 - [x] Abas na tela de produtos como - Frete, Itens, Pagamento, Cliente
 - [ ] ver oq mais a Tati precisa na tela de Pedidos → nao coloquei informaçoes do cliente em especifico!
-- [ ] Sempre fazer uma consulta de pedido cancelado!? Colocar essa consulta na geração do pedido e na aprovação 
+- [ ] Sempre fazer uma consulta de pedido cancelado!? Colocar essa consulta na geração do pedido e na aprovação do pedido(faturamento)
+	- [ ] mas futuramente fazer um consulta de pedido cancelado → alinhar com o erick isso, pq talvez durante 7 dias depois do faturamento dos pedidos pluggto → monitor cancelamento.
+- [ ] Tem o gerar Etiqueta e Pedido Full ainda!
 
 ```
 SELECT MKT.CODMKTPLC,
@@ -206,4 +208,5 @@ Camila:
 		→ deixei meio pronto se for colocar no processar ou no buscar!
 - [x] testar o aprovarPedido!
 - [x] talvez colocar erro que ta sem preço na hora de processar o produto!!
+- [ ] ESPERANDO RETORNO DA CAMILA DA APROVACAO DO PEDIDO!
 

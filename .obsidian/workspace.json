@@ -35,7 +35,8 @@
               "title": "Guru"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +199,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "6834029ac4717408",
+  "active": "3f63b297a0fbd5ca",
   "lastOpenFiles": [
-    "Brasil Paralelo/Guru.md",
     "⭐.md",
+    "Brasil Paralelo/Guru.md",
     "Bioclean/DAYS.md",
     "Bioclean/Plugg.to.md",
     "JotaFlex/ireport.md",

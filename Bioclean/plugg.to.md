@@ -192,4 +192,5 @@ camila:
 
 - [ ] ver o cancelamento do produto - desativação
 - [ ] me informar se realmente o dado da fatura que eu envio vai ser com o id do endereço, mas pelo oq eu vi é isso msm!
+- [ ] como que eu mando pra aprovar o pedido
 

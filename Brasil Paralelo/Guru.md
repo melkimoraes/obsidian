@@ -6,6 +6,7 @@ https://docs.digitalmanager.guru/developers/transactions
 - [x] botar em teste sem numero de paginas na importação pra testar!
 - [x] ver busca de cadastro de clientes → fazer igual notazz, sem cpf nome e email!
 - [ ] na devolução → ver em algum cliente oq tanto fica vinculado a nota de venda ! tgfvar também?
+- [ ] gravar o marketplace id → pra depara bem melhor!
 
 ---
 
@@ -16,10 +17,3 @@ Nf Serviço -> cancelar se tiver dentro do mesmo mês.  ou até o quinto dia do 
 
 
 ---
-
-expired, chargeback e refunded e canceled
-
-expired → pix e boletos expirados
-
-
-gravar o marketplace id → pra depara bem melhor!

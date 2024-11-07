@@ -191,11 +191,12 @@ entregue → aqui sim talvez com o rastreio concluido no status final! delivered
 Camila:
 
 - [x] ver o cancelamento do produto - desativação 🆗
-	- [ ] Desativação completa do produto → zerar o estoque do produto.
-	- [ ] Desativação de um marketplace → direto na Pluggto.
+	- [x] Desativação completa do produto → zerar o estoque do produto.
+	- [x] Desativação de um marketplace → direto na Pluggto.
 - [ ] me informar se realmente o dado da fatura que eu envio vai ser com o id do endereço, mas pelo oq eu vi é isso msm!
 	- [ ] → eu mesmo testar esse caso
 - [ ] como que eu mando pra aprovar o pedido
 	- [ ] vai vir pedidor aprovados como pendentes!! vou ter que filtrar os dois na busca dos pedidos. Caso ja esteja aprovado nao faz essa atualização
 - [ ] testar o aprovarPedido!
+- [ ] talvez colocar erro que ta sem preço na hora de processar o produto!!
 

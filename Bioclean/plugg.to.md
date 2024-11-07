@@ -115,6 +115,7 @@ to-do
 - [x] melhor colocar o Processar Produto, Processar Pedido como transação manual
 - [x] Abas na tela de produtos como - Frete, Itens, Pagamento, Cliente
 - [ ] ver oq mais a Tati precisa na tela de Pedidos → nao coloquei informaçoes do cliente em especifico!
+- [ ] Sempre fazer uma consulta de pedido cancelado!?
 
 ```
 SELECT MKT.CODMKTPLC,
@@ -188,6 +189,8 @@ enviado → shipped! nao sei ainda quando vou atualizar isso, nao sei se vai ser
 	→ A PLUGGTO ATUALIZOU SOZINHA!! → e gerou etiqueta correios em um teste que fiz!
 entregue → aqui sim talvez com o rastreio concluido no status final! delivered
 	→ sera que a pluggto atualiza como entregue!?
+
+to achando que nois vai até o faturado!
 
 
 Camila:

@@ -195,8 +195,9 @@ Camila:
 	- [x] Desativação de um marketplace → direto na Pluggto.
 - [ ] me informar se realmente o dado da fatura que eu envio vai ser com o id do endereço, mas pelo oq eu vi é isso msm!
 	- [ ] → eu mesmo testar esse caso
-- [ ] como que eu mando pra aprovar o pedido
-	- [ ] vai vir pedidor aprovados como pendentes!! vou ter que filtrar os dois na busca dos pedidos. Caso ja esteja aprovado nao faz essa atualização
+- [x] como que eu mando pra aprovar o pedido
+	- [x] vai vir pedidor aprovados como pendentes!! vou ter que filtrar os dois na busca dos pedidos. Caso ja esteja aprovado nao faz essa atualização
+	→ feito, porém esperando retorno, pois nao estou conseguindo aprovar pedidos pendentes!
 - [ ] testar o aprovarPedido!
 - [ ] talvez colocar erro que ta sem preço na hora de processar o produto!!
 

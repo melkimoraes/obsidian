@@ -198,6 +198,7 @@ Camila:
 - [x] como que eu mando pra aprovar o pedido
 	- [x] vai vir pedidor aprovados como pendentes!! vou ter que filtrar os dois na busca dos pedidos. Caso ja esteja aprovado nao faz essa atualização
 	→ feito, porém esperando retorno, pois nao estou conseguindo aprovar pedidos pendentes!
+		→ deixei meio pronto se for colocar no processar ou no buscar!
 - [ ] testar o aprovarPedido!
-- [ ] talvez colocar erro que ta sem preço na hora de processar o produto!!
+- [x] talvez colocar erro que ta sem preço na hora de processar o produto!!
 

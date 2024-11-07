@@ -187,10 +187,11 @@ enviado → shipped! nao sei ainda quando vou atualizar isso, nao sei se vai ser
 entregue → aqui sim talvez com o rastreio concluido no status final! delivered
 
 
+Camila:
 
-camila:
-
-- [ ] ver o cancelamento do produto - desativação
+- [x] ver o cancelamento do produto - desativação 🆗
+	- [ ] Desativação completa do produto → zerar o estoque do produto.
+	- [ ] Desativação de um marketplace → direto na Pluggto.
 - [ ] me informar se realmente o dado da fatura que eu envio vai ser com o id do endereço, mas pelo oq eu vi é isso msm!
 - [ ] como que eu mando pra aprovar o pedido
 

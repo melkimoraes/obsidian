@@ -185,7 +185,9 @@ aprovado → tentei aprovar noa foi
 faturado → ao gerar NFe → pra enviar o faturado lembro que tive que ter o id do shipment!
 entrega informada → nao achei, tem o shipped → porem é quando foi enviado pelo oq eu entendi
 enviado → shipped! nao sei ainda quando vou atualizar isso, nao sei se vai ser atraves do rastreio dai
+	→ A PLUGGTO ATUALIZOU SOZINHA!! → e gerou etiqueta correios em um teste que fiz!
 entregue → aqui sim talvez com o rastreio concluido no status final! delivered
+	→ sera que a pluggto atualiza como entregue!?
 
 
 Camila:
@@ -193,12 +195,12 @@ Camila:
 - [x] ver o cancelamento do produto - desativação 🆗
 	- [x] Desativação completa do produto → zerar o estoque do produto.
 	- [x] Desativação de um marketplace → direto na Pluggto.
-- [ ] me informar se realmente o dado da fatura que eu envio vai ser com o id do endereço, mas pelo oq eu vi é isso msm!
-	- [ ] → eu mesmo testar esse caso
+- [x] me informar se realmente o dado da fatura que eu envio vai ser com o id do endereço, mas pelo oq eu vi é isso msm!
+	- [x] → eu mesmo testar esse caso
 - [x] como que eu mando pra aprovar o pedido
 	- [x] vai vir pedidor aprovados como pendentes!! vou ter que filtrar os dois na busca dos pedidos. Caso ja esteja aprovado nao faz essa atualização
 	→ feito, porém esperando retorno, pois nao estou conseguindo aprovar pedidos pendentes!
 		→ deixei meio pronto se for colocar no processar ou no buscar!
-- [ ] testar o aprovarPedido!
+- [x] testar o aprovarPedido!
 - [x] talvez colocar erro que ta sem preço na hora de processar o produto!!
 

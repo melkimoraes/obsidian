@@ -115,7 +115,7 @@ to-do
 - [x] melhor colocar o Processar Produto, Processar Pedido como transação manual
 - [x] Abas na tela de produtos como - Frete, Itens, Pagamento, Cliente
 - [ ] ver oq mais a Tati precisa na tela de Pedidos → nao coloquei informaçoes do cliente em especifico!
-- [ ] Sempre fazer uma consulta de pedido cancelado!?
+- [ ] Sempre fazer uma consulta de pedido cancelado!? Colocar essa consulta na geração do pedido e na aprovação 
 
 ```
 SELECT MKT.CODMKTPLC,

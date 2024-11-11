@@ -17,3 +17,6 @@ Nf Serviço -> cancelar se tiver dentro do mesmo mês.  ou até o quinto dia do 
 
 
 ---
+
+NFe
+chargeback → 

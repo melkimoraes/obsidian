@@ -22,4 +22,4 @@ ACOMPANHAMENTO GURU - PROCESSAR NOTAS → vai ter que refizar com o cancelamento
 ACOMPANHAMENTO GURU - GERAR NOTAS → colocar coluna de canceladas! nova 🆗
 
 
-- [ ] fazer uma top de serviço de exportação !?
+- [x] fazer uma top de serviço de exportação !?

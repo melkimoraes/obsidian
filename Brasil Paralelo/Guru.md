@@ -19,4 +19,4 @@ Nf Serviço -> cancelar se tiver dentro do mesmo mês.  ou até o quinto dia do 
 ---
 
 ACOMPANHAMENTO GURU - PROCESSAR NOTAS → vai ter que refizar com o cancelamento novo
-ACOMPANHAMENTO GURU - GERAR NOTAS → colocar coluna de canceladas! nova
+ACOMPANHAMENTO GURU - GERAR NOTAS → colocar coluna de canceladas! nova 🆗

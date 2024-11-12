@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,11 +213,11 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "1fdb404bde27e8c2",
+  "active": "6dbb4199fb731e76",
   "lastOpenFiles": [
+    "Bioclean/Plugg.to.md",
     "⭐.md",
     "Brasil Paralelo/Guru.md",
-    "Bioclean/Plugg.to.md",
     "Diario/07-11-2024.md",
     "Bioclean/DAYS.md",
     "JotaFlex/ireport.md",

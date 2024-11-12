@@ -211,11 +211,10 @@ Camila:
 - [ ] ESPERANDO RETORNO DA CAMILA DA APROVACAO DO PEDIDO!
 
 ---
-
+Tati:
 ver com a Tati → na busca dos pedidos eu nao to validando busca de pedidos pros marketplaces ativos, ela acha isso interessante? se desativar lá alguns, nao vai atualizar preço/estoque!
 
 colocar vendedor 74 → nos pedidos → OK
-
-payment_method →  na hora de encontrar o depara
-LOCAL DOS ITENS NA NOTA → E-COMMERCE
+payment_method →  na hora de encontrar o depara → OK
+LOCAL DOS ITENS NA NOTA → E-COMMERCE → OK
 confirmar pedido → quando processar

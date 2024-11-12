@@ -215,3 +215,5 @@ Camila:
 ver com a Tati → na busca dos pedidos eu nao to validando busca de pedidos pros marketplaces ativos, ela acha isso interessante? se desativar lá alguns, nao vai atualizar preço/estoque!
 
 colocar vendedor 74 → nos pedidos → OK
+
+payment_method →  na hora de encontrar o depara

@@ -217,3 +217,5 @@ ver com a Tati → na busca dos pedidos eu nao to validando busca de pedidos pro
 colocar vendedor 74 → nos pedidos → OK
 
 payment_method →  na hora de encontrar o depara
+LOCAL DOS ITENS NA NOTA → E-COMMERCE
+confirmar pedido → quando processar

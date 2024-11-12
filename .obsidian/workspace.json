@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Plugg.to"
             }
+          },
+          {
+            "id": "6c7e791c5595afbf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,7 +225,7 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "1fdb404bde27e8c2",
+  "active": "6c7e791c5595afbf",
   "lastOpenFiles": [
     "⭐.md",
     "Bioclean/Plugg.to.md",

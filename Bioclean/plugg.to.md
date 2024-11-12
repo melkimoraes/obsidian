@@ -118,6 +118,7 @@ to-do
 - [ ] Sempre fazer uma consulta de pedido cancelado!? Colocar essa consulta na geração do pedido e na aprovação do pedido(faturamento)
 	- [ ] mas futuramente fazer um consulta de pedido cancelado → alinhar com o erick isso, pq talvez durante 7 dias depois do faturamento dos pedidos pluggto → monitor cancelamento.
 - [ ] Tem o gerar Etiqueta e Pedido Full ainda!
+- [ ] testar o confirmar pedido!
 
 ```
 SELECT MKT.CODMKTPLC,

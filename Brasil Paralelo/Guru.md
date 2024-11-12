@@ -5,8 +5,8 @@ https://docs.digitalmanager.guru/developers/transactions
 
 - [x] botar em teste sem numero de paginas na importação pra testar!
 - [x] ver busca de cadastro de clientes → fazer igual notazz, sem cpf nome e email!
-- [ ] na devolução → ver em algum cliente oq tanto fica vinculado a nota de venda ! tgfvar também?
-- [ ] gravar o marketplace id → pra depara bem melhor!
+- [x] na devolução → ver em algum cliente oq tanto fica vinculado a nota de venda ! tgfvar também?
+- [x] gravar o marketplace id → pra depara bem melhor!
 
 ---
 
@@ -18,5 +18,5 @@ Nf Serviço -> cancelar se tiver dentro do mesmo mês.  ou até o quinto dia do 
 
 ---
 
-NFe
-chargeback → 
+ACOMPANHAMENTO GURU - PROCESSAR NOTAS → vai ter que refizar com o cancelamento novo
+ACOMPANHAMENTO GURU - GERAR NOTAS → colocar coluna de canceladas! nova

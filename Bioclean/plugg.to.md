@@ -122,6 +122,7 @@ to-do
 	- [ ] mas futuramente fazer um consulta de pedido cancelado → alinhar com o erick isso, pq talvez durante 7 dias depois do faturamento dos pedidos pluggto → monitor cancelamento.
 - [ ] Tem o gerar Etiqueta e Pedido Full ainda!
 - [ ] testar o confirmar pedido!
+- [ ] Olist → quantidade de estoque pra eles é na geral da pluggto
 
 ```
 SELECT MKT.CODMKTPLC,

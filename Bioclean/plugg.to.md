@@ -123,6 +123,7 @@ to-do
 - [ ] Tem o gerar Etiqueta e Pedido Full ainda!
 - [ ] testar o confirmar pedido!
 - [ ] Olist → quantidade de estoque pra eles é na geral da pluggto
+- [ ] Quando Tati gerar remessa no mercado livre → ver se essa nota aparece no portal xml.
 
 ```
 SELECT MKT.CODMKTPLC,

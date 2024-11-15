@@ -103,7 +103,7 @@ fazer na extensao
 - [ ] colocar nro pedido pluggto na TGFCAB
 - [ ] colocar campo parcela pluggto na TGFCAB!
 - [ ] colocar marketplace na TGFCAB
-- [ ] na tabela de Pagamentos Pluggto → colocar CODPAG de vez de ID!
+- [x] na tabela de Pagamentos Pluggto → colocar CODPAG de vez de ID!
 - [x] view na tela de Martetplaces → com base no codigo da tabela de preço → dar o produto e o preço. colocar lá o ultimo estoque também.
 
 to-do

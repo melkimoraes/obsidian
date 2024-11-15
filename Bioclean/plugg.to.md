@@ -105,6 +105,7 @@ fazer na extensao
 - [ ] colocar marketplace na TGFCAB
 - [ ] antes de colocar a ext na bioclean → a busca das informaçoes nos produtos voltar ao que era a busca dos campos na bioclean!
 - [ ] talvez criar um processar pedido → com um pedido selecionado na  tela de PEdidos! → com isso vai ter que reescrever o prcoessar que esta como action/schedule
+- [ ] talvez também criar um forçar busca de pedido! passando o id!?
 - [x] na tabela de Pagamentos Pluggto → colocar CODPAG de vez de ID!
 - [x] view na tela de Martetplaces → com base no codigo da tabela de preço → dar o produto e o preço. colocar lá o ultimo estoque também.
 

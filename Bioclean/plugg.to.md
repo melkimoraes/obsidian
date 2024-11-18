@@ -104,6 +104,7 @@ fazer na extensao
 - [ ] colocar campo parcela pluggto na TGFCAB!
 - [ ] colocar marketplace na TGFCAB
 - [ ] antes de colocar a ext na bioclean → a busca das informaçoes nos produtos voltar ao que era a busca dos campos na bioclean!
+- [ ] inserir etiqueta! → 16789524657 ou 672d085cb1b02a08b014d6b1
 - [x] talvez criar um processar pedido → com um pedido selecionado na  tela de PEdidos! → com isso vai ter que reescrever o prcoessar que esta como action/schedule
 - [x] talvez também criar um forçar busca de pedido! passando o id!?
 - [x] na tabela de Pagamentos Pluggto → colocar CODPAG de vez de ID!

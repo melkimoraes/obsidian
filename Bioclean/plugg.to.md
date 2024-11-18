@@ -100,9 +100,9 @@ Exceção do produto →
 nas ações agendadas de atualização de preço e estoque assim como no processar do produto → só substitui o log do estoque/preço caso tenha alterado esse valor! 🆗
 
 fazer na extensao
-- [ ] colocar nro pedido pluggto na TGFCAB
-- [ ] colocar campo parcela pluggto na TGFCAB!
-- [ ] colocar marketplace na TGFCAB
+- [ ] colocar nro pedido pluggto na TGFCAB -  PLUGGID
+- [ ] colocar campo parcela pluggto na TGFCAB! - PLGTPARCELA
+- [ ] colocar marketplace na TGFCAB - PLGTMKTPLC
 - [ ] antes de colocar a ext na bioclean → a busca das informaçoes nos produtos voltar ao que era a busca dos campos na bioclean!
 - [ ] inserir etiqueta! → 16789524657 ou 672d085cb1b02a08b014d6b1
 - [x] talvez criar um processar pedido → com um pedido selecionado na  tela de PEdidos! → com isso vai ter que reescrever o prcoessar que esta como action/schedule

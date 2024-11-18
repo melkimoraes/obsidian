@@ -217,7 +217,7 @@ Camila:
 		→ deixei meio pronto se for colocar no processar ou no buscar!
 - [x] testar o aprovarPedido!
 - [x] talvez colocar erro que ta sem preço na hora de processar o produto!!
-- [ ] ESPERANDO RETORNO DA CAMILA DA APROVACAO DO PEDIDO!
+- [x] ESPERANDO RETORNO DA CAMILA DA APROVACAO DO PEDIDO!
 
 ---
 Tati:

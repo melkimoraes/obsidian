@@ -74,6 +74,7 @@ Mapeamento Principal
 	- Tipo de negociação -> se for padrao da plugto sem ser por marktplace -> vou fazer uma tela pra fazer depara.
 
 - [ ] Etiqueta -> eles enviam ela emitida e enviam a etiqueta impressa?
+- [ ] VERIFICAR NO PROCESSAR PRODUTO → prodVO.asString("AD_DESCRPRODECM") SE NAO ESTIVER PREENCHIDO! ESSE NOME COMERCIAL É OBRIGATORIO
 - [x] Como anexar o produto aos marketplaces -> é pela tabela de preço?
 - [x] Cadastro de produto já pede um preço e preço especial fora do cadastro do produto??
 - [ ] Oq diz pra plugg.to que quero parar a venda de um produto?? Tipo o arquivar!? mas nao tem algo na API deles que fala como arquivar, sei que eles pedem pra zerar estoque

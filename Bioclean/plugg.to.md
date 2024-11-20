@@ -129,6 +129,7 @@ to-do
 - [x] ver oq mais a Tati precisa na tela de Pedidos → nao coloquei informaçoes do cliente em especifico!
 - [ ] Sempre fazer uma consulta de pedido cancelado!? Colocar essa consulta na geração do pedido e na aprovação do pedido(faturamento)
 	- [ ] mas futuramente fazer um consulta de pedido cancelado → alinhar com o erick isso, pq talvez durante 7 dias depois do faturamento dos pedidos pluggto → monitor cancelamento.
+	- [ ] ou perguntar pra pluggto → até quando um pedido pode ser cancelado, ow se sempre podem ser
 - [x] Tem o Pedido Full ainda!
 - [x] testar o confirmar pedido!
 - [ ] Olist → quantidade de estoque pra eles é na geral da pluggto
@@ -136,6 +137,7 @@ to-do
 - [ ] acompanhar um pedido mercado full que vai cair!!
 - [ ] Coisas que faltam + essa lista de cima:
 	- [ ] Devolução do mercado full → ver como um pedido desse vai cair!? sera que é quando cancelar um pedido!?
+	- [ ] Promoções de preços.
 
 ```
 SELECT MKT.CODMKTPLC,
@@ -236,3 +238,10 @@ colocar vendedor 74 → nos pedidos → OK
 payment_method →  na hora de encontrar o depara → OK
 LOCAL DOS ITENS NA NOTA → E-COMMERCE → OK
 confirmar pedido → quando processar → OK
+
+Dr, desculpa atrapalhar seu feriado kkk
+Mas deu bom a ext, subi hoje e ja fiz alguns testes.
+{prints}
+
+Dai amanha eu acredito que a Monique vai terminar o de/para dos skus e vou chamar a tati pra ver se ela vai querer ligar algum marketplace, fora o acompanhamento do full e etc.
+Dai tem alguns pontos que ta anotado cmg que falta a gente discuti

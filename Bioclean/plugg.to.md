@@ -105,7 +105,7 @@ fazer na extensao
 - [x] colocar campo parcela pluggto na TGFCAB! - PLGTPARCELA
 - [x] colocar marketplace na TGFCAB - PLGTMKTPLC
 - [x] testar o ETIQUETA agora no pedido!
-- [ ] antes de colocar a ext na bioclean → a busca das informaçoes nos produtos voltar ao que era a busca dos campos na bioclean!
+- [x] antes de colocar a ext na bioclean → a busca das informaçoes nos produtos voltar ao que era a busca dos campos na bioclean!
 - [x] inserir etiqueta! → 16789524657 ou 672d085cb1b02a08b014d6b1
 - [ ] quando subir em produção a ext → criar tipos de negociação com parcela!!
 - [x] talvez criar um processar pedido → com um pedido selecionado na  tela de PEdidos! → com isso vai ter que reescrever o prcoessar que esta como action/schedule

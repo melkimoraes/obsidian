@@ -254,3 +254,6 @@ Mas deu bom a ext, subi hoje e ja fiz alguns testes.
 
 Dai amanha eu acredito que a Monique vai terminar o de/para dos skus e vou chamar a tati pra ver se ela vai querer ligar algum marketplace, fora o acompanhamento do full e etc.
 Dai tem alguns pontos que ta anotado cmg que falta a gente discutir, como os cancelamentos de pedido e também preços promocionais se vai fazer algo aparte.
+
+Do cancelamento é a gente conversar sobre talvez uma rotina que rode 7 dias depois da inclusao do pedido → e se cancelar oq fazer, excluir pre-nota? excluir pedido?
+Eu fiz alguns testes em relação a pedido cancelado →

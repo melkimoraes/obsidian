@@ -256,4 +256,4 @@ Dai amanha eu acredito que a Monique vai terminar o de/para dos skus e vou chama
 Dai tem alguns pontos que ta anotado cmg que falta a gente discutir, como os cancelamentos de pedido e também preços promocionais se vai fazer algo aparte.
 
 Do cancelamento é a gente conversar sobre talvez uma rotina que rode 7 dias depois da inclusao do pedido → e se cancelar oq fazer, excluir pre-nota? excluir pedido?
-Eu fiz alguns testes em relação a pedido cancelado →
+Eu fiz alguns testes em relação a pedido cancelado → se eu nao tento alterar o status , a pluggto nem me da erro que o pedido ta cancelado. E o unico momento onde eu altero o status é pra faturado. Entao talvez além de criar uma rotina de ver cancelamento, talvez pra cada ação ver o status do pedido.

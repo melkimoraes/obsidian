@@ -107,7 +107,7 @@ fazer na extensao
 - [x] testar o ETIQUETA agora no pedido!
 - [x] antes de colocar a ext na bioclean → a busca das informaçoes nos produtos voltar ao que era a busca dos campos na bioclean!
 - [x] inserir etiqueta! → 16789524657 ou 672d085cb1b02a08b014d6b1
-- [ ] quando subir em produção a ext → criar tipos de negociação com parcela!!
+- [x] quando subir em produção a ext → criar tipos de negociação com parcela!!
 - [ ] criar layout do pedido de venda pra top plugg.to
 - [x] talvez criar um processar pedido → com um pedido selecionado na  tela de PEdidos! → com isso vai ter que reescrever o prcoessar que esta como action/schedule
 - [x] talvez também criar um forçar busca de pedido! passando o id!?

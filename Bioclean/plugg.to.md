@@ -77,11 +77,11 @@ Mapeamento Principal
 - [x] VERIFICAR NO PROCESSAR PRODUTO → prodVO.asString("AD_DESCRPRODECM") SE NAO ESTIVER PREENCHIDO! ESSE NOME COMERCIAL É OBRIGATORIO
 - [x] Como anexar o produto aos marketplaces -> é pela tabela de preço?
 - [x] Cadastro de produto já pede um preço e preço especial fora do cadastro do produto??
-- [ ] Oq diz pra plugg.to que quero parar a venda de um produto?? Tipo o arquivar!? mas nao tem algo na API deles que fala como arquivar, sei que eles pedem pra zerar estoque
-	- [ ] testei o campo archived como true e zerar os estoques! → nao acatou o envio na API, o arquivar pode ser uma forma de desativar todo o produto , inclusive na pluggto ele exige zerar todo o estoque antes!
-	- [ ] fazer o teste, mas se eu quero cancelar a venda em um marketplace, basta eu sumir com a tabela de preço!?
-	- [ ] inclusive não pensei aonde jogar o desativar produto pra um marketplace especifico!
-		- [ ] vi como exemplo o mercado livre o enviar produtos (novo anuncio direto no marketplace) → mas isso na tela da pluggto!
+- [x] Oq diz pra plugg.to que quero parar a venda de um produto?? Tipo o arquivar!? mas nao tem algo na API deles que fala como arquivar, sei que eles pedem pra zerar estoque
+	- [x] testei o campo archived como true e zerar os estoques! → nao acatou o envio na API, o arquivar pode ser uma forma de desativar todo o produto , inclusive na pluggto ele exige zerar todo o estoque antes!
+	- [x] fazer o teste, mas se eu quero cancelar a venda em um marketplace, basta eu sumir com a tabela de preço!?
+	- [x] inclusive não pensei aonde jogar o desativar produto pra um marketplace especifico!
+		- [x] vi como exemplo o mercado livre o enviar produtos (novo anuncio direto no marketplace) → mas isso na tela da pluggto!
 - [x] Perguntar do produto kit → se eles colocarem um kit PK na tela eu vou ler e entendo que é um kit, vejo se os componentes estão cadastrados no pluggto e mando inserir o kit!?
 - [x] Imagens → precisa ser url → ver com o erick
 - [x] Nas fotos, preenchi o externla mas nao o url!
@@ -113,7 +113,7 @@ fazer na extensao
 - [x] talvez também criar um forçar busca de pedido! passando o id!?
 - [x] na tabela de Pagamentos Pluggto → colocar CODPAG de vez de ID!
 - [x] view na tela de Martetplaces → com base no codigo da tabela de preço → dar o produto e o preço. colocar lá o ultimo estoque também.
-- [ ] A BUSCA DOS PEDIDOS → vai ter que por d-1 a data atual eu acho → o filtro que fiz traz 50 sempre!
+- [x] A BUSCA DOS PEDIDOS → vai ter que por d-1 a data atual eu acho → o filtro que fiz traz 50 sempre!
 
 to-do
 - [x] exceção do preço dos produtos! → tava construindo pra por um union all no select, falto a parte das contas com o campo TIPO da TGFEXC! o duro que se for porcentagem vou ter que fazer conta com o valor de venda da tabela original!
@@ -122,17 +122,20 @@ to-do
 - [x] ver primeiro o erro do produto já processado!
 - [x] qualquer hora testar o erro que deu quando enviei varios produtos pra processar e um produto com erro fez nao atualizar o cadastro sankhya pluggto, coloquei o wrapperVO persist → só testar em teste com algum produto que nao tem estoque enviando junto com varios pra pluggto!
 - [x] testar cadastro do cliente → e dai de quebra criar a aba cliente com as informaçoes! e a informaçao de entrega!
-- [ ] Talvez tirar Empresa da tela de Configuração já que vou usar nota modelo pra gerar o pedido!
-- [ ] Fazer tela de Log do processar pedido → fiz log direto no pedido, se caso precisar pode ser sim!! talvez o log pra outras açoes seja necessario
+- [x] Talvez tirar Empresa da tela de Configuração já que vou usar nota modelo pra gerar o pedido!
+- [x] Fazer tela de Log do processar pedido → fiz log direto no pedido, se caso precisar pode ser sim!! talvez o log pra outras açoes seja necessario
 - [x] melhor colocar o Processar Produto, Processar Pedido como transação manual
 - [x] Abas na tela de produtos como - Frete, Itens, Pagamento, Cliente
-- [ ] ver oq mais a Tati precisa na tela de Pedidos → nao coloquei informaçoes do cliente em especifico!
+- [x] ver oq mais a Tati precisa na tela de Pedidos → nao coloquei informaçoes do cliente em especifico!
 - [ ] Sempre fazer uma consulta de pedido cancelado!? Colocar essa consulta na geração do pedido e na aprovação do pedido(faturamento)
 	- [ ] mas futuramente fazer um consulta de pedido cancelado → alinhar com o erick isso, pq talvez durante 7 dias depois do faturamento dos pedidos pluggto → monitor cancelamento.
-- [ ] Tem o gerar Etiqueta e Pedido Full ainda!
-- [ ] testar o confirmar pedido!
+- [x] Tem o Pedido Full ainda!
+- [x] testar o confirmar pedido!
 - [ ] Olist → quantidade de estoque pra eles é na geral da pluggto
 - [ ] Quando Tati gerar remessa no mercado livre → ver se essa nota aparece no portal xml.
+- [ ] acompanhar um pedido mercado full que vai cair!!
+- [ ] Coisas que faltam + essa lista de cima:
+	- [ ] Devolução do mercado full → ver como um pedido desse vai cair!? sera que é quando cancelar um pe
 
 ```
 SELECT MKT.CODMKTPLC,
@@ -227,9 +230,9 @@ Camila:
 
 ---
 Tati:
-- [ ] ver com a Tati → na busca dos pedidos eu nao to validando busca de pedidos pros marketplaces ativos, ela acha isso interessante? se desativar lá alguns, nao vai atualizar preço/estoque!
+- [x] ver com a Tati → na busca dos pedidos eu nao to validando busca de pedidos pros marketplaces ativos, ela acha isso interessante? se desativar lá alguns, nao vai atualizar preço/estoque!
 
 colocar vendedor 74 → nos pedidos → OK
 payment_method →  na hora de encontrar o depara → OK
 LOCAL DOS ITENS NA NOTA → E-COMMERCE → OK
-confirmar pedido → quando processar
+confirmar pedido → quando processar → OK

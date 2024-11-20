@@ -131,6 +131,12 @@ to-do
 	- [ ] mas futuramente fazer um consulta de pedido cancelado → alinhar com o erick isso, pq talvez durante 7 dias depois do faturamento dos pedidos pluggto → monitor cancelamento.
 	- [ ] ou perguntar pra pluggto → até quando um pedido pode ser cancelado, ow se sempre podem ser
 	- [ ] O unico lugar que vai retornar erro ao tentar fazer algo com um pedido se estiver cancelado é no AprovaPedido → é aonde eu mexo no status!
+		- [ ] pensando nas rotinas:
+			- [ ] Busca → ja to buscando por status nao preciso ver se ta cancelada!
+			- [ ] Processa → era aonde estava a alteração pra aprovado, mas tiramos. → aqui talvez verificar status
+			- [ ] Aprova → vai retornar se cancelado porem, nao estou tratando nada, como por exemplo excluir pedido
+			- [ ] Gerar Etiqueta → nao sei se ao buscar label retorna cancelado
+			- [ ] a rotina dos 7 dias realmente é interessante → mas oq ela vai fazer!? excluir pre-nota? excluiir pedido?
 - [x] Tem o Pedido Full ainda!
 - [x] testar o confirmar pedido!
 - [ ] Olist → quantidade de estoque pra eles é na geral da pluggto

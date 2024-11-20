@@ -87,7 +87,7 @@ Mapeamento Principal
 - [x] Nas fotos, preenchi o externla mas nao o url!
 - [x] testar se o shippment id vai ser preenchido em um pedido teste e entao da pra testar o faturamento! e começar o schedule!
 - [x] transportadora company tem quando busco o pedido sozinho!!
-- [ ] colocar ações agendadas de busca de pedidos e também processamento de pedido!
+- [x] colocar ações agendadas de busca de pedidos e também processamento de pedido!
 
 ---
 
@@ -113,6 +113,7 @@ fazer na extensao
 - [x] talvez também criar um forçar busca de pedido! passando o id!?
 - [x] na tabela de Pagamentos Pluggto → colocar CODPAG de vez de ID!
 - [x] view na tela de Martetplaces → com base no codigo da tabela de preço → dar o produto e o preço. colocar lá o ultimo estoque também.
+- [ ] A BUSCA DOS PEDIDOS → vai ter que por d-1 a data atual eu acho → o filtro que fiz traz 50 sempre!
 
 to-do
 - [x] exceção do preço dos produtos! → tava construindo pra por um union all no select, falto a parte das contas com o campo TIPO da TGFEXC! o duro que se for porcentagem vou ter que fazer conta com o valor de venda da tabela original!

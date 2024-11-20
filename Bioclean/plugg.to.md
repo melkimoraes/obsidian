@@ -108,7 +108,7 @@ fazer na extensao
 - [x] antes de colocar a ext na bioclean → a busca das informaçoes nos produtos voltar ao que era a busca dos campos na bioclean!
 - [x] inserir etiqueta! → 16789524657 ou 672d085cb1b02a08b014d6b1
 - [x] quando subir em produção a ext → criar tipos de negociação com parcela!!
-- [ ] criar layout do pedido de venda pra top plugg.to
+- [x] criar layout do pedido de venda pra top plugg.to
 - [x] talvez criar um processar pedido → com um pedido selecionado na  tela de PEdidos! → com isso vai ter que reescrever o prcoessar que esta como action/schedule
 - [x] talvez também criar um forçar busca de pedido! passando o id!?
 - [x] na tabela de Pagamentos Pluggto → colocar CODPAG de vez de ID!
@@ -130,6 +130,7 @@ to-do
 - [ ] Sempre fazer uma consulta de pedido cancelado!? Colocar essa consulta na geração do pedido e na aprovação do pedido(faturamento)
 	- [ ] mas futuramente fazer um consulta de pedido cancelado → alinhar com o erick isso, pq talvez durante 7 dias depois do faturamento dos pedidos pluggto → monitor cancelamento.
 	- [ ] ou perguntar pra pluggto → até quando um pedido pode ser cancelado, ow se sempre podem ser
+	- [ ] O unico lugar que vai retornar erro ao tentar fazer algo com um pedido se estiver cancelado é no AprovaPedido → é aonde eu mexo no status!
 - [x] Tem o Pedido Full ainda!
 - [x] testar o confirmar pedido!
 - [ ] Olist → quantidade de estoque pra eles é na geral da pluggto

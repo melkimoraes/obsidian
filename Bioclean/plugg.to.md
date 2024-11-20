@@ -239,9 +239,11 @@ payment_method →  na hora de encontrar o depara → OK
 LOCAL DOS ITENS NA NOTA → E-COMMERCE → OK
 confirmar pedido → quando processar → OK
 
+---
+
 Dr, desculpa atrapalhar seu feriado kkk
 Mas deu bom a ext, subi hoje e ja fiz alguns testes.
 {prints}
 
 Dai amanha eu acredito que a Monique vai terminar o de/para dos skus e vou chamar a tati pra ver se ela vai querer ligar algum marketplace, fora o acompanhamento do full e etc.
-Dai tem alguns pontos que ta anotado cmg que falta a gente discuti
+Dai tem alguns pontos que ta anotado cmg que falta a gente discutir, como os cancelamentos de pedido e também preços promocionais se vai fazer algo aparte.

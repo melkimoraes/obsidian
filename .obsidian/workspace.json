@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4f6fcf772fd397c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brasil Paralelo/Guru.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guru"
-            }
-          },
-          {
             "id": "6dbb4199fb731e76",
             "type": "leaf",
             "state": {
@@ -49,8 +35,7 @@
               "title": "Plugg.to"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,17 +198,17 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "1fdb404bde27e8c2",
+  "active": "6dbb4199fb731e76",
   "lastOpenFiles": [
+    "Bioclean/Plugg.to.md",
+    "Brasil Paralelo/Notazz.md",
     "⭐.md",
     "Brasil Paralelo/Guru.md",
-    "Bioclean/Plugg.to.md",
     "Diario/07-11-2024.md",
     "Bioclean/DAYS.md",
     "JotaFlex/ireport.md",
     "Diario/06-11-2024.md",
     "Diario/04-11-2024.md",
-    "Brasil Paralelo/Notazz.md",
     "Diario/30-10-2024.md",
     "Diario/25-10-2024.md",
     "Diario/24-10-2024.md",

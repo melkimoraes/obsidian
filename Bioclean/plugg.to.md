@@ -132,7 +132,7 @@ to-do
 	- [ ] ou perguntar pra pluggto → até quando um pedido pode ser cancelado, ow se sempre podem ser
 	- [ ] O unico lugar que vai retornar erro ao tentar fazer algo com um pedido se estiver cancelado é no AprovaPedido → é aonde eu mexo no status!
 		- [ ] pensando nas rotinas:
-			- [ ] Busca → ja to buscando por status nao preciso ver se ta cancelada!
+			- [x] Busca → ja to buscando por status nao preciso ver se ta cancelada!
 			- [ ] Processa → era aonde estava a alteração pra aprovado, mas tiramos. → aqui talvez verificar status
 			- [ ] Aprova → vai retornar se cancelado porem, nao estou tratando nada, como por exemplo excluir pedido
 			- [ ] Gerar Etiqueta → nao sei se ao buscar label retorna cancelado

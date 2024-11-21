@@ -146,6 +146,7 @@ to-do
 	- [ ] Devolução do mercado full → ver como um pedido desse vai cair!? sera que é quando cancelar um pedido!?
 	- [ ] Promoções de preços.
 - [ ] Fazer documentação da rotina!
+- [ ] continuar o cancelar no processar
 
 ```
 SELECT MKT.CODMKTPLC,

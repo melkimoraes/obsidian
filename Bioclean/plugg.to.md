@@ -140,8 +140,8 @@ to-do
 - [x] Tem o Pedido Full ainda!
 - [x] testar o confirmar pedido!
 - [ ] Olist → quantidade de estoque pra eles é na geral da pluggto
-- [ ] Quando Tati gerar remessa no mercado livre → ver se essa nota aparece no portal xml.
-- [ ] acompanhar um pedido mercado full que vai cair!!
+- [x] Quando Tati gerar remessa no mercado livre → ver se essa nota aparece no portal xml.
+- [x] acompanhar um pedido mercado full que vai cair!!
 - [ ] Coisas que faltam + essa lista de cima:
 	- [ ] Devolução do mercado full → ver como um pedido desse vai cair!? sera que é quando cancelar um pedido!?
 	- [ ] Promoções de preços.

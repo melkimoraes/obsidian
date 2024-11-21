@@ -133,7 +133,7 @@ to-do
 	- [ ] O unico lugar que vai retornar erro ao tentar fazer algo com um pedido se estiver cancelado é no AprovaPedido → é aonde eu mexo no status!
 		- [ ] pensando nas rotinas:
 			- [x] Busca → ja to buscando por status nao preciso ver se ta cancelada!
-			- [ ] Processa → era aonde estava a alteração pra aprovado, mas tiramos. → aqui talvez verificar status
+			- [x] Processa → era aonde estava a alteração pra aprovado, mas tiramos. → aqui talvez verificar status
 			- [ ] Aprova → vai retornar se cancelado porem, nao estou tratando nada, como por exemplo excluir pedido
 			- [ ] Gerar Etiqueta → nao sei se ao buscar label retorna cancelado
 			- [ ] a rotina dos 7 dias realmente é interessante → mas oq ela vai fazer!? excluir pre-nota? excluiir pedido?

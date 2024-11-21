@@ -148,7 +148,10 @@ to-do
 - [ ] Fazer documentação da rotina!
 - [ ] continuar o cancelar no processar
 - [ ] ajustar atualização de estoque dos kits → pega o menor estoque de um componente.
-- [ ] ATUALIZAR STATUS DOS PEDIDOS
+- [ ] ATUALIZAR STATUS DOS PEDIDOS → pros pedidos, vai sendo nas ações e depois da aprovação tendo o NUNFE → vai ter uma ação que vai rodar +7 dias da aprovação pra ver cancelamento! e dai logar isso no log do pedido!
+- [ ] Dashboard dos erros de log dos pedidos 
+	- [ ] mais botão de ação pra limpar o log principalmente de cancelar um faturado!
+- [ ] botões de ação do pedido/produto → nao atualizar grid inteiro!!!
 
 ```
 SELECT MKT.CODMKTPLC,

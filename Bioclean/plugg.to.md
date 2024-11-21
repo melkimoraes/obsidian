@@ -144,7 +144,6 @@ to-do
 - [x] acompanhar um pedido mercado full que vai cair!!
 - [ ] Coisas que faltam + essa lista de cima:
 	- [ ] Devolução do mercado full → ver como um pedido desse vai cair!? sera que é quando cancelar um pedido!?
-	- [ ] Promoções de preços.
 - [ ] Fazer documentação da rotina!
 - [ ] continuar o cancelar no processar
 - [x] ajustar atualização de estoque dos kits → pega o menor estoque de um componente.
@@ -153,6 +152,10 @@ to-do
 	- [ ] mais botão de ação pra limpar o log principalmente de cancelar um faturado!
 - [x] botões de ação do pedido/produto → nao atualizar grid inteiro!!!
 - [x] atualizar a PLGTPROD na volta do botao processar produto!
+- [ ] futuramente:
+	- [ ] mais filtros na tela Pedidos como: data, status
+	- [ ] mais filtros na tela Produtos como: AD_TIPO
+	- [ ] Promoções de preços.
 
 ```
 SELECT MKT.CODMKTPLC,

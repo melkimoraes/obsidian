@@ -148,6 +148,7 @@ to-do
 - [ ] Fazer documentação da rotina!
 - [ ] continuar o cancelar no processar
 - [ ] ajustar atualização de estoque dos kits → pega o menor estoque de um componente.
+- [ ] ATUALIZAR STATUS DOS PEDIDOS
 
 ```
 SELECT MKT.CODMKTPLC,

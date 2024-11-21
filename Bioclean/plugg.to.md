@@ -145,6 +145,7 @@ to-do
 - [ ] Coisas que faltam + essa lista de cima:
 	- [ ] Devolução do mercado full → ver como um pedido desse vai cair!? sera que é quando cancelar um pedido!?
 	- [ ] Promoções de preços.
+- [ ] Fazer documentação da rotina!
 
 ```
 SELECT MKT.CODMKTPLC,

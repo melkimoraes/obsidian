@@ -164,7 +164,7 @@ to-do
 	- [ ] mais filtros na tela Produtos como: AD_TIPO
 	- [ ] Promoções de preços.
 
-1757
+1736
 
 ```
 SELECT MKT.CODMKTPLC,

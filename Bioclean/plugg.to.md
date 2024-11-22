@@ -135,8 +135,9 @@ to-do
 			- [x] Busca → ja to buscando por status nao preciso ver se ta cancelada!
 			- [x] Processa → era aonde estava a alteração pra aprovado, mas tiramos. → aqui talvez verificar status
 			- [x] Aprova → vai retornar se cancelado porem, nao estou tratando nada, como por exemplo excluir pedido. → aqui vai ter que lgoar e cancelar a NFE!
-			- [ ] Gerar Etiqueta → nao sei se ao buscar label retorna cancelado, melhor tratar aqui também!
+			- [x] Gerar Etiqueta → nao sei se ao buscar label retorna cancelado, melhor tratar aqui também!
 			- [ ] a rotina dos 7 dias realmente é interessante → mas oq ela vai fazer!? excluir pre-nota? excluiir pedido?
+			- [ ] NA VDD VAMOS SOMAR ESSA IDEIA COM O ATUALIZAR STATUS DOS PEDIDOS ATÉ ENTREGUE!
 - [x] Tem o Pedido Full ainda!
 - [x] testar o confirmar pedido!
 - [ ] Olist → quantidade de estoque pra eles é na geral da pluggto
@@ -145,7 +146,7 @@ to-do
 - [ ] Coisas que faltam + essa lista de cima:
 	- [ ] Devolução do mercado full → ver como um pedido desse vai cair!? sera que é quando cancelar um pedido!?
 - [ ] Fazer documentação da rotina!
-- [ ] continuar o cancelar no processar
+- [x] continuar o cancelar no processar
 - [x] ajustar atualização de estoque dos kits → pega o menor estoque de um componente.
 - [ ] ATUALIZAR STATUS DOS PEDIDOS → pros pedidos, vai sendo nas ações e depois da aprovação tendo o NUNFE → vai ter uma ação que vai rodar +7 dias da aprovação pra ver cancelamento! e dai logar isso no log do pedido!
 	- [ ] sendo como status final o Entregue

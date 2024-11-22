@@ -156,7 +156,7 @@ to-do
 		- [ ] pro botao acho melhor criar aquela tabela de log
 			- [ ] → ela vai ter usuario e ação, possiveis açoes seria deleçao do pedido/prenota, e o log limpo dps da trativa!
 - [ ] Ligar hoje o atualiza preço/estoque!
-- [ ] Segunda: ver pedido do full que nao caiu na pluggto!
+- [x] Segunda: ver pedido do full que nao caiu na pluggto!
 - [x] botões de ação do pedido/produto → nao atualizar grid inteiro!!!
 - [x] atualizar a PLGTPROD na volta do botao processar produto!
 - [ ] futuramente:

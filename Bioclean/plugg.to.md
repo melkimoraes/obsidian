@@ -151,10 +151,10 @@ to-do
 - [x] ajustar atualização de estoque dos kits → pega o menor estoque de um componente.
 - [ ] ATUALIZAR STATUS DOS PEDIDOS → pros pedidos, vai sendo nas ações e depois da aprovação tendo o NUNFE → vai ter uma ação que vai rodar +7 dias da aprovação pra ver cancelamento! e dai logar isso no log do pedido!
 	- [ ] sendo como status final o Entregue
-- [ ] Dashboard dos erros de log dos pedidos 
-	- [ ] mais botão de ação pra limpar o log principalmente de cancelar um faturado!
-		- [ ] pro botao acho melhor criar aquela tabela de log
-			- [ ] → ela vai ter usuario e ação, possiveis açoes seria deleçao do pedido/prenota, e o log limpo dps da trativa!
+- [x] Dashboard dos erros de log dos pedidos 
+	- [x] mais botão de ação pra limpar o log principalmente de cancelar um faturado!
+		- [x] pro botao acho melhor criar aquela tabela de log
+			- [x] → ela vai ter usuario e ação, possiveis açoes seria deleçao do pedido/prenota, e o log limpo dps da trativa!
 - [ ] Ligar hoje o atualiza preço/estoque!
 - [x] Segunda: ver pedido do full que nao caiu na pluggto!
 - [x] botões de ação do pedido/produto → nao atualizar grid inteiro!!!
@@ -265,3 +265,58 @@ colocar vendedor 74 → nos pedidos → OK
 payment_method →  na hora de encontrar o depara → OK
 LOCAL DOS ITENS NA NOTA → E-COMMERCE → OK
 confirmar pedido → quando processar → OK
+
+
+`<gadget >
+  <level id="025" description="Principal">
+    <container orientacao="V" tamanhoRelativo="100">
+      <grid id="grd_027" entityName="PluggtoPedido" multiplaSelecao="N" useNewGrid="S">
+        <title>
+          <![CDATA[
+          
+          
+          ACOMPANHAMENTO PLUGG.TO
+        
+        
+        ]]>
+        </title>
+        <expression type="sql" data-source="MGEDS">
+          <![CDATA[
+          SELECT 
+    PED.PLUGGID, 
+    PED.ORIGINALID, 
+    PED.STATUS,
+    PED.LOG,
+    PED.CODCLIENTE,
+    PAR.NOMEPARC,
+    PED.CODMKTPLC,
+    MKT.DESCRMKTPLC,
+    PED.NUNOTA,
+    PED.NUNOTANFE,
+    PED.DHCRIACAO
+FROM PLGTPED PED 
+INNER JOIN TGFPAR PAR ON PAR.CODPARC = PED.CODCLIENTE
+INNER JOIN PLGTMKTPLC MKT ON mkt.codmktplc = PED.CODMKTPLC
+WHERE PED.LOG IS NOT NULL
+ORDER BY PED.DHCRIACAO
+        
+        
+        ]]>
+        </expression>
+        <metadata>
+          <field name="PLUGGID" label="Plugg ID" type="S" visible="true" useFooter="false"></field>
+          <field name="ORIGINALID" label="Original ID" type="S" visible="true" useFooter="false"></field>
+          <field name="STATUS" label="Status" type="S" visible="true" useFooter="false"></field>
+          <field name="LOG" label="LOG" type="S" visible="true" useFooter="false"></field>
+          <field name="CODCLIENTE" label="Cód. Cliente" type="I" visible="true" useFooter="false"></field>
+          <field name="NOMEPARC" label="Cliente" type="S" visible="true" useFooter="false"></field>
+          <field name="CODMKTPLC" label="Cód. Marketplace" type="I" visible="true" useFooter="false"></field>
+          <field name="DESCRMKTPLC" label="Marketplace" type="S" visible="true" useFooter="false"></field>
+          <field name="NUNOTA" label="Nro. Único" type="I" visible="true" useFooter="false"></field>
+          <field name="NUNOTANFE" label="Nro. Único Pré-Nota" type="I" visible="true" useFooter="false"></field>
+          <field name="DHCRIACAO" label="Data Criação Pedido" type="D" visible="true" useFooter="false"></field>
+        </metadata>
+      </grid>
+    </container>
+  </level>
+</gadget>`

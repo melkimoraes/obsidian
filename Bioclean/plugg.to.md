@@ -154,7 +154,7 @@ to-do
 - [ ] Dashboard dos erros de log dos pedidos 
 	- [ ] mais botão de ação pra limpar o log principalmente de cancelar um faturado!
 		- [ ] pro botao acho melhor criar aquela tabela de log
-			- [ ] → ela vai ter usuario e ação,
+			- [ ] → ela vai ter usuario e ação, possiveis açoes seria deleçao do pedido/prenota, e o log limpo dps da trativa!
 - [x] botões de ação do pedido/produto → nao atualizar grid inteiro!!!
 - [x] atualizar a PLGTPROD na volta do botao processar produto!
 - [ ] futuramente:

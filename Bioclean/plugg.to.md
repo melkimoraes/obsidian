@@ -134,7 +134,7 @@ to-do
 		- [ ] pensando nas rotinas:
 			- [x] Busca → ja to buscando por status nao preciso ver se ta cancelada!
 			- [x] Processa → era aonde estava a alteração pra aprovado, mas tiramos. → aqui talvez verificar status
-			- [ ] Aprova → vai retornar se cancelado porem, nao estou tratando nada, como por exemplo excluir pedido. → aqui vai ter que lgoar e cancelar a NFE!
+			- [x] Aprova → vai retornar se cancelado porem, nao estou tratando nada, como por exemplo excluir pedido. → aqui vai ter que lgoar e cancelar a NFE!
 			- [ ] Gerar Etiqueta → nao sei se ao buscar label retorna cancelado, melhor tratar aqui também!
 			- [ ] a rotina dos 7 dias realmente é interessante → mas oq ela vai fazer!? excluir pre-nota? excluiir pedido?
 - [x] Tem o Pedido Full ainda!

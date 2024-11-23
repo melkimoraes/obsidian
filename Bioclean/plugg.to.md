@@ -149,13 +149,16 @@ to-do
 - [ ] Fazer documentação da rotina!
 - [x] continuar o cancelar no processar
 - [x] ajustar atualização de estoque dos kits → pega o menor estoque de um componente.
-- [ ] ATUALIZAR STATUS DOS PEDIDOS → pros pedidos, vai sendo nas ações e depois da aprovação tendo o NUNFE → vai ter uma ação que vai rodar +7 dias da aprovação pra ver cancelamento! e dai logar isso no log do pedido!
-	- [ ] sendo como status final o Entregue
+- [x] ATUALIZAR STATUS DOS PEDIDOS → pros pedidos, vai sendo nas ações e depois da aprovação tendo o NUNFE → vai ter uma ação que vai rodar +7 dias da aprovação pra ver cancelamento! e dai logar isso no log do pedido!
+	- [x] sendo como status final o Entregue
 - [x] Dashboard dos erros de log dos pedidos 
 	- [x] mais botão de ação pra limpar o log principalmente de cancelar um faturado!
 		- [x] pro botao acho melhor criar aquela tabela de log
 			- [x] → ela vai ter usuario e ação, possiveis açoes seria deleçao do pedido/prenota, e o log limpo dps da trativa!
 - [ ] Ligar hoje o atualiza preço/estoque!
+- [ ] subir a dash em prod
+- [ ] subir a ext em prod
+- [ ] Testar o atualizar status com pedido cancelado!!
 - [x] Segunda: ver pedido do full que nao caiu na pluggto!
 - [x] botões de ação do pedido/produto → nao atualizar grid inteiro!!!
 - [x] atualizar a PLGTPROD na volta do botao processar produto!

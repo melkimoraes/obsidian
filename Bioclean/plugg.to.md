@@ -159,6 +159,7 @@ to-do
 - [ ] subir a dash em prod
 - [ ] subir a ext em prod
 - [ ] adiciona  ação agendada atualizar status!
+- [ ] testar o atualizar status em produção pros entregues tb!! o status final
 - [x] Testar o atualizar status com pedido cancelado!!
 - [x] Segunda: ver pedido do full que nao caiu na pluggto!
 - [x] botões de ação do pedido/produto → nao atualizar grid inteiro!!!

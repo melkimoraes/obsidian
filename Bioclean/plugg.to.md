@@ -158,6 +158,7 @@ to-do
 - [ ] Ligar hoje o atualiza preço/estoque!
 - [ ] subir a dash em prod
 - [ ] subir a ext em prod
+- [ ] adiciona  ação agendada atualizar status!
 - [ ] Testar o atualizar status com pedido cancelado!!
 - [x] Segunda: ver pedido do full que nao caiu na pluggto!
 - [x] botões de ação do pedido/produto → nao atualizar grid inteiro!!!

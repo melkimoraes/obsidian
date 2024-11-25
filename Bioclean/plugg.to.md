@@ -127,17 +127,17 @@ to-do
 - [x] melhor colocar o Processar Produto, Processar Pedido como transação manual
 - [x] Abas na tela de produtos como - Frete, Itens, Pagamento, Cliente
 - [x] ver oq mais a Tati precisa na tela de Pedidos → nao coloquei informaçoes do cliente em especifico!
-- [ ] Sempre fazer uma consulta de pedido cancelado!? Colocar essa consulta na geração do pedido e na aprovação do pedido(faturamento)
-	- [ ] mas futuramente fazer um consulta de pedido cancelado → alinhar com o erick isso, pq talvez durante 7 dias depois do faturamento dos pedidos pluggto → monitor cancelamento.
-	- [ ] ou perguntar pra pluggto → até quando um pedido pode ser cancelado, ow se sempre podem ser
-	- [ ] O unico lugar que vai retornar erro ao tentar fazer algo com um pedido se estiver cancelado é no AprovaPedido → é aonde eu mexo no status!
-		- [ ] pensando nas rotinas:
+- [x] Sempre fazer uma consulta de pedido cancelado!? Colocar essa consulta na geração do pedido e na aprovação do pedido(faturamento)
+	- [x] mas futuramente fazer um consulta de pedido cancelado → alinhar com o erick isso, pq talvez durante 7 dias depois do faturamento dos pedidos pluggto → monitor cancelamento.
+	- [x] ou perguntar pra pluggto → até quando um pedido pode ser cancelado, ow se sempre podem ser
+	- [x] O unico lugar que vai retornar erro ao tentar fazer algo com um pedido se estiver cancelado é no AprovaPedido → é aonde eu mexo no status!
+		- [x] pensando nas rotinas:
 			- [x] Busca → ja to buscando por status nao preciso ver se ta cancelada!
 			- [x] Processa → era aonde estava a alteração pra aprovado, mas tiramos. → aqui talvez verificar status
 			- [x] Aprova → vai retornar se cancelado porem, nao estou tratando nada, como por exemplo excluir pedido. → aqui vai ter que lgoar e cancelar a NFE!
 			- [x] Gerar Etiqueta → nao sei se ao buscar label retorna cancelado, melhor tratar aqui também!
-			- [ ] a rotina dos 7 dias realmente é interessante → mas oq ela vai fazer!? excluir pre-nota? excluiir pedido?
-			- [ ] NA VDD VAMOS SOMAR ESSA IDEIA COM O ATUALIZAR STATUS DOS PEDIDOS ATÉ ENTREGUE!
+			- [x] a rotina dos 7 dias realmente é interessante → mas oq ela vai fazer!? excluir pre-nota? excluiir pedido?
+			- [x] NA VDD VAMOS SOMAR ESSA IDEIA COM O ATUALIZAR STATUS DOS PEDIDOS ATÉ ENTREGUE!
 - [x] Tem o Pedido Full ainda!
 - [x] testar o confirmar pedido!
 - [ ] Olist → quantidade de estoque pra eles é na geral da pluggto

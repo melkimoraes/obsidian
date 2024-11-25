@@ -160,7 +160,7 @@ to-do
 - [ ] subir a ext em prod
 - [ ] adiciona  ação agendada atualizar status!
 - [ ] testar o atualizar status em produção pros entregues tb!! o status final
-- [ ] buscar pedido → do mercado full, ja vem como faturado
+- [ ] buscar pedido → do mercado full, ja vem como faturado, talvez separar pra filtrar aquele campo delivery_description + ack false
 - [x] Testar o atualizar status com pedido cancelado!!
 - [x] Segunda: ver pedido do full que nao caiu na pluggto!
 - [x] botões de ação do pedido/produto → nao atualizar grid inteiro!!!

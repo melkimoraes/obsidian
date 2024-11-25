@@ -157,7 +157,7 @@ to-do
 			- [x] → ela vai ter usuario e ação, possiveis açoes seria deleçao do pedido/prenota, e o log limpo dps da trativa!
 - [ ] Ligar hoje o atualiza preço/estoque!
 - [ ] subir a dash em prod
-- [ ] subir a ext em prod
+- [x] subir a ext em prod
 - [ ] adiciona  ação agendada atualizar status!
 - [ ] testar o atualizar status em produção pros entregues tb!! o status final
 - [x] buscar pedido → do mercado full, ja vem como faturado, talvez separar pra filtrar aquele campo delivery_description + ack false

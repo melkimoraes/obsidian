@@ -155,7 +155,7 @@ to-do
 	- [x] mais botão de ação pra limpar o log principalmente de cancelar um faturado!
 		- [x] pro botao acho melhor criar aquela tabela de log
 			- [x] → ela vai ter usuario e ação, possiveis açoes seria deleçao do pedido/prenota, e o log limpo dps da trativa!
-- [ ] Ligar hoje o atualiza preço/estoque!
+- [x] Ligar hoje o atualiza preço/estoque!
 - [x] subir a dash em prod
 - [x] subir a ext em prod
 - [x] adiciona  ação agendada atualizar status!

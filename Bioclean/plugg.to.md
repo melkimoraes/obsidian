@@ -146,7 +146,7 @@ to-do
 - [ ] Coisas que faltam + essa lista de cima:
 	- [ ] Devolução do mercado full → ver como um pedido desse vai cair!? sera que é quando cancelar um pedido!?
 		- [ ] essa devolução provavelmente o mercado full emite! talvez tenha que dar entrada nessa devolução em sankhya!!
-- [ ] processar os outros 3 pedidos mercado ful
+- [x] processar os outros 3 pedidos mercado ful
 - [ ] Fazer documentação da rotina!
 - [x] continuar o cancelar no processar
 - [x] ajustar atualização de estoque dos kits → pega o menor estoque de um componente.

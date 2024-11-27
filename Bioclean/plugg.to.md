@@ -167,7 +167,8 @@ to-do
 - [x] botões de ação do pedido/produto → nao atualizar grid inteiro!!!
 - [x] atualizar a PLGTPROD na volta do botao processar produto!
 - [ ] futuramente:
-	- [ ] mais filtros na tela Pedidos como: data, status
+	- [x] mais filtros na tela Pedidos como: data, status
+	- [ ] COLOCAR O STATUS NA TELA DE PEDIDOS COMO LISTA DE OPÇAO
 	- [ ] mais filtros na tela Produtos como: AD_TIPO
 	- [ ] Promoções de preços.
 

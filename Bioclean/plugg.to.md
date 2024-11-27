@@ -169,7 +169,7 @@ to-do
 - [ ] futuramente:
 	- [x] mais filtros na tela Pedidos como: data, status
 	- [ ] COLOCAR O STATUS NA TELA DE PEDIDOS COMO LISTA DE OPÇAO
-	- [ ] mais filtros na tela Produtos como: AD_TIPO
+	- [x] mais filtros na tela Produtos como: AD_TIPO
 	- [ ] Promoções de preços.
 
 1736

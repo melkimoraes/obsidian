@@ -49,7 +49,8 @@
               "title": "Plugg.to"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,11 +213,11 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "6dbb4199fb731e76",
+  "active": "2e73ec687ce9de34",
   "lastOpenFiles": [
-    "Bioclean/Plugg.to.md",
-    "⭐.md",
     "Vortx/autbank levantamento 2.md",
+    "⭐.md",
+    "Bioclean/Plugg.to.md",
     "Vortx/ajuste autbank.md",
     "Diario/21-11-2024.md",
     "Brasil Paralelo/Notazz.md",

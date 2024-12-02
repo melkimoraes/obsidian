@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -241,11 +241,11 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "4ab5aef570cba4e0",
+  "active": "2e73ec687ce9de34",
   "lastOpenFiles": [
-    "JotaFlex/ireport.md",
     "JotaFlex/DAYS.md",
     "⭐.md",
+    "JotaFlex/ireport.md",
     "Vortx/autbank levantamento 2.md",
     "Vortx/ajuste autbank.md",
     "Bioclean/Plugg.to.md",

@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "00bb6ae84bd39c41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⭐.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "⭐"
+            }
+          },
+          {
             "id": "f3878e810a5309c4",
             "type": "leaf",
             "state": {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -255,10 +269,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "a64ee8acd5072b5c",
+  "active": "00bb6ae84bd39c41",
   "lastOpenFiles": [
-    "⭐.md",
     "Diario/04-12-2024.md",
+    "⭐.md",
     "Bioclean/Plugg.to.md",
     "Diario/03-12-2024.md",
     "JotaFlex/DAYS.md",

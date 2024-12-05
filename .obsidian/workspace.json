@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,10 +213,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "00bb6ae84bd39c41",
+  "active": "fcf1573ecb0c1a30",
   "lastOpenFiles": [
-    "⭐.md",
     "Diario/05-12-2024.md",
+    "⭐.md",
     "Bioclean/DAYS.md",
     "Diario/04-12-2024.md",
     "Bioclean/Cielo.md",

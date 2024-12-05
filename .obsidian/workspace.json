@@ -35,7 +35,8 @@
               "title": "⭐"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +199,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "4f760d80a11542a1",
+  "active": "00bb6ae84bd39c41",
   "lastOpenFiles": [
-    "Diario/04-12-2024.md",
     "Bioclean/DAYS.md",
+    "Diario/04-12-2024.md",
     "Bioclean/Cielo.md",
     "Bioclean/CALCULO COMISSAO AÇAO AGENDADA.md",
     "Bioclean/Comissao.md",

@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "dash - excel"
             }
+          },
+          {
+            "id": "0cdec809b176ec5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bioclean/Plugg.to.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plugg.to"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,12 +199,12 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "fcf1573ecb0c1a30",
+  "active": "0cdec809b176ec5e",
   "lastOpenFiles": [
+    "Hangcha/dash - excel.md",
     "Diario/25-10-2024.md",
     "Diario/30-10-2024.md",
     "⭐.md",
-    "Hangcha/dash - excel.md",
     "Hangcha",
     "Bioclean/DAYS.md",
     "Diario/05-12-2024.md",

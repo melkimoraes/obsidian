@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f760d80a11542a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bioclean/DAYS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DAYS"
-            }
-          },
-          {
             "id": "fcf1573ecb0c1a30",
             "type": "leaf",
             "state": {
@@ -198,11 +184,11 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "4f760d80a11542a1",
+  "active": "fcf1573ecb0c1a30",
   "lastOpenFiles": [
+    "Bioclean/DAYS.md",
     "Diario/05-12-2024.md",
     "⭐.md",
-    "Bioclean/DAYS.md",
     "Diario/04-12-2024.md",
     "Bioclean/Cielo.md",
     "Bioclean/CALCULO COMISSAO AÇAO AGENDADA.md",

@@ -91,3 +91,5 @@ Devolução -> só nas notas de NFEA
 ---
 
 BP PRODUCAO~1
+
+TRG_TSICID_SP_GM

@@ -28,3 +28,4 @@ ACOMPANHAMENTO GURU - GERAR NOTAS → colocar coluna de canceladas! nova 🆗
 → subir dashs
 → subir rotina
 → subir paises → estados → cidades.
+→ ver as telas de configuração → 

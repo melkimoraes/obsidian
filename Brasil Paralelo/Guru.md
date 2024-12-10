@@ -23,3 +23,7 @@ ACOMPANHAMENTO GURU - GERAR NOTAS → colocar coluna de canceladas! nova 🆗
 
 
 - [x] fazer uma top de serviço de exportação !?
+
+→ subir dashs
+→ subir rotina
+→ subir paises → estados → cidades.

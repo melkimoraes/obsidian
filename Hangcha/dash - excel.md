@@ -4,3 +4,6 @@ Para termos os alinhamentos corretos, me confirme por favor as informações aba
 - Por Período / data
 - Filtro por empresa
 - Por grupo de produtos (o relatório mostrará informações separadas pelos grupos)
+
+
+custo de reposição.

@@ -29,3 +29,4 @@ ACOMPANHAMENTO GURU - GERAR NOTAS → colocar coluna de canceladas! nova 🆗
 → subir rotina
 → subir paises → estados → cidades.
 → ver as telas de configuração → 
+→ tirar a conta SMTP minha da prod!

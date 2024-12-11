@@ -25,8 +25,10 @@ ACOMPANHAMENTO GURU - GERAR NOTAS → colocar coluna de canceladas! nova 🆗
 - [x] fazer uma top de serviço de exportação !?
 
 - [x] → integração tirar o limite de 2 paginas 🆗
-- [ ] → subir dashs
+- [x] → subir dashs
 - [x] → subir rotina 🆗
 - [x] → subir paises → estados → cidades.
 - [x] → ver as telas de configuração →  🆗
+- [ ] ver os erros em testes → consertar e subir o java
+- [ ] ver as preferencias
 - [ ] → tirar a conta SMTP minha da prod!

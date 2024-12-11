@@ -30,5 +30,5 @@ ACOMPANHAMENTO GURU - GERAR NOTAS → colocar coluna de canceladas! nova 🆗
 - [x] → subir paises → estados → cidades.
 - [x] → ver as telas de configuração →  🆗
 - [ ] ver os erros em testes → consertar e subir o java
-- [ ] ver as preferencias
+- [x] ver as preferencias
 - [ ] → tirar a conta SMTP minha da prod!

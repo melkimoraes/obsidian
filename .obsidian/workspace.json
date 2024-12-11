@@ -35,7 +35,8 @@
               "title": "Guru"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +199,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "8cf8ba5d6f58fbc6",
+  "active": "3df56e5556e3a181",
   "lastOpenFiles": [
-    "Brasil Paralelo/Guru.md",
     "⭐.md",
+    "Brasil Paralelo/Guru.md",
     "Bioclean/Plugg.to.md",
     "Brasil Paralelo/Notazz.md",
     "Hangcha/dash - excel.md",

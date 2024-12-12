@@ -33,3 +33,4 @@ ACOMPANHAMENTO GURU - GERAR NOTAS → colocar coluna de canceladas! nova 🆗
 - [x] ver as preferencias
 - [x] → tirar a conta SMTP minha da prod!
 - [ ] colocar os filtros no portal de vendas amanha → (ta no notion)
+- [ ] PORQUE AS CANCELADAS PROCESSADAS NAO ESTAO COMO SIM

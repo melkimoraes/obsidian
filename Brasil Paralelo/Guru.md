@@ -32,7 +32,7 @@ ACOMPANHAMENTO GURU - GERAR NOTAS → colocar coluna de canceladas! nova 🆗
 - [x] ver os erros em testes → consertar e subir o java
 - [x] ver as preferencias
 - [x] → tirar a conta SMTP minha da prod!
-- [ ] colocar os filtros no portal de vendas amanha → (ta no notion)
+- [x] colocar os filtros no portal de vendas amanha → (ta no notion)
 - [x] PORQUE AS CANCELADAS PROCESSADAS NAO ESTAO COMO SIM
 - [x] DASHBOARD PRA EXTRAIR EXCEL DE FATURAS GERADAS COM BASE NA DATA DE MOVIMENTO E AS TOPS' DA GURU. → EXTRAIR DADOS GURU
 

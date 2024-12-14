@@ -12,5 +12,3 @@ ainda sim formato americano MM/DD/AAAA
 
 ---
 
-o TABELA_DB_ENT → nao preenchi com 50 zeros
-TABELA_CR_ENT mesma coisa

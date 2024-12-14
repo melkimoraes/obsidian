@@ -9,3 +9,8 @@ ainda sim formato americano MM/DD/AAAA
 + tombamento em janeiro
 
 + subir layout excel das contas.
+
+---
+
+o TABELA_DB_ENT → nao preenchi com 50 zeros
+TABELA_CR_ENT mesma coisa

@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,10 +227,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "ee927e894ae26f3d",
+  "active": "fa53c06e2b3cc8ec",
   "lastOpenFiles": [
-    "Diario/18-12-2024.md",
     "Diario/19-12-2024.md",
+    "Diario/18-12-2024.md",
     "⭐.md",
     "Bioclean/Plugg.to.md",
     "Bioclean/Cielo.md",

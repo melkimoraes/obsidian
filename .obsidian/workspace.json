@@ -35,7 +35,8 @@
               "title": "⭐"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +199,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "ee927e894ae26f3d",
+  "active": "bf4facf988e7aa1e",
   "lastOpenFiles": [
-    "⭐.md",
     "Diario/19-12-2024.md",
+    "⭐.md",
     "Diario/18-12-2024.md",
     "Vortx/autbank levantamento 2.md",
     "Bioclean/Plugg.to.md",

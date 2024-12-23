@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,10 +213,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "bf4facf988e7aa1e",
+  "active": "75e05c10d9f3a61c",
   "lastOpenFiles": [
-    "Diario/20-12-2024.md",
     "Diario/23-12-2024.md",
+    "Diario/20-12-2024.md",
     "Diario/19-12-2024.md",
     "⭐.md",
     "Diario/18-12-2024.md",

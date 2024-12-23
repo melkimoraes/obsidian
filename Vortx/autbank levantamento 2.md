@@ -14,3 +14,6 @@ ainda sim formato americano MM/DD/AAAA
 
 
 As contas eu nao mexi, nao fiz bater 100 caracteres → **Ajustado CONTA_DB, CONTA_CR tamano de 15 caracteres para 100 caracteres**
+
+
+VIRADA JANEIR

@@ -37,3 +37,5 @@ ACOMPANHAMENTO GURU - GERAR NOTAS → colocar coluna de canceladas! nova 🆗
 - [x] DASHBOARD PRA EXTRAIR EXCEL DE FATURAS GERADAS COM BASE NA DATA DE MOVIMENTO E AS TOPS' DA GURU. → EXTRAIR DADOS GURU
 - [ ] caso alguma vez o cancelar for executado da forma como está, sem ter gerado todas as notas, alterar o cancelardevolver pra quando algum campo na ad_intguru estiver marcado como ja gerou todas as notas!
 
+
+notificar

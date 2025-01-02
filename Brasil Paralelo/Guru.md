@@ -38,4 +38,5 @@ ACOMPANHAMENTO GURU - GERAR NOTAS → colocar coluna de canceladas! nova 🆗
 - [ ] caso alguma vez o cancelar for executado da forma como está, sem ter gerado todas as notas, alterar o cancelardevolver pra quando algum campo na ad_intguru estiver marcado como ja gerou todas as notas!
 
 
-notificar
+notificar a carol:
+- [ ] Nota Nro. Único 2615566. O cancelamento de nota NF-e após 24 horas da 'Dt. Protocolo NF-e' é permitido somente se a empresa estiver configurada com denúncia espontânea nas preferências da empresa, aba NF-e.

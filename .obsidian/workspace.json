@@ -35,7 +35,8 @@
               "title": "⭐"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +199,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "c3c798d6a9e51d08",
+  "active": "7d945c2ce5dab861",
   "lastOpenFiles": [
-    "Bioclean/CALCULO COMISSAO AÇAO AGENDADA.md",
     "Bioclean/Comissao.md",
+    "Bioclean/CALCULO COMISSAO AÇAO AGENDADA.md",
     "Estudos/DevOps/Roadmap.md",
     "Diario/20-12-2024.md",
     "Estudos/DevOps",

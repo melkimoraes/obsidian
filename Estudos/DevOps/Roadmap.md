@@ -1,6 +1,3 @@
-DevOps x SRE x Engenharia de Plataforma
+Wsl → [[WSL]]
+Docker
 
-
-DevOps → implantação inicial da entrega do produto
-SRE → escabilidade, confiabilidade
-Engenharia de Plataforma → descreve melhor isso pra time que vai utilizar

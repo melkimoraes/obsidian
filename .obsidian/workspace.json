@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "⭐"
             }
-          },
-          {
-            "id": "ed432cfbb93f64f1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Bioclean/Flow/Flow.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Flow"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +185,12 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "ed432cfbb93f64f1",
+  "active": "7d945c2ce5dab861",
   "lastOpenFiles": [
-    "Bioclean/Camila.md",
+    "Bioclean/Flow/Flow.excalidraw",
+    "Bioclean/Flow/Flow.md",
     "⭐.md",
+    "Bioclean/Camila.md",
     "Estudos/DevOps/WSL.md",
     "Estudos/DevOps/Roadmap.md",
     "Bioclean/Comissao.md",
@@ -229,13 +218,10 @@
     "Diario/25-10-2024.md",
     "Diario/30-10-2024.md",
     "Hangcha",
-    "Bioclean/DAYS.md",
-    "Diario/05-12-2024.md",
     "Diario",
     "2024",
     "25/10",
     "25",
-    "31/10",
     "Sem título.canvas",
     "Pasted image 20240819175130.png",
     "Pasted image 20240318154059.png",

@@ -49,8 +49,7 @@
               "title": "WSL"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,10 +212,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "c40cfd5e7c1da5a3",
+  "active": "7d945c2ce5dab861",
   "lastOpenFiles": [
-    "Estudos/DevOps/Roadmap.md",
     "Estudos/DevOps/WSL.md",
+    "Estudos/DevOps/Roadmap.md",
     "⭐.md",
     "Bioclean/Comissao.md",
     "Bioclean/CALCULO COMISSAO AÇAO AGENDADA.md",

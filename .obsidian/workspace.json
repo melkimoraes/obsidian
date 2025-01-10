@@ -35,8 +35,7 @@
               "title": "Roadmap"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,8 +199,9 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "239597de360064ec",
+  "active": "7d945c2ce5dab861",
   "lastOpenFiles": [
+    "Estudos/Kotlin/Roadmap.md",
     "⭐.md",
     "Bioclean/Flow/Flow.excalidraw",
     "Bioclean/Flow/Flow.md",
@@ -216,7 +216,6 @@
     "Diario/17-12-2024.md",
     "Diario/18-12-2024.md",
     "Diario/19-12-2024.md",
-    "Estudos/Kotlin/Roadmap.md",
     "Estudos/Kotlin",
     "Estudos",
     "Brasil Paralelo/Guru.md",

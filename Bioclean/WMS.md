@@ -1,0 +1,3 @@
+STP_REGNEG_GERATRANSFPROD_BIO 🆗
+TRG_IU_TPRAMP_QTDMULT_BIO 🆗
+STP_REGNEG_GERAARMAZWMS_BIO 🆗 → desativada, e depende tb de ter a TOP 1809

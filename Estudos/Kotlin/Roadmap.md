@@ -65,6 +65,40 @@ Claro! Aqui está o conteúdo formatado como uma lista para você copiar e usar 
 - **Propriedades**
     - Getters e setters automáticos.
     - Uso de `val` e `var` em classes.
+⭐minhas anotações
+- Use `val` para propriedades imutáveis (apenas `getter`).
+- Use `var` para propriedades mutáveis (tem `getter` e `setter`).
+- Getters e setters padrão são gerados automaticamente, mas você pode customizá-los se necessário.
+- Bloco `init` pode ser usado para inicializações personalizadas.
+```kotlin
+class Pessoa(nome: String, idade: Int) {
+    val saudacao: String
+
+    init {
+        saudacao = "Olá, meu nome é $nome e tenho $idade anos."
+    }
+}
+
+fun main() {
+    val pessoa = Pessoa("João", 25)
+    println(pessoa.saudacao) // Saída: Olá, meu nome é João e tenho 25 anos.
+}
+
+```
+ - Get pra setar uma variavel como se fosse um campo calculado:
+```kotlin
+class Retangulo(val largura: Int, val altura: Int) {
+    val area: Int
+        get() = largura * altura
+}
+
+fun main() {
+    val retangulo = Retangulo(5, 10)
+    println(retangulo.area) // Saída: 50
+}
+
+```
+
 - **Herança**
     - Modificador `open` para permitir herança:
         

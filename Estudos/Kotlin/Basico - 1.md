@@ -127,3 +127,34 @@ val readOnlyJuiceMenu = mapOf("apple" to 100, "kiwi" to 190, "orange" to 100)
 println("The value of apple juice is: ${readOnlyJuiceMenu["apple"]}")
 // The value of apple juice is: 100
 ```
+
+
+Controle de condições:
+- If → normal, só o ternario como eu vi, muda um pouco mas ok
+- When → substitui o switch do java
+```kotlin
+val obj = "Hello"
+
+when (obj) {
+    // Checks whether obj equals to "1"
+    "1" -> println("One")
+    // Checks whether obj equals to "Hello"
+    "Hello" -> println("Greeting")
+    // Default statement
+    else -> println("Unknown")     
+}
+
+// uma variavel com expressao com when:
+val obj = "Hello"    
+
+val result = when (obj) {
+    // If obj equals "1", sets result to "one"
+    "1" -> "One"
+    // If obj equals "Hello", sets result to "Greeting"
+    "Hello" -> "Greeting"
+    // Sets result to "Unknown" if no previous condition is satisfied
+    else -> "Unknown"
+}
+```
+- For
+- While

@@ -203,7 +203,7 @@ do {
 ```
 
 
-Lambda expressions → de vez de fazer uma function usamos uma função anonima:
+Lambda expressions → facilita, as vezes nao precisando chamar uma função, ou usar uma função com retorno em lambda!:
 ```kotlin
 fun main() {
     val upperCaseString = { text: String -> text.uppercase() }
@@ -242,5 +242,20 @@ println(tripled)
 // [3, -6, 9, -12, 15, -18]
 ```
 
-Function types → lambda pro retorno do tipo da função
+Retorno de funções com labda:
+```kotlin
+fun toSeconds(time: String): (Int) -> Int = when (time) {
+    "hour" -> { value -> value * 60 * 60 }
+    "minute" -> { value -> value * 60 }
+    "second" -> { value -> value }
+    else -> { value -> value }
+}
 
+fun main() {
+    val timesInMinutes = listOf(2, 10, 15, 1)
+    val min2sec = toSeconds("minute")
+    val totalTimeInSeconds = timesInMinutes.map(min2sec).sum()
+    println("Total time is $totalTimeInSeconds secs")
+    // Total time is 1680 secs
+}
+```

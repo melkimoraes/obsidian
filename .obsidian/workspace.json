@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos/Kotlin/Roadmap.md",
+                "file": "Estudos/Kotlin/Avançado (Null safety) - 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "Avançado (Null safety) - 3"
             }
           }
         ],
@@ -215,8 +215,9 @@
   },
   "active": "4d82d2c9120ce9a3",
   "lastOpenFiles": [
-    "Estudos/Kotlin/Médio (Classes) POO - 2.md",
     "Estudos/Kotlin/Roadmap.md",
+    "Estudos/Kotlin/Avançado (Null safety) - 3.md",
+    "Estudos/Kotlin/Médio (Classes) POO - 2.md",
     "Estudos/Kotlin/Basico (Tipos, functions, lambdas) - 1.md",
     "⭐.md",
     "JotaFlex/ireport.md",
@@ -244,7 +245,6 @@
     "Estudos/Kotlin",
     "Estudos",
     "Brasil Paralelo/Guru.md",
-    "BP/Per Dcomp.md",
     "BP",
     "Hangcha",
     "Diario",

@@ -8,55 +8,7 @@ Claro! Aqui está o conteúdo formatado como uma lista para você copiar e usar 
 
 [[Médio (Classes) POO - 2]]
 
----
-
-#### **3. Funcionalidades Específicas do Kotlin (3-4 semanas)**
-
-- **Null Safety**
-    - Trabalhar com valores nulos:
-        
-        ```kotlin
-        var nome: String? = null
-        println(nome?.length) // Safe call
-        ```
-        
-- **Extensões**
-    - Criar funções de extensão:
-        
-        ```kotlin
-        fun String.espelhar(): String = this.reversed()
-        println("Kotlin".espelhar()) // "niltoK"
-        ```
-        
-- **Expressões Lambdas**
-    - Uso de lambdas:
-        
-        ```kotlin
-        val dobro = { x: Int -> x * 2 }
-        println(dobro(4)) // 8
-        ```
-        
-- **Collections (List, Map, Set)**
-    - Operações em coleções:
-        
-        ```kotlin
-        val numeros = listOf(1, 2, 3, 4)
-        val dobrados = numeros.map { it * 2 }
-        ```
-        
-- **Coroutines (Introdução)**
-    - Conhecer o básico sobre programação assíncrona:
-        
-        ```kotlin
-        import kotlinx.coroutines.*
-        fun main() = runBlocking {
-            launch {
-                delay(1000L)
-                println("Kotlin Coroutines!")
-            }
-        }
-        ```
-        
+[[Avançado (Null safety) - 3]]
 
 ---
 

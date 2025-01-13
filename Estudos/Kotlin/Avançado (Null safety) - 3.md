@@ -15,8 +15,15 @@
 		    println(lengthString(nullString))
 		    // null
 		}
+
+		//também tem a opção de usar o elvis operator no caso de null:
+		fun main() {
+		    val nullString: String? = null
+		    println(nullString?.length ?: 0)
+		    // 0
+		}
         ```
-        
+		
 - **Extensões**
     - Criar funções de extensão:
         

@@ -98,6 +98,25 @@ fun main() {
 }
 
 ```
+- Data Class: 
+> As `data class` são usadas para classes que apenas armazenam dados. O Kotlin automaticamente gera métodos como `toString()`, `equals()`, e `hashCode()`.
+```kotlin
+// Data class para representar dados simples
+data class Usuario(val nome: String, val email: String)
+
+fun main() {
+    val usuario1 = Usuario("Alice", "alice@email.com")
+    val usuario2 = Usuario("Bob", "bob@email.com")
+
+    println(usuario1) // Saída: Usuario(nome=Alice, email=alice@email.com)
+
+    // Comparação de objetos
+    val usuario3 = Usuario("Alice", "alice@email.com")
+    println(usuario1 == usuario3) // Saída: true (compara os valores)
+}
+
+```
+
 
 - **Herança**
     - Modificador `open` para permitir herança:

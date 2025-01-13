@@ -58,7 +58,7 @@ fun main() {
 }
 ```
 
-acessando itens da lista:
+	acessando itens da lista:
 ```kotlin
 val readOnlyShapes = listOf("triangle", "square", "circle")
 println("The first item in the list is: ${readOnlyShapes[0]}")
@@ -87,6 +87,7 @@ shapes.remove("pentagon")
 println(shapes)  
 // [triangle, square, circle]
 ```
+
 - Sets - lista desordenada → métodos iniciais iguais do List!
 ```kotlin
 // Read-only set
@@ -97,4 +98,24 @@ val fruit: MutableSet<String> = mutableSetOf("apple", "banana", "cherry", "cherr
 println(readOnlyFruit)
 // [apple, banana, cherry]
 ```
+
 - Maps - chave valor
+```kotlin
+// Read-only map
+val readOnlyJuiceMenu = mapOf("apple" to 100, "kiwi" to 190, "orange" to 100)
+println(readOnlyJuiceMenu)
+// {apple=100, kiwi=190, orange=100}
+
+// Mutable map with explicit type declaration
+val juiceMenu: MutableMap<String, Int> = mutableMapOf("apple" to 100, "kiwi" to 190, "orange" to 100)
+println(juiceMenu)
+// {apple=100, kiwi=190, orange=100}
+```
+
+To access a value in a map, use the [indexed access operator](https://kotlinlang.org/docs/operator-overloading.html#indexed-access-operator) `[]` with its key:
+```kotlin
+// Read-only map
+val readOnlyJuiceMenu = mapOf("apple" to 100, "kiwi" to 190, "orange" to 100)
+println("The value of apple juice is: ${readOnlyJuiceMenu["apple"]}")
+// The value of apple juice is: 100
+```

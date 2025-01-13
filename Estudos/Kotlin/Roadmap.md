@@ -4,9 +4,9 @@ Claro! Aqui está o conteúdo formatado como uma lista para você copiar e usar 
 
 ### **Roadmap Kotlin para quem já conhece Java**
 
-[[Basico - 1]]
+[[Basico (Tipos, functions, lambdas) - 1]]
 
-[[Médio POO - 2]]
+[[Médio (Classes) POO - 2]]
 
 ---
 

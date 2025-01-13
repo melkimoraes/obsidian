@@ -6,7 +6,8 @@
         ```kotlin
         class Pessoa(val nome: String, var idade: Int)
         ```
-        
+     → no kotlin nao precisa declarar as variaveis se elas ja estiverem no construtor, claro que se nao tiver no construtor ai sim declarar no corpo da classe
+     
     - Instanciar objetos:
         
         ```kotlin

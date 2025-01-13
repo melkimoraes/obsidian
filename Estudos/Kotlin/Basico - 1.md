@@ -241,3 +241,6 @@ println(doubled)
 println(tripled)
 // [3, -6, 9, -12, 15, -18]
 ```
+
+Function types → lambda pro retorno do tipo da função
+

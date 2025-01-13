@@ -88,6 +88,14 @@ println(shapes)
 // [triangle, square, circle]
 ```
 
+checar se algo existe dentro da lista,map é igual:
+
+```kotlin
+val readOnlyFruit = setOf("apple", "banana", "cherry", "cherry")
+println("banana" in readOnlyFruit)
+// true
+```
+
 - Sets - lista desordenada → métodos iniciais iguais do List!
 ```kotlin
 // Read-only set

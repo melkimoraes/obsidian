@@ -79,7 +79,7 @@ fun main() {
                 
 - **Singletons com `object`**
     - Criar singletons:
-        
+        ⭐ vou dar mais um exemplo ali embaixo.
         ```kotlin
         object Configuracao {
             val url = "http://meusite.com"
@@ -102,3 +102,143 @@ fun main() {
 }
 
 ```
+
+#### **Singleton (`object`)**
+
+Os singletons são usados quando você precisa de uma única instância global em todo o seu aplicativo. Um caso comum é para gerenciar configurações ou fornecer serviços centralizados, como um logger ou uma conexão de banco de dados.
+
+```kotlin
+// Singleton para gerenciar configurações globais
+object Configuracao {
+    var modoEscuro: Boolean = false
+
+    fun exibirConfiguracoes() {
+        println("Modo Escuro: $modoEscuro")
+    }
+}
+
+fun main() {
+    Configuracao.modoEscuro = true
+    Configuracao.exibirConfiguracoes() // Saída: Modo Escuro: true
+}
+
+```
+
+
+
+---
+
+#### **Objeto Anônimo**
+
+Objetos anônimos são úteis quando você precisa de uma instância única e rápida de uma classe, geralmente para implementações de interfaces ou classes abstratas "na hora". Um exemplo clássico é o uso em listeners ou callbacks.
+
+```kotlin
+// Implementação rápida de uma interface
+interface ClickListener {
+    fun onClick()
+}
+
+fun configurarBotao(listener: ClickListener) {
+    println("Botão configurado.")
+    listener.onClick()
+}
+
+fun main() {
+    configurarBotao(object : ClickListener {
+        override fun onClick() {
+            println("Botão clicado!")
+        }
+    })
+    // Saída:
+    // Botão configurado.
+    // Botão clicado!
+}
+
+```
+
+---
+
+### **Modificadores de Acesso no Kotlin**
+
+Os modificadores de acesso controlam a visibilidade de classes, propriedades, funções, etc.
+
+|Modificador|Descrição|
+|---|---|
+|`public`|Visível para todos (padrão, mesmo que não seja explicitado).|
+|`private`|Visível apenas dentro do escopo em que foi declarado (classe ou arquivo).|
+|`protected`|Igual ao `private`, mas permite acesso em classes derivadas.|
+|`internal`|Visível apenas dentro do mesmo módulo (um módulo é geralmente um projeto ou biblioteca).|
+
+
+---
+
+### **Interface**
+
+- As interfaces definem contratos que as classes devem implementar.
+- Diferente de classes abstratas, uma interface não pode armazenar estado, mas pode conter **funções com implementação padrão**.
+
+```kotlin
+interface Veiculo {
+    val tipo: String
+    fun mover() // Método abstrato
+    fun parar() {
+        println("O veículo parou.") // Método com implementação padrão
+    }
+}
+
+class Carro : Veiculo {
+    override val tipo: String = "Carro"
+    override fun mover() {
+        println("O carro está se movendo.")
+    }
+}
+
+fun main() {
+    val carro = Carro()
+    println(carro.tipo) // Saída: Carro
+    carro.mover()       // Saída: O carro está se movendo.
+    carro.parar()       // Saída: O veículo parou.
+}
+
+```
+
+---
+
+### **Classes Abstratas**
+
+- As classes abstratas podem conter propriedades e métodos com ou sem implementação.
+- Diferente de interfaces, elas podem armazenar estado e conter um construtor.
+
+```kotlin
+abstract class Animal(val nome: String) {
+    abstract fun emitirSom() // Método abstrato
+
+    fun dormir() {
+        println("$nome está dormindo.") // Método com implementação
+    }
+}
+
+class Cachorro(nome: String) : Animal(nome) {
+    override fun emitirSom() {
+        println("$nome está latindo: Au au!")
+    }
+}
+
+fun main() {
+    val cachorro = Cachorro("Rex")
+    cachorro.emitirSom() // Saída: Rex está latindo: Au au!
+    cachorro.dormir()    // Saída: Rex está dormindo.
+}
+
+```
+
+---
+
+### **Comparação: Interface vs Classe Abstrata**
+
+|Característica|Interface|Classe Abstrata|
+|---|---|---|
+|Construtor|Não possui|Pode possuir|
+|Implementação padrão|Sim, desde que não dependa de estado|Sim|
+|Estado (propriedades com valores)|Não pode ter|Pode armazenar valores|
+|Herança múltipla|Sim, uma classe pode implementar várias|Não, apenas uma classe base abstrata|

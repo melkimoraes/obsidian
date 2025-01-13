@@ -37,4 +37,10 @@
             else -> println("Outro dia")
         }
         ```
-        
+
+Tipos
+	- String, Char, Double, Boolean
+
+Collections
+- Lists - lista ordenada
+- Sets - lista desorneda

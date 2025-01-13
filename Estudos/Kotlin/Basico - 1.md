@@ -156,7 +156,7 @@ val result = when (obj) {
     else -> "Unknown"
 }
 ```
-- For
+- For → tendo a possibilidade de usar continue ou break!
 ```kotlin
 for (number in 1..5) { 
     // number is the iterator and 1..5 is the range

@@ -42,9 +42,23 @@
 		    println(text.isPalindrome()) // true
 		}
 
+		// OUTRO EXEMPLO - Propriedade de extensão para a classe List<Int>
+		val List<Int>.sumEven: Int
+		    get() = this.filter { it % 2 == 0 }.sum()
+		
+		fun main() {
+		    val numbers = listOf(1, 2, 3, 4, 5, 6)
+		    println(numbers.sumEven) // 12 (soma de 2 + 4 + 6)
+		}
+
+
         ```
         - A função `isPalindrome` foi adicionada à classe `String`.
 		- Agora, qualquer `String` pode chamar essa função diretamente.
+
+	- **Extensões não modificam a classe original.** Elas apenas adicionam funcionalidades no contexto onde são usadas.
+	- **Não podem acessar membros privados ou protegidos da classe original.**
+	- **Podem ser usadas em tipos nulos.** Você pode tratar `null` diretamente na extensão.
 
 - **Coroutines (Introdução)**
     - Conhecer o básico sobre programação assíncrona:

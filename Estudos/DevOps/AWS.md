@@ -30,3 +30,5 @@ VPC  → SubNet → EC2
 
 EC2 → vai escolher qual OS ou imagem vai utilizar, no caso o professor selecionou Ubuntu.
 na criação da EC2 depois vai pedir pra vc selecionar a instancia que dai tem a especificação da maquina e o preço.
+se vai criar uma chave ali tb, e salvar ela no pc pq ela vai habilitar pra acesso via s
+na configuração de rede se vai colocar a vpc e subnet

@@ -50,3 +50,4 @@ só que a subnet nao fizemos publica → nao deu certo acessar dessa forma, como
 	→ AQUI PRECISA DO IG → Internet Gateway na VPC!
 		→ entrar na VPC → na aba do lado vai ter internet gateway
 		→ e depois vai atacchar na VPC
+		→ e agora Route tables → cria uma e seleciona a VPC → e depois associar essa RT na subnet, ali na RT tem associar Subnet

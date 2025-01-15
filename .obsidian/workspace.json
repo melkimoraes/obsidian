@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,10 +241,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "acffcee7eeb0dab5",
+  "active": "bced8019adbdb76a",
   "lastOpenFiles": [
-    "Estudos/DevOps/AWS.md",
     "⭐.md",
+    "Estudos/DevOps/AWS.md",
     "Diario/15-01-2025.md",
     "Estudos/Kotlin/Avançado (Null safety) - 3.md",
     "Diario/14-01-2025.md",

@@ -46,4 +46,7 @@ a chave .pem ele jogou na pasta de ssh no ubuntu do wsl, comando pra conectar vi
 ssh -i live.pem ubuntu@ip_publico
 live.pem é o nome da chave na pasta ssh.
 
-só que a subnet nao fizemos publica → nao deu certo acessar dessa forma, como fazer a subrede se tornar publica?
+só que a subnet nao fizemos publica → nao deu certo acessar dessa forma, como fazer a subrede se tornar publica? 
+	→ AQUI PRECISA DO IG → Internet Gateway na VPC!
+		→ entrar na VPC → na aba do lado vai ter internet gateway
+		→ e depois vai atacchar na VPC

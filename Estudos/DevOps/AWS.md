@@ -60,3 +60,4 @@ ec2 → Instances → actions → manage instance state → terminate → salvar
 vpc → route tables → desassociar a subnet nela
 	deletar a route table
 	internet gateways → desatachar → deletar dps
+	deletar VPC

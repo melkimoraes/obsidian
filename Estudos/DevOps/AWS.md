@@ -6,13 +6,25 @@ Cloud Providers famoso: AWS, Azure e GCP (Google)
 
 o servidor norte da virginia é mais barato principalmente pra quem ta estudando!
 
+Professor deixa claro pra nao usar o root da criação da conta aws e sim criar um usuario com acesso total mas outro usuario, usando o serviço IAM dentro da aws.
+
 # VPC
 
 Pra tudo que for usar no AWS seja kubernets, EC2 e etc. Criar VPC pra um novo serviço sempre na AWS.
 
 Nao usar VPC padrao que eles criam!
 
-VPC → tem a CIDR(Cider block) que é o endereço ip do condominio
+VPC → tem a CIDR Block que é o endereço ip do condominio
 
 Subnet
 vai criar uma subred→ queria seria o bloco do condominio
+E na vdd aqui na criação vc vincula a AZ (que seria aquelas AZ’s que aparecem disponivel no mundo tod da AWS, no caso N. Virginia)
+e aqui vai colocar o CIDR da subnet → ali seria quantos apartamentos vai ter condominio
+
+
+e agora sim posso colocar algum serviço dentro da subnet!
+
+
+VPC  → SubNet → EC2
+
+

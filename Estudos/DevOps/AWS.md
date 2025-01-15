@@ -45,3 +45,5 @@ na parte debaixo do EC2 já aparece tudo, ip publico, ip privado e por ai vai.
 a chave .pem ele jogou na pasta de ssh no ubuntu do wsl, comando pra conectar via cmd do ubuntu:
 ssh -i live.pem ubuntu@ip_publico
 live.pem é o nome da chave na pasta ssh.
+
+só que a subnet nao fizemos publica → nao deu certo acessar dessa forma, como fazer a subrede se tornar publica?

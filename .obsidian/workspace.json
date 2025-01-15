@@ -27,6 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Diario/15-01-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15-01-2025"
+            }
+          },
+          {
+            "id": "bced8019adbdb76a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Estudos/DevOps/AWS.md",
                 "mode": "source",
                 "source": false
@@ -215,12 +229,12 @@
   },
   "active": "fd1845732b6fbf98",
   "lastOpenFiles": [
+    "Estudos/DevOps/AWS.md",
     "Diario/15-01-2025.md",
     "Estudos/Kotlin/Avançado (Null safety) - 3.md",
     "Diario/14-01-2025.md",
     "Estudos/DevOps/Roadmap.md",
     "Estudos/DevOps/Docker.md",
-    "Estudos/DevOps/AWS.md",
     "Pasted image 20250115104558.png",
     "⭐.md",
     "Estudos/DevOps/WSL.md",

@@ -30,7 +30,7 @@ VPC  → SubNet → EC2
 
 EC2 → vai escolher qual OS ou imagem vai utilizar, no caso o professor selecionou Ubuntu.
 na criação da EC2 depois vai pedir pra vc selecionar a instancia que dai tem a especificação da maquina e o preço.
-se vai criar uma chave ali tb, e salvar ela no pc pq ela vai habilitar pra acesso via ssh
+se vai criar uma chave ali tb, e salvar ela no pc pq ela vai habilitar pra acesso via ssh (escolher o .pem)
 na configuração de rede se vai colocar a vpc e subnet
 habilita o acesso via ip publico
 e ele desligou firewall por ser pra estudo né, produção no caso nao faria isso.
@@ -40,4 +40,8 @@ agora em EC2 → em instancias → vai ter a que criamos executando! o status ch
 
 EKS no aws tem firewall. caso precise um dia.
 
-na parte debaixo do EC2 já aparece tudo, ip publico
+na parte debaixo do EC2 já aparece tudo, ip publico, ip privado e por ai vai.
+
+a chave .pem ele jogou na pasta de ssh no ubuntu do wsl, comando pra conectar via cmd do ubuntu:
+ssh -i live.pem ubuntu@ip_publico
+live.pem é o nome da chave na pasta ssh.

@@ -28,3 +28,5 @@ e agora sim posso colocar algum serviço dentro da subnet!
 VPC  → SubNet → EC2
 
 
+EC2 → vai escolher qual OS ou imagem vai utilizar, no caso o professor selecionou Ubuntu.
+na criação da EC2 depois vai pedir pra vc selecionar a instancia que dai tem a especificação da maquina e o preço.

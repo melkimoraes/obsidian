@@ -11,3 +11,8 @@ o servidor norte da virginia é mais barato principalmente pra quem ta estudando
 Pra tudo que for usar no AWS seja kubernets, EC2 e etc. Criar VPC pra um novo serviço sempre na AWS.
 
 Nao usar VPC padrao que eles criam!
+
+VPC → tem a CIDR(Cider block) que é o endereço ip do condominio
+
+Subnet
+vai criar uma subred→ queria seria o bloco do condominio

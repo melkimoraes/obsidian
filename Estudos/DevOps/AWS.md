@@ -34,3 +34,10 @@ se vai criar uma chave ali tb, e salvar ela no pc pq ela vai habilitar pra acess
 na configuração de rede se vai colocar a vpc e subnet
 habilita o acesso via ip publico
 e ele desligou firewall por ser pra estudo né, produção no caso nao faria isso.
+criado!
+
+agora em EC2 → em instancias → vai ter a que criamos executando! o status check tem que só esperar ele sair de iniciando.
+
+EKS no aws tem firewall. caso precise um dia.
+
+na parte debaixo do EC2 já aparece tudo, ip publico

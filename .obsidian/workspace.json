@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,10 +213,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "2ce0737cc7e04c5c",
+  "active": "fd1845732b6fbf98",
   "lastOpenFiles": [
-    "Estudos/DevOps/Roadmap.md",
     "Estudos/DevOps/Terraform.md",
+    "Estudos/DevOps/Roadmap.md",
     "⭐.md",
     "Estudos/DevOps/AWS.md",
     "Diario/15-01-2025.md",

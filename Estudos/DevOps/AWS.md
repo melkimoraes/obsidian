@@ -51,3 +51,12 @@ só que a subnet nao fizemos publica → nao deu certo acessar dessa forma, como
 		→ entrar na VPC → na aba do lado vai ter internet gateway
 		→ e depois vai atacchar na VPC
 		→ e agora Route tables → cria uma e seleciona a VPC → e depois associar essa RT na subnet, ali na RT tem associar Subnet
+
+ai deu certo acessar o ubuntu que subiu no EC2 pelo AWS, ele até subiu um nginx e acessou no navegador mesmo com  o ip publico no browser!
+
+
+POR ULTIMO → desligar a VPC pra parar de rodar o taximetro!
+ec2 → Instances → actions → manage instance state → terminate → salvar!
+vpc → route tables → desassociar a subnet nela
+	deletar a route table
+	internet gateways → desatachar → deletar dps

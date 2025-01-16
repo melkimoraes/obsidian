@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,13 +213,13 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "fb6ec74ad5be04c4",
+  "active": "2ce0737cc7e04c5c",
   "lastOpenFiles": [
+    "⭐.md",
     "Estudos/Kotlin/Avançado (Null safety) - 3.md",
     "Diario/15-01-2025.md",
     "Estudos/DevOps/Terraform.md",
     "Estudos/DevOps/Roadmap.md",
-    "⭐.md",
     "Estudos/DevOps/AWS.md",
     "Diario/14-01-2025.md",
     "Estudos/DevOps/Docker.md",

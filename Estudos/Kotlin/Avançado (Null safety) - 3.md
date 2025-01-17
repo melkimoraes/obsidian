@@ -62,14 +62,32 @@
 
 - **Coroutines (Introdução)**
     - Conhecer o básico sobre programação assíncrona:
-        
-        ```kotlin
+
+	###### **Conceitos Básicos**
+
+1. **Coroutines são leves:** Diferente de threads, elas têm baixo custo para serem criadas e executadas. Você pode ter milhares de coroutines rodando em uma aplicação sem o impacto de performance que threads poderiam causar.
+    
+2. **Suspend Function:** Uma função marcada com `suspend` pode ser pausada e retomada sem bloquear a thread. Isso é o que torna as coroutines poderosas.
+    
+3. **Builders de Coroutine:** Funções como `launch` e `async` são usadas para criar coroutines. Elas definem o "contexto" onde a coroutine será executada.
+
+
+    ```kotlin
         import kotlinx.coroutines.*
-        fun main() = runBlocking {
-            launch {
-                delay(1000L)
-                println("Kotlin Coroutines!")
-            }
-        }
-        ```
-        
+
+fun main() = runBlocking {
+    println("Início: ${Thread.currentThread().name}")
+
+    launch {
+        delay(1000L) // Pausa a execução por 1 segundo
+        println("Coroutine executada: ${Thread.currentThread().name}")
+    }
+
+    println("Fim: ${Thread.currentThread().name}")
+}        
+```
+
+Saida disso : 
+Início: main 
+Fim: main 
+Coroutine executada: main

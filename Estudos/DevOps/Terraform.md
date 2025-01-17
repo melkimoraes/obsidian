@@ -24,6 +24,8 @@ instalar o terraform → terraform.io da pra instalar em qualquer OS
 professor ta com ele instalado no WSL, claro.
 
 Faz uma pasta no linux e conectou no vscode mesmo com wsl →  fazer o arquivo main.tf
+no registry.terraform.io → encontra o aws e lá tem tudo sobre o provider de cloud que vamos usar.
+	→ no registry tem um botao Use provider e vai ter uma cola do codigo de como vai declarar !!
 
 
 ### código do professor do tf feito

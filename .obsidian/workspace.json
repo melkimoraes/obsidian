@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,11 +213,11 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "fb6ec74ad5be04c4",
+  "active": "2ce0737cc7e04c5c",
   "lastOpenFiles": [
+    "⭐.md",
     "Estudos/DevOps/Terraform.md",
     "Estudos/DevOps/Docker.md",
-    "⭐.md",
     "Estudos/DevOps/Roadmap.md",
     "Estudos/DevOps/AWS.md",
     "Estudos/DevOps/WSL.md",

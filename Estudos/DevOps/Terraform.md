@@ -19,6 +19,11 @@ Plugin no terraform que vai ser o meio de campo com o serviço de cloud.
 no site do terraform já da uma opção infinita de providers.
 
 
+### Mãos a Obra
+instalar o terraform → terraform.io da pra instalar em qualquer OS
+professor ta com ele instalado no WSL, claro.
+
+Faz uma pasta no linux e conectou no vscode mesmo com wsl →  fazer o arquivo main.tf
 
 
 ### código do professor do tf feito

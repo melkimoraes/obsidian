@@ -35,7 +35,7 @@ Executar comando, que vai executar o tf
 	→ terraform init → ele vai pegar o arquivo que fizemos e vai criar os arquivos hcl já do que feito no codigo.
 	→ terraform plan → dá o plano de execução, analisar o codigo que fizemos e oq ele vai fazer, e no final do plan ele pergunta se vc quer executar → da pra ir ver na AWS até
 
-
+Detalhe importante → a conexao com a conta do AWS com o terraform tem no site do AWS, tem que instalar o AWS CLI e vai configurar a autenticação do AWS do CLI.
 ### código do professor do tf feito
 
 ```js

@@ -27,6 +27,14 @@ Faz uma pasta no linux e conectou no vscode mesmo com wsl →  fazer o arquivo m
 no registry.terraform.io → encontra o aws e lá tem tudo sobre o provider de cloud que vamos usar.
 	→ no registry tem um botao Use provider e vai ter uma cola do codigo de como vai declarar !!
 
+Ansible → ferramenta que complementa o terraform depois de um ambiente ja criado pelo terraform. pesquisar caso precise de algo!
+
+depois de criar o arquivo até o vpc ali → ele ja tem um codigo que cria algo na AWS
+
+Executar comando, que vai executar o tf
+	→ terraform init → ele vai pegar o arquivo que fizemos e vai criar os arquivos hcl já do que feito no codigo.
+	→ terraform plan → dá o plano de execução, analisar o codigo que fizemos e oq ele vai fazer, e no final do plan ele pergunta se vc quer executar → da pra ir ver na AWS até
+
 
 ### código do professor do tf feito
 

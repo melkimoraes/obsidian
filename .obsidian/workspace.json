@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fcd0994d170f1d07",
+        "id": "125018a4574852d5",
         "type": "tabs",
         "children": [
           {
-            "id": "0c56b67a7b104ee1",
+            "id": "70898b41fc50fad2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudos/Kotlin/Roadmap.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "Nova aba"
             }
           }
         ]
@@ -184,8 +180,9 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "0c56b67a7b104ee1",
+  "active": "70898b41fc50fad2",
   "lastOpenFiles": [
+    "Estudos/Kotlin/Roadmap.md",
     "Estudos/Kotlin/Avançado (Null safety, extensoe e coroutines) - 3.md",
     "Estudos/DevOps/Docker.md",
     "Estudos/DevOps/Roadmap.md",
@@ -198,7 +195,6 @@
     "Diario/15-01-2025.md",
     "Diario/14-01-2025.md",
     "Pasted image 20250115104558.png",
-    "Estudos/Kotlin/Roadmap.md",
     "Sem título.canvas",
     "Estudos/Kotlin/Médio (Classes) POO - 2.md",
     "Estudos/Kotlin/Basico (Tipos, functions, lambdas) - 1.md",

@@ -35,8 +35,7 @@
               "title": "WMS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +198,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "dc649db09d2851ee",
+  "active": "c64b17770be4b785",
   "lastOpenFiles": [
-    "⭐.md",
     "Bioclean/WMS.md",
+    "⭐.md",
     "Estudos/Kotlin/Roadmap.md",
     "Estudos/Kotlin/Avançado (Null safety, extensoe e coroutines) - 3.md",
     "Estudos/DevOps/Docker.md",

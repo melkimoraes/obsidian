@@ -35,8 +35,7 @@
               "title": "Notazz"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,8 +198,9 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "d88fac2b0f219446",
+  "active": "c64b17770be4b785",
   "lastOpenFiles": [
+    "Brasil Paralelo/Notazz.md",
     "⭐.md",
     "Bioclean/Flow/Flow.excalidraw",
     "Bioclean/WMS.md",

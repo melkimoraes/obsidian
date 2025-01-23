@@ -17,5 +17,5 @@ As contas eu nao mexi, nao fiz bater 100 caracteres → **Ajustado CONTA_DB, CON
 
 
 VIRADA JANEIRO
-- [ ] trocar nome do banco preferencias → AB_CONTABIL_COSIF10
-- [ ] ip servidor autbank → bdautbankprd.vortx.internal (talvez mude isso)
+- [x] trocar nome do banco preferencias → AB_CONTABIL_COSIF10
+- [ ] ip servidor autbank → bdautbankprd.vortx.internal (talvez mude isso) → nao mudei pq vi que o sankhya msm nao mudou a url do servidor

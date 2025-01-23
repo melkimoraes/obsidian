@@ -49,8 +49,7 @@
               "title": "Notazz"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,8 +212,9 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "96f6d12956d68932",
+  "active": "c64b17770be4b785",
   "lastOpenFiles": [
+    "Vortx/autbank levantamento 2.md",
     "⭐.md",
     "Brasil Paralelo/Notazz.md",
     "Bioclean/Flow/Flow.excalidraw",
@@ -245,7 +245,6 @@
     "Diario/12-12-2024.md",
     "Diario/11-12-2024.md",
     "Diario/05-12-2024.md",
-    "Diario/04-12-2024.md",
     "Estudos/DevOps",
     "Estudos/Kotlin",
     "Estudos",

@@ -63,8 +63,7 @@
               "title": "Notazz"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,14 +226,14 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "4743369d69381c98",
+  "active": "c64b17770be4b785",
   "lastOpenFiles": [
+    "Estudos/Kotlin/Roadmap.md",
     "⭐.md",
     "Vortx/autbank levantamento 2.md",
     "Brasil Paralelo/Notazz.md",
     "Bioclean/Flow/Flow.excalidraw",
     "Bioclean/WMS.md",
-    "Estudos/Kotlin/Roadmap.md",
     "Estudos/Kotlin/Avançado (Null safety, extensoe e coroutines) - 3.md",
     "Estudos/DevOps/Docker.md",
     "Estudos/DevOps/Roadmap.md",

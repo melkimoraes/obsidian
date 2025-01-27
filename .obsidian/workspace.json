@@ -35,7 +35,8 @@
               "title": "⭐"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +199,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "c64b17770be4b785",
+  "active": "b88edb8ea5bfaace",
   "lastOpenFiles": [
-    "⭐.md",
     "Diario/27-01-2025.md",
+    "⭐.md",
     "Bioclean/WMS.md",
     "Sem título.canvas",
     "Estudos/Kotlin/Roadmap.md",

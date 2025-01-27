@@ -35,8 +35,7 @@
               "title": "WMS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,15 +198,15 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "326790b0c419d729",
+  "active": "c64b17770be4b785",
   "lastOpenFiles": [
+    "Bioclean/WMS.md",
     "⭐.md",
     "Sem título.canvas",
     "Estudos/Kotlin/Roadmap.md",
     "Vortx/autbank levantamento 2.md",
     "Brasil Paralelo/Notazz.md",
     "Bioclean/Flow/Flow.excalidraw",
-    "Bioclean/WMS.md",
     "Estudos/Kotlin/Avançado (Null safety, extensoe e coroutines) - 3.md",
     "Estudos/DevOps/Docker.md",
     "Estudos/DevOps/Roadmap.md",

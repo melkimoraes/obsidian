@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/27-01-2025.md",
+                "file": "Diario/28-01-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27-01-2025"
+              "title": "28-01-2025"
             }
           },
           {
@@ -200,8 +200,9 @@
   },
   "active": "c64b17770be4b785",
   "lastOpenFiles": [
-    "⭐.md",
     "Diario/27-01-2025.md",
+    "Diario/28-01-2025.md",
+    "⭐.md",
     "Bioclean/WMS.md",
     "Sem título.canvas",
     "Estudos/Kotlin/Roadmap.md",
@@ -230,7 +231,6 @@
     "Diario/18-12-2024.md",
     "Diario/17-12-2024.md",
     "Diario/12-12-2024.md",
-    "Diario/11-12-2024.md",
     "Estudos/DevOps",
     "Estudos/Kotlin",
     "Estudos",

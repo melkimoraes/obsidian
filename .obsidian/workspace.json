@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +214,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "1d75cdc5a8e0f6f1",
+  "active": "7e1a252dc264a527",
   "lastOpenFiles": [
-    "Diario/30-01-2025.md",
     "⭐.md",
+    "Diario/30-01-2025.md",
     "Bioclean/WMS.md",
     "Estudos/Kotlin/KMP.md",
     "Diario/28-01-2025.md",

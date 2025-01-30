@@ -48,21 +48,9 @@
               "icon": "lucide-file",
               "title": "⭐"
             }
-          },
-          {
-            "id": "ab3224ef4905eae9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,7 +214,7 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "ab3224ef4905eae9",
+  "active": "1d75cdc5a8e0f6f1",
   "lastOpenFiles": [
     "Diario/30-01-2025.md",
     "⭐.md",

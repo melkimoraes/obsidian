@@ -194,8 +194,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -223,16 +223,18 @@
       "templates:Inserir modelo": false,
       "graph:Abrir visualização em gráfico": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
   "active": "8cf9ae64046aef81",
   "lastOpenFiles": [
+    "Pasted image 20250117163703.png",
+    "Pasted image 20250115104558.png",
+    "⭐.md",
     "Vortx/Flow.md",
     "Diario/31-01-2025.md",
-    "⭐.md",
     "Diario/30-01-2025.md",
     "Bioclean/WMS.md",
     "Estudos/Kotlin/KMP.md",
@@ -246,21 +248,18 @@
     "Estudos/Kotlin/Avançado (Null safety, extensoe e coroutines) - 3.md",
     "Estudos/DevOps/Docker.md",
     "Estudos/DevOps/Roadmap.md",
-    "Pasted image 20250117163703.png",
     "Estudos/DevOps/Desafio DevOps & Cloud",
     "Estudos/DevOps/Terraform.md",
     "Estudos/DevOps/AWS.md",
     "Estudos/DevOps/WSL.md",
     "Diario/15-01-2025.md",
     "Diario/14-01-2025.md",
-    "Pasted image 20250115104558.png",
     "Estudos/Kotlin/Médio (Classes) POO - 2.md",
     "Estudos/Kotlin/Basico (Tipos, functions, lambdas) - 1.md",
     "JotaFlex/ireport.md",
     "JotaFlex/DAYS.md",
     "Bioclean/Ativa WMS.md",
     "Diario/23-12-2024.md",
-    "Diario/20-12-2024.md",
     "Estudos/DevOps",
     "Estudos/Kotlin",
     "Estudos",

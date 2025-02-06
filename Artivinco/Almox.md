@@ -21,6 +21,11 @@ Portal de Mov. Internas → usuarios vao fazer as requisições internas de USO 
 	- primeira liberação: dai é o responsavel pelo grupo de produto → lá na tela de grupo de produto vai ter o aprovador seja Santa Rota ou Itatiba. Caso nao esteja o aprovador setado na lib.
 
 
+### Analise de Giro
+depois de gerar a requisição na Analise de Giro → só vai ter que abrir a requsição criada e definiri a data de entrega de todos os itens nos botoes de açoes!
+Confirma e vai pras alçadas normalmente como se fosse MP.
+
+
 ## Recebimento/Entrada
 As notas precisam constar o xml no portal xml pelo oq eu entendi e isso é feito na entrada da portaria colocando a chave xml → tela “Protocolo de Entrada”
 Entrou o caminhao com a entrega → app → Entrada → digitar o nro da nota fiscal ou fornecedor
@@ -32,3 +37,8 @@ Entrou o caminhao com a entrega → app → Entrada → digitar o nro da nota fi
 ## Inventario
 Tela Inventario de produtos
 - nessa tela vai configurar uma nova linha do inventario que ele vai fazer
+
+
+## Transferencia entre itens
+- Todo dia ocorro entregas de ST pra ITA e as vezes eles trocam ideia pra transferir algo que eles queiram tb
+- No app vai em transfereir! faz uma nova transf e busca o produto → digita a qtd e confirmar a transferencia.

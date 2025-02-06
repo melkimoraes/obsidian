@@ -15,7 +15,10 @@ Portal de Mov. Internas → usuarios vao fazer as requisições internas de USO 
 - ⭐ o pedido é gerado em sankhya → a requisição pelo oq deu pra entender é o aplicativo inserindo!
 
 ### Materia Prima
-
+- No pedido de requisição de MP  os produtos exigem plano de produção, tanto na cab como na ite.
+- aqui vai exigir data de entrega → provisionar entrega pelos 3 pontinhos(quebrar a data de entrega por quantidade)
+- Vai gerar liberações na confirmação:
+	- primeira liberação: dai é o responsavel pelo grupo de produto → lá na tela de grupo de produto vai ter o aprovador seja Santa Rota ou Itatiba. Caso nao esteja o aprovador setado na lib.
 
 
 ## Recebimento/Entrada

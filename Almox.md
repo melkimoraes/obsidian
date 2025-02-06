@@ -20,3 +20,8 @@ Entrou o caminhao com a entrega → app → Entrada → digitar o nro da nota fi
 - se nao achar a nota no app é pq a nota de compra nao gerou da entrada (nativo seria a nota gerada apartir do portal xml)
 - no app ele achando a nota é digitar a qtd salvar e finalizar.
 
+
+
+## Inventario
+Tela Inventario de produtos
+- nessa tela vai configurar uma nova linha do inventario que ele vai fazer

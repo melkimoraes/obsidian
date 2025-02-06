@@ -8,3 +8,5 @@ Portal de Mov. Internas → usuarios vao fazer as requisições internas de USO 
 	- coloca a qtd entrega e finalizar → se for parcial, ele vai dar divergencia, no popup  vamos trabalhar com cortar ou manter em aberto
 		- cortar → vai finalizar as divergencias (matar o restante da requisição)
 		- manter →
+	- na entrega inteira o pedido no portal do sankhya ja vai estar Pendente=Nao e QTD ENTREGUE = total
+- Se o cara do almox quer ver o endereço ele imprimi o pedido de requisição no sankhya!

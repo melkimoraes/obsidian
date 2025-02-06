@@ -45,4 +45,8 @@ Tela Inventario de produtos
 - Se for no portal de vendas → transf. de mercadoria vai ta lá confirmada.
 
 ## Inventario de Etiquetas
--  vai salvar uma linha lá, colocando a
+-  vai salvar uma linha lá, colocando a empresa e a data e botao de ação → fazer a copia.
+	- na copia o local é ou na saida maquina ou onduladeira
+- no app eles fariam a contagem → digitando o nro unico do inventario → depois de bipar tudo no app
+- na tela vai no botao de ação (nao anotei)
+	- nas aba Consumir/Retornar vai dar as divergencias com base na bipagem

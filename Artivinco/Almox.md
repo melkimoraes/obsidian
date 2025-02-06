@@ -39,6 +39,10 @@ Tela Inventario de produtos
 - nessa tela vai configurar uma nova linha do inventario que ele vai fazer
 
 
-## Transferencia entre itens
+## Transferencia entre itens (Transf entre empresas)
 - Todo dia ocorro entregas de ST pra ITA e as vezes eles trocam ideia pra transferir algo que eles queiram tb
 - No app vai em transfereir! faz uma nova transf e busca o produto → digita a qtd e confirmar a transferencia.
+- Se for no portal de vendas → transf. de mercadoria vai ta lá confirmada.
+
+## Inventario de Etiquetas
+-  vai salvar uma linha lá, colocando a

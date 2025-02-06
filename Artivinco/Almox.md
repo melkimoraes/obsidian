@@ -50,3 +50,7 @@ Tela Inventario de produtos
 - no app eles fariam a contagem → digitando o nro unico do inventario → depois de bipar tudo no app
 - na tela vai no botao de ação (nao anotei)
 	- nas aba Consumir/Retornar vai dar as divergencias com base na bipagem
+
+## Movimentaçoes(Armazenagem)
+- local padrao : EM RECEBIMENTO → depois da entrada ele vai entrar aqui, a gente nao armazenou ainda, nao deu um endereço. Tem que ta em algum endereço.
+- No app → movimentações → armazenamento

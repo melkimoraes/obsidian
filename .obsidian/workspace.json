@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +214,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "cdbd9ae6bf2082f0",
+  "active": "c692c2ffe46fdc86",
   "lastOpenFiles": [
-    "⭐.md",
     "Artivinco/Almox.md",
+    "⭐.md",
     "Artivinco",
     "Diario/05-02-2025.md",
     "Vortx/Flow.md",

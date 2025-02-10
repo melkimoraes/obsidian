@@ -29,6 +29,7 @@ Confirma e vai pras alçadas normalmente como se fosse MP.
 
 
 ## Recebimento/Entrada ⚡
+No app → 
 As notas precisam constar o xml no portal xml pelo oq eu entendi e isso é feito na entrada da portaria colocando a chave xml → tela “Protocolo de Entrada”
 Entrou o caminhao com a entrega → app → Entrada → digitar o nro da nota fiscal ou fornecedor
 - se nao achar a nota no app é pq a nota de compra nao gerou da entrada (nativo seria a nota gerada apartir do portal xml)

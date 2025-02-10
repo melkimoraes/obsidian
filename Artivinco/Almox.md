@@ -54,7 +54,10 @@ Tela Inventario de produtos
 - coloca o produto que vai contar → coloca o endereço → coloca a qtd
 	- isso ja vai preencher a aba inventario na tela
 	- e nas abas a serem consumidos ou retornados já vai atualizando tb!
-	- e se bate no estoque ele ja sai do a ser consumido
+	- e se bate no estoque ele ja sai do a ser consumido.
+- Tudo que tiver na aba de a serem consumidos vai gerar uma saida de estoque
+- e Tudo que tiver na aba a serem retornados vai gerar uma entrada de estoque
+- Clica no botao na tela do sankhya, depois de inventario → clica no botao de açao FINALIZAR INVENTARIO na tela do sankhya!
 
 
 ## Transferencia entre itens (Transf entre empresas)

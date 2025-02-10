@@ -29,11 +29,12 @@ Confirma e vai pras alçadas normalmente como se fosse MP.
 
 
 ## Recebimento/Entrada ⚡
-No app → 
-As notas precisam constar o xml no portal xml pelo oq eu entendi e isso é feito na entrada da portaria colocando a chave xml → tela “Protocolo de Entrada”
+No app → Entradas → vai constar todas as nota que vao estar prontas pra receber:
+	→ Pra constar as notas : vai ter uma entrada no protocolo de entrada com o tipo de visita 21, e lá ele tem o botao pra incluir xml! E antes de ele tentar fazer o bipagem no procolo pre cisa ter o xml pelo menos importado no portal xml! E entao bipada pra fazer a entrada no Almox.
 Entrou o caminhao com a entrega → app → Entrada → digitar o nro da nota fiscal ou fornecedor
 - se nao achar a nota no app é pq a nota de compra nao gerou da entrada (nativo seria a nota gerada apartir do portal xml)
 - no app ele achando a nota é digitar a qtd salvar e finalizar.
+	- no video → talvez de erro ao finalizar pq precisa liberar pra conferencia manualmente no sankhya. mas basta ver o status da nota de compra no portal.
 
 
 

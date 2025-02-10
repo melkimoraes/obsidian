@@ -1,8 +1,10 @@
 3 almox
 
+Itatiba 1 almox → cartonagem
+
 ## Requisições
 ### Interna
-Portal de Mov. Internas → usuarios vao fazer as requisições internas de USO E CONSUMO
+Portal de Mov. Internas → usuarios vao fazer as requisições internas de USO E CONSUMO TOP 400
 - TOPs: pra cada departamento → grupo de usuario na restrição na TOP + centro de resultado e natureza estao nas restrições.
 - no caso pra esse lançamento do uso e consumo tem um campo nos itens de Aplicação pra collocar essa opção.
 - Acesso p/ planta produtiva → liberações pro aplicativo. (msm login e senha do sankhya)
@@ -21,7 +23,7 @@ Portal de Mov. Internas → usuarios vao fazer as requisições internas de USO 
 	- primeira liberação: dai é o responsavel pelo grupo de produto → lá na tela de grupo de produto vai ter o aprovador seja Santa Rota ou Itatiba. Caso nao esteja o aprovador setado na lib.
 
 
-### Analise de Giro
+### Analise de Giro +/- = de MP ☝️
 depois de gerar a requisição na Analise de Giro → só vai ter que abrir a requsição criada e definiri a data de entrega de todos os itens nos botoes de açoes!
 Confirma e vai pras alçadas normalmente como se fosse MP.
 

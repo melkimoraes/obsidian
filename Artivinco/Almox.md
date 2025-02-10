@@ -48,6 +48,13 @@ Tela Inventario de produtos
 	- as outras abas vai mostrar as divergencias!
 - No sankhya → botao de ação → copiar estoque
 	- no botao tem varios filtros que pode ser feito pra copiar determinado produto/grupo/local e etc.
+	- depois de fazer a copia é interessante se veio algo na aba de estoque, pq senao nao veio nada pra fazer a contagem!
+- Entao vai no App → Inventario de Itens → coloca o nro unico de inventario
+	- entao se colocou um grupo de produtos na hora de criar o inventario, só vai trazer os produtos desse grupo.
+- coloca o produto que vai contar → coloca o endereço → coloca a qtd
+	- isso ja vai preencher a aba inventario na tela
+	- e nas abas a serem consumidos ou retornados já vai atualizando tb!
+	- e se bate no estoque ele ja sai do a ser consumido
 
 
 ## Transferencia entre itens (Transf entre empresas)

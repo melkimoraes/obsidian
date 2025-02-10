@@ -38,9 +38,16 @@ Entrou o caminhao com a entrega → app → Entrada → digitar o nro da nota fi
 
 
 
-## Inventario⚡
+## Inventario de Produtos (Inventario de Itens)
 Tela Inventario de produtos
 - nessa tela vai configurar uma nova linha do inventario que ele vai fazer
+- aqui vai fazer a copia de estoque depois de inserir mais uma linha nessa tela!
+	- Aba Copia do estoque endereços : vai mostrar os endereços que foi executado na copia
+	- contagem de estoque → mostra a tgfest
+	- invetario → mostra oq foi bipado na contagem 
+	- as outras abas vai mostrar as divergencias!
+- No sankhya → botao de ação → copiar estoque
+	- no botao tem varios filtros que pode ser feito pra copiar determinado produto/grupo/local e etc.
 
 
 ## Transferencia entre itens (Transf entre empresas)

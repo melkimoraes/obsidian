@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Almox"
             }
+          },
+          {
+            "id": "1170ec1da55ae879",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Artivinco/Drawing 2025-02-13 19.44.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-13 19.44.54.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,10 +212,11 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "f20a5c5a289462e2",
+  "active": "1170ec1da55ae879",
   "lastOpenFiles": [
-    "⭐.md",
     "Artivinco/Almox.md",
+    "Artivinco/Drawing 2025-02-13 19.44.54.excalidraw.md",
+    "⭐.md",
     "Artivinco",
     "Diario/05-02-2025.md",
     "Vortx/Flow.md",
@@ -233,7 +246,6 @@
     "Estudos/Kotlin/Basico (Tipos, functions, lambdas) - 1.md",
     "JotaFlex/ireport.md",
     "JotaFlex/DAYS.md",
-    "Bioclean/Ativa WMS.md",
     "Estudos/DevOps",
     "Estudos/Kotlin",
     "Estudos",

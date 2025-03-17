@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Almox"
             }
+          },
+          {
+            "id": "e2b807312ebce7aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⭐.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "⭐"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,10 +200,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "c692c2ffe46fdc86",
+  "active": "e2b807312ebce7aa",
   "lastOpenFiles": [
-    "⭐.md",
     "Artivinco/Almox.md",
+    "⭐.md",
     "Artivinco/Drawing 2025-02-13 19.44.54.excalidraw.md",
     "Artivinco",
     "Diario/05-02-2025.md",

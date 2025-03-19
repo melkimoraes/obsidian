@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "⭐"
             }
+          },
+          {
+            "id": "e81a9c5662c7358b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oriente Farma/19-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "19-03"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,10 +200,12 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "e2b807312ebce7aa",
+  "active": "e81a9c5662c7358b",
   "lastOpenFiles": [
-    "Artivinco/Almox.md",
     "⭐.md",
+    "Oriente Farma/19-03.md",
+    "Oriente Farma",
+    "Artivinco/Almox.md",
     "Artivinco/Drawing 2025-02-13 19.44.54.excalidraw.md",
     "Artivinco",
     "Diario/05-02-2025.md",
@@ -218,14 +235,12 @@
     "Estudos/Kotlin/Médio (Classes) POO - 2.md",
     "Estudos/Kotlin/Basico (Tipos, functions, lambdas) - 1.md",
     "JotaFlex/ireport.md",
-    "JotaFlex/DAYS.md",
     "Estudos/DevOps",
     "Estudos/Kotlin",
     "Estudos",
     "BP",
     "Hangcha",
     "Diario",
-    "2024",
     "Pasted image 20240819175130.png",
     "Pasted image 20240318154059.png",
     "Pasted image 20240318154839.png",

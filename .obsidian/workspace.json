@@ -35,8 +35,7 @@
               "title": "19-03"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +199,10 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "e81a9c5662c7358b",
+  "active": "e2b807312ebce7aa",
   "lastOpenFiles": [
-    "⭐.md",
     "Oriente Farma/19-03.md",
+    "⭐.md",
     "Oriente Farma",
     "Artivinco/Almox.md",
     "Artivinco/Drawing 2025-02-13 19.44.54.excalidraw.md",

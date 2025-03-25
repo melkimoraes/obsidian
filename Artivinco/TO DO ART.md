@@ -1,0 +1,1 @@
+- [ ] fazer trigger na AD_TRANSFLOCID → verificando STATUSETQ = ‘COMPRADO’ na AD_TGFIDETQ

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭐.md",
+                "file": "Notepad/tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⭐"
+              "title": "tips"
             }
           }
         ]
@@ -187,8 +187,17 @@
   },
   "active": "e2b807312ebce7aa",
   "lastOpenFiles": [
-    "Oriente Farma/19-03.md",
+    "Brasil Paralelo/Guru.md",
+    "Brasil Paralelo/DASH NOTAZZ.md",
+    "Brasil Paralelo/Notazz.md",
+    "BP/Per Dcomp.md",
     "⭐.md",
+    "BP Matoso.md",
+    "day a day.md",
+    "Possehl - CREMER.md",
+    "Pasted image 20250117163703.png",
+    "Pasted image 20250115104558.png",
+    "Oriente Farma/19-03.md",
     "Oriente Farma",
     "Artivinco/Almox.md",
     "Artivinco/Drawing 2025-02-13 19.44.54.excalidraw.md",
@@ -197,8 +206,6 @@
     "Vortx/Flow.md",
     "Bioclean/WMS.md",
     "Diario/31-01-2025.md",
-    "Pasted image 20250117163703.png",
-    "Pasted image 20250115104558.png",
     "Diario/30-01-2025.md",
     "Estudos/Kotlin/KMP.md",
     "Diario/28-01-2025.md",
@@ -206,7 +213,6 @@
     "Sem título.canvas",
     "Estudos/Kotlin/Roadmap.md",
     "Vortx/autbank levantamento 2.md",
-    "Brasil Paralelo/Notazz.md",
     "Bioclean/Flow/Flow.excalidraw",
     "Estudos/Kotlin/Avançado (Null safety, extensoe e coroutines) - 3.md",
     "Estudos/DevOps/Docker.md",
@@ -214,12 +220,6 @@
     "Estudos/DevOps/Desafio DevOps & Cloud",
     "Estudos/DevOps/Terraform.md",
     "Estudos/DevOps/AWS.md",
-    "Estudos/DevOps/WSL.md",
-    "Diario/15-01-2025.md",
-    "Diario/14-01-2025.md",
-    "Estudos/Kotlin/Médio (Classes) POO - 2.md",
-    "Estudos/Kotlin/Basico (Tipos, functions, lambdas) - 1.md",
-    "JotaFlex/ireport.md",
     "Estudos/DevOps",
     "Estudos/Kotlin",
     "Estudos",

@@ -1,1 +1,2 @@
-- [ ] fazer trigger na AD_TRANSFLOCID → verificando STATUSETQ = ‘COMPRADO’ na AD_TGFIDETQ
+- [x] fazer trigger na AD_TRANSFLOCID → verificando STATUSETQ = ‘COMPRADO’ na AD_TGFIDETQ
+- [ ] colocar a query da auditoria de compras em produção

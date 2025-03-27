@@ -1,7 +1,9 @@
 - [x] fazer trigger na AD_TRANSFLOCID → verificando STATUSETQ = ‘COMPRADO’ na AD_TGFIDETQ
 - [x] colocar a query da auditoria de compras em produção
 - [ ] ver transferencia de palete caixa pra SRV que vai ter venda pro cliente.
-- [ ] fazer um relatorio formatado → Contabilidade → tops que baixam estoque(Almoxarifado) → nao confirmadas
+- [ ] fazer um relatorio formatado → Contabilidade → tops que baixam estoque(Almoxarifado) → nao confirmadas.
+- [ ] ver java de imprimir etiquetas.
+- [ ] OC com nro pedido zoado
 
 ---
 

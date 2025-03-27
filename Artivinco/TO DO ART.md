@@ -4,6 +4,7 @@
 - [ ] fazer um relatorio formatado → Contabilidade → tops que baixam estoque(Almoxarifado) → nao confirmadas.
 - [ ] ver java de imprimir etiquetas.
 - [x] OC com nro pedido zoado
+- [ ] erro nas entradas de mesmo produto, mesmo lote porem separados.
 
 ---
 

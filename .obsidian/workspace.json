@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,11 +214,11 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "dc796c3308e1e462",
+  "active": "8a0f8621d8bba58c",
   "lastOpenFiles": [
+    "⭐.md",
     "Artivinco/TO DO ART.md",
     "Artivinco/Almox.md",
-    "⭐.md",
     "Notepad/tips.md",
     "Brasil Paralelo/Guru.md",
     "Brasil Paralelo/DASH NOTAZZ.md",

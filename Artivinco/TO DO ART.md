@@ -14,4 +14,5 @@ PJ Checklist:
 • Cópia cartão CNPJ;
 • Consulta do Simples Nacional;
 
-1164,1139
+661260 → no app 30 paletes , 
+	Sankhya → 7 paletes no 971074_1 → seria 6

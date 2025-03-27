@@ -5,7 +5,7 @@
 - [ ] ver java de imprimir etiquetas clicheria.
 - [x] OC com nro pedido zoado
 - [ ] erro nas entradas de mesmo produto, mesmo lote porem separados.
-- [ ] ver repositorio de arquivos → /Livros Fiscais/TRIAGULAR.txt
+- [x] ver repositorio de arquivos → /Livros Fiscais/TRIAGULAR.txt
 
 ---
 
@@ -13,6 +13,3 @@ PJ Checklist:
 • Cópia contrato social registrado na Junta Comercial; → porque precisa disso? qual a finalidade? posso solicitar na junta comercial do estado de SP.
 • Cópia cartão CNPJ;
 • Consulta do Simples Nacional;
-
-661260 → no app 30 paletes , 
-	Sankhya → 7 paletes no 971074_1 → seria 6

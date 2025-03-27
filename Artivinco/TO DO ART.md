@@ -2,7 +2,7 @@
 - [x] colocar a query da auditoria de compras em produção
 - [x] ver transferencia de palete caixa pra SRV que vai ter venda pro cliente.
 - [ ] fazer um relatorio formatado → Contabilidade → tops que baixam estoque(Almoxarifado) → nao confirmadas.
-- [ ] ver java de imprimir etiquetas.
+- [ ] ver java de imprimir etiquetas clicheria.
 - [x] OC com nro pedido zoado
 - [ ] erro nas entradas de mesmo produto, mesmo lote porem separados.
 - [ ] ver repositorio de arquivos → /Livros Fiscais/TRIAGULAR.txt

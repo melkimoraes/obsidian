@@ -13,3 +13,4 @@ PJ Checklist:
 • Cópia cartão CNPJ;
 • Consulta do Simples Nacional;
 
+1164,1139

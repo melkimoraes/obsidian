@@ -12,7 +12,7 @@
 - [ ] COMERCIAL CHAPA
 	- [ ] valor negativo na tabela de preço
 	- [ ] valor positivo na tabela de preço
-	
+	32302
 ---
 
 PJ Checklist:

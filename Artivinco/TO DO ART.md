@@ -10,9 +10,9 @@
 - [x] clicheria → report OS
 - [x] atualização preço de venda → % negativa
 - [ ] Luis custos → 
-- [ ] COMERCIAL CHAPA
-	- [ ] valor negativo na tabela de preço
-	- [ ] valor positivo na tabela de preço
+- [x] COMERCIAL CHAPA
+	- [x] valor negativo na tabela de preço
+	- [x] valor positivo na tabela de preço
 	32302
 	GAVA → 7533
 	

@@ -9,7 +9,10 @@
 - [ ] kardex da AD_MAPAPRODINVT
 - [x] clicheria → report OS
 - [ ] atualização preço de venda → % negativa
-
+- [ ] COMERCIAL CHAPA
+	- [ ] valor negativo na tabela de preço
+	- [ ] valor positivo na tabela de preço
+	
 ---
 
 PJ Checklist:

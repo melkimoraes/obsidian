@@ -8,12 +8,14 @@
 - [x] ver repositorio de arquivos → /Livros Fiscais/TRIAGULAR.txt
 - [ ] kardex da AD_MAPAPRODINVT
 - [x] clicheria → report OS
-- [ ] atualização preço de venda → % negativa
+- [x] atualização preço de venda → % negativa
+- [ ] Luis custos → 
 - [ ] COMERCIAL CHAPA
 	- [ ] valor negativo na tabela de preço
 	- [ ] valor positivo na tabela de preço
 	32302
 	GAVA → 7533
+	
 ---
 
 PJ Checklist:

@@ -9,7 +9,7 @@
 - [ ] kardex da AD_MAPAPRODINVT
 - [x] clicheria → report OS
 - [x] atualização preço de venda → % negativa
-- [ ] Luis custos → 
+- [x] Luis custos → 
 - [x] COMERCIAL CHAPA
 	- [x] valor negativo na tabela de preço
 	- [x] valor positivo na tabela de preço

@@ -10,7 +10,7 @@
 - [x] clicheria → report OS
 - [x] atualização preço de venda → % negativa
 - [x] Luis custos → 
-- [ ] fazer botao de ação protoclo de entrada → laudo de lenha
+- [x] fazer botao de ação protoclo de entrada → laudo de lenha
 - [x] COMERCIAL CHAPA
 	- [x] valor negativo na tabela de preço
 	- [x] valor positivo na tabela de preço

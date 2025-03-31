@@ -7,6 +7,7 @@
 - [x] erro nas entradas de mesmo produto, mesmo lote porem separados.
 - [x] ver repositorio de arquivos → /Livros Fiscais/TRIAGULAR.txt
 - [ ] kardex da AD_MAPAPRODINVT
+	- [ ] TRG_IU_MAPAPRODINVT_ART → VER AMANHA COM  O GABRIEL
 - [x] clicheria → report OS
 - [x] atualização preço de venda → % negativa
 - [x] Luis custos → 

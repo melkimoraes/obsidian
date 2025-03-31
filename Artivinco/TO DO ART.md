@@ -17,11 +17,3 @@
 	GAVA → 7533
 	
 ---
-
-PJ Checklist:
-• Cópia contrato social registrado na Junta Comercial; → porque precisa disso? qual a finalidade? posso solicitar na junta comercial do estado de SP.
-• Cópia cartão CNPJ;
-• Consulta do Simples Nacional;
-
-
-	

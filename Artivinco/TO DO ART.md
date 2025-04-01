@@ -1,8 +1,8 @@
 - [x] fazer trigger na AD_TRANSFLOCID → verificando STATUSETQ = ‘COMPRADO’ na AD_TGFIDETQ
 - [x] colocar a query da auditoria de compras em produção
 - [x] ver transferencia de palete caixa pra SRV que vai ter venda pro cliente.
-- [ ] fazer um relatorio formatado → Contabilidade → tops que baixam estoque(Almoxarifado) → nao confirmadas.
-	- [ ] 1339 → ATIVAR AÇÃO AGENDADA
+- [x] fazer um relatorio formatado → Contabilidade → tops que baixam estoque(Almoxarifado) → nao confirmadas.
+	- [x] 1339 → ATIVAR AÇÃO AGENDADA
 - [x] ver java de imprimir etiquetas clicheria.
 - [x] OC com nro pedido zoado
 - [x] erro nas entradas de mesmo produto, mesmo lote porem separados.
@@ -17,7 +17,7 @@
 	- [x] valor negativo na tabela de preço
 	- [x] valor positivo na tabela de preço
 - [ ] ver amanha com a Giovanna → email da Bet de divergencia da OC com nota de compra
-	- [ ] e validar dash de notas nao confimradas
+	- [x] e validar dash de notas nao confimradas
 	32302
 	GAVA → 7533
 	

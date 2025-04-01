@@ -16,6 +16,8 @@
 - [x] COMERCIAL CHAPA
 	- [x] valor negativo na tabela de preço
 	- [x] valor positivo na tabela de preço
+- [ ] ver amanha com a Giovanna → email da Bet de divergencia da OC com nota de compra
+	- [ ] e validar dash de notas nao confimradas
 	32302
 	GAVA → 7533
 	

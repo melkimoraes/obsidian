@@ -21,6 +21,7 @@
 - [ ] Dash Estoque Almox igual da auditoria de custo porem uma tabela só agrupando por endereço!
 - [ ] separar por nota por aplicação → pra cada aplicação uma TOP.
 	- [ ] 400 → uso e consumo
+	- [ ] criar a TOP produtos intermediario → Silvia vai criar a TOP. 
 	32302
 	GAVA → 7533
 	

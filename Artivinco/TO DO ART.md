@@ -16,8 +16,9 @@
 - [x] COMERCIAL CHAPA
 	- [x] valor negativo na tabela de preço
 	- [x] valor positivo na tabela de preço
-- [ ] ver amanha com a Giovanna → email da Bet de divergencia da OC com nota de compra
+- [x] ver amanha com a Giovanna → email da Bet de divergencia da OC com nota de compra
 	- [x] e validar dash de notas nao confimradas
+- [ ] Dash Estoque Almox igual da auditoria de custo porem uma tabela só agrupando por endereço!
 	32302
 	GAVA → 7533
 	

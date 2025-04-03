@@ -27,3 +27,7 @@
 
 a nota intermediaria do elton antes da emissao da nota do chep → só tira do estoque de terceiro?
 nao tem nota de entrada!
+
+nao ta sendo gerada a nota 220 apartir da 255
+
+se gerar a nota 220

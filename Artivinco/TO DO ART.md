@@ -22,6 +22,7 @@
 - [ ] separar por nota por aplicação → pra cada aplicação uma TOP. → TRG_I_TGFTOP_TOPSUBSTIT_ART, PROC_REQCMPAPLC_ART
 	- [ ] 400 → uso e consumo
 	- [ ] criar a TOP produtos intermediario → Silvia vai criar a TOP. 
+- [ ] NOTAS DE AJUSTES DE ESTOQUE → COLOCAR USUARIO INCLUSAO/ALTERACAO
 ---
 
 CHEP

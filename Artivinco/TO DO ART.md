@@ -34,3 +34,4 @@ nao ta sendo gerada a nota 220 apartir da 255
 se gerar a nota 220 → talvez aquela nota intermediaria que o elton emite que tira do terceiro e da transferencia do app também nao devam ser efetivadas.
 
 204 → 109276
+412

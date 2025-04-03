@@ -23,3 +23,7 @@
 	- [ ] 400 → uso e consumo
 	- [ ] criar a TOP produtos intermediario → Silvia vai criar a TOP. 
 ---
+
+
+a nota intermediaria do elton antes da emissao da nota do chep → só tira do estoque de terceiro?
+nao tem nota de entrada!

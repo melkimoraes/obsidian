@@ -23,7 +23,7 @@
 	- [x] 400 → uso e consumo
 	- [x] criar a TOP produtos intermediario → Silvia vai criar a TOP. 
 	- [ ] amanha testar a ação agendada Rateia por Aplicação Requisição da Analise de Giro → em producao!
-- [ ] NOTAS DE AJUSTES DE ESTOQUE → COLOCAR USUARIO INCLUSAO/ALTERACAO
+- [x] NOTAS DE AJUSTES DE ESTOQUE → COLOCAR USUARIO INCLUSAO/ALTERACAO
 ---
 
 CHEP

@@ -24,6 +24,7 @@
 	- [x] criar a TOP produtos intermediario → Silvia vai criar a TOP. 
 	- [ ] amanha testar a ação agendada Rateia por Aplicação Requisição da Analise de Giro → em producao! 6565 E 6755 TESTAR
 - [x] NOTAS DE AJUSTES DE ESTOQUE → COLOCAR USUARIO INCLUSAO/ALTERACAO
+- [ ] criar ação agendada pra confirmar requis
 ---
 
 CHEP

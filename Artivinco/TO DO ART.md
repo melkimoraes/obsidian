@@ -19,9 +19,10 @@
 - [x] ver amanha com a Giovanna → email da Bet de divergencia da OC com nota de compra
 	- [x] e validar dash de notas nao confimradas
 - [x] Dash Estoque Almox igual da auditoria de custo porem uma tabela só agrupando por endereço!
-- [ ] separar por nota por aplicação → pra cada aplicação uma TOP. → TRG_I_TGFTOP_TOPSUBSTIT_ART, PROC_REQCMPAPLC_ART
-	- [ ] 400 → uso e consumo
-	- [ ] criar a TOP produtos intermediario → Silvia vai criar a TOP. 
+- [x] separar por nota por aplicação → pra cada aplicação uma TOP. → TRG_I_TGFTOP_TOPSUBSTIT_ART, PROC_REQCMPAPLC_ART
+	- [x] 400 → uso e consumo
+	- [x] criar a TOP produtos intermediario → Silvia vai criar a TOP. 
+	- [ ] amanha testar a ação agendada Rateia por Aplicação Requisição da Analise de Giro → em producao!
 - [ ] NOTAS DE AJUSTES DE ESTOQUE → COLOCAR USUARIO INCLUSAO/ALTERACAO
 ---
 

@@ -42,4 +42,9 @@ se gerar a nota 220 → talvez aquela nota intermediaria que o elton emite que t
 
 custo da chep e do muller → como fazer?
 
-757521
+---
+
+#type.sql#
+SELECT MOTIVO
+  FROM AD_TPRFIM
+ WHERE CODFI = (SELECT AD_CODFI FROM TGFPRO WHERE CODPROD = TGFITE.CODPROD)

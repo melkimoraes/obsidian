@@ -22,7 +22,7 @@
 - [x] separar por nota por aplicação → pra cada aplicação uma TOP. → TRG_I_TGFTOP_TOPSUBSTIT_ART, PROC_REQCMPAPLC_ART
 	- [x] 400 → uso e consumo
 	- [x] criar a TOP produtos intermediario → Silvia vai criar a TOP. 
-	- [ ] amanha testar a ação agendada Rateia por Aplicação Requisição da Analise de Giro → em producao!
+	- [ ] amanha testar a ação agendada Rateia por Aplicação Requisição da Analise de Giro → em producao! 6565 E 6755 TESTAR
 - [x] NOTAS DE AJUSTES DE ESTOQUE → COLOCAR USUARIO INCLUSAO/ALTERACAO
 ---
 

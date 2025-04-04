@@ -41,3 +41,5 @@ se gerar a nota 220 → talvez aquela nota intermediaria que o elton emite que t
 412
 
 custo da chep e do muller → como fazer?
+
+757521

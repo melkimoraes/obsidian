@@ -11,10 +11,14 @@
             "id": "0eb0e7db3b682bd5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GM/⭐.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "⭐"
             }
           }
         ]

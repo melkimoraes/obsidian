@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "42af2bbcd7994b82",
+        "id": "944d272d13822cdd",
         "type": "tabs",
         "children": [
           {
-            "id": "8f842d40014421e1",
+            "id": "0eb0e7db3b682bd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oriente Farma/19-03.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "19-03"
+              "title": "Nova aba"
             }
           }
         ]
@@ -127,7 +123,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -185,17 +183,19 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "cdbd9ae6bf2082f0",
+  "active": "0eb0e7db3b682bd5",
   "lastOpenFiles": [
+    "Artivinco/TO DO ART.md",
+    "GM/BP Matoso.md",
+    "Aliberti",
+    "Aliberti/Oriente Farma/19-03.md",
     "Notepad/tips.md",
     "GM/Possehl - CREMER.md",
     "GM",
-    "BP Matoso.md",
     "day a day.md",
     "Estudos/Pasted image 20250115104558.png",
     "Estudos/Pasted image 20250117163703.png",
     "Artivinco/Configs-Acessos.md",
-    "Artivinco/TO DO ART.md",
     "Artivinco/Almox.md",
     "GM/⭐.md",
     "Artivinco/Laudo.md",
@@ -204,8 +204,7 @@
     "GM/Brasil Paralelo/DASH NOTAZZ.md",
     "GM/Brasil Paralelo/Notazz.md",
     "GM/BP/Per Dcomp.md",
-    "Oriente Farma/19-03.md",
-    "Oriente Farma",
+    "Aliberti/Oriente Farma",
     "Artivinco",
     "Diario/05-02-2025.md",
     "GM/Vortx/Flow.md",
@@ -224,7 +223,6 @@
     "Estudos/Kotlin",
     "Estudos",
     "GM/BP",
-    "GM/Hangcha",
     "Pasted image 20240819175130.png",
     "Pasted image 20240318154059.png",
     "Pasted image 20240318154839.png",

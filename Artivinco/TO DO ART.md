@@ -28,7 +28,7 @@
 - [x] fazer documentação do rateio da requisição feito pela analise de giro
 - [x] aprovar ação agendada 1342 → testar se aprovou as notas 515 do chep!
 - [ ] fazer re-transferencia pro recebimento do armazenado → com o gabriel!
-- [ ] ver com o gabriel baixa de requisição das tintas.
+- [ ] ver com o gabriel baixa de requisição das tintas. quando sem endereço.
 - [ ] fazer documento de devolução + exclusão de armazenamento(ou transferência?)
 
 ---

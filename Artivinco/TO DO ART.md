@@ -28,6 +28,7 @@
 - [ ] fazer documento de devolução + exclusao de armazenamento(ou transferencia?)
 - [ ] fazer documentação do rateio da requisição feito pela analise de giro
 - [ ] aprovar ação agendada 1342 → testar se aprvou as notas 515 do chep!
+- [ ] fazer re-transferencia pro recebimento do armazenado
 
 ---
 

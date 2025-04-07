@@ -25,14 +25,10 @@
 	- [x] amanha testar a ação agendada Rateia por Aplicação Requisição da Analise de Giro → em producao! 6565 E 6755 TESTAR
 - [x] NOTAS DE AJUSTES DE ESTOQUE → COLOCAR USUARIO INCLUSAO/ALTERACAO
 - [x] criar ação agendada pra confirmar requisições 515 automaticamente.
-- [ ] fazer documento de devolução + exclusao de armazenamento
+- [ ] fazer documento de devolução + exclusao de armazenamento(ou transferencia?)
 - [ ] fazer documentação do rateio da requisição feito pela analise de giro
 - [ ] aprovar ação agendada 1342 → testar se aprvou as notas 515 do chep!
-```sql
-	 SELECT CAB.NUNOTA, 'N' AS FATURAR 
-FROM AD_PROCREM REM INNER JOIN TGFCAB CAB ON CAB.NUNOTA = REM.NUNOTAMOV
-	WHERE CAB.STATUSNOTA <> 'L'
-```
+
 ---
 
 CHEP

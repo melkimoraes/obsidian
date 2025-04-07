@@ -25,11 +25,11 @@
 	- [x] amanha testar a ação agendada Rateia por Aplicação Requisição da Analise de Giro → em producao! 6565 E 6755 TESTAR
 - [x] NOTAS DE AJUSTES DE ESTOQUE → COLOCAR USUARIO INCLUSAO/ALTERACAO
 - [x] criar ação agendada pra confirmar requisições 515 automaticamente.
-- [ ] fazer documento de devolução + exclusão de armazenamento(ou transferência?)
-- [ ] fazer documentação do rateio da requisição feito pela analise de giro
+- [x] fazer documentação do rateio da requisição feito pela analise de giro
 - [x] aprovar ação agendada 1342 → testar se aprovou as notas 515 do chep!
 - [ ] fazer re-transferencia pro recebimento do armazenado → com o gabriel!
 - [ ] ver com o gabriel baixa de requisição das tintas.
+- [ ] fazer documento de devolução + exclusão de armazenamento(ou transferência?)
 
 ---
 

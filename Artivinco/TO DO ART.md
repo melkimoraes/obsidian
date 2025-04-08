@@ -27,9 +27,9 @@
 - [x] criar ação agendada pra confirmar requisições 515 automaticamente.
 - [x] fazer documentação do rateio da requisição feito pela analise de giro
 - [x] aprovar ação agendada 1342 → testar se aprovou as notas 515 do chep!
-- [ ] fazer re-transferencia pro recebimento do armazenado → com o gabriel!
+- [x] fazer re-transferencia pro recebimento do armazenado → com o gabriel!
 	- [x] ver com o gabriel baixa de requisição das tintas. quando sem endereço. → posso fazer uma trigger pra setar o codlocalorig sempre DEP. DE TINTAS.
-- [ ] fazer documento de devolução + exclusão de armazenamento(ou transferência?)
+- [x] fazer documento de devolução + exclusão de armazenamento(ou transferência?)
 
 ---
 

@@ -50,3 +50,6 @@ se gerar a nota 220 → talvez aquela nota intermediaria que o elton emite que t
 custo da chep e do muller → como fazer?
 
 ---
+
+- Zerar o estoque fevereiro dia 8 do papel → faz a copia e pega a CTE. empresa 2.
+- Empresa 1 vai limpar as notas de papel. anterior a 08/02.

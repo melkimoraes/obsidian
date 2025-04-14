@@ -49,8 +49,7 @@
               "title": "tips"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,12 +215,12 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "2af2c31ec5cd6d4c",
+  "active": "4adc216f1b25491a",
   "lastOpenFiles": [
-    "Artivinco/TO DO ART.md",
-    "tips.md",
-    "GM/day a day.md",
     "GM/⭐.md",
+    "tips.md",
+    "Artivinco/TO DO ART.md",
+    "GM/day a day.md",
     "GM/BP Matoso.md",
     "Aliberti",
     "Aliberti/Oriente Farma/19-03.md",

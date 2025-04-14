@@ -31,6 +31,19 @@
 	- [x] ver com o gabriel baixa de requisição das tintas. quando sem endereço. → posso fazer uma trigger pra setar o codlocalorig sempre DEP. DE TINTAS.
 - [x] fazer documento de devolução + exclusão de armazenamento(ou transferência?)
 - [ ] colocar vlrunit com vlr do custo médio nas transferencias → Gabriel
+```sql
+OBTEMCUSTO(
+                P_CODPROD => CTE.CODPROD,
+                P_POREMP => 'S',
+                P_CODEMP => V_INVENT.CODEMP,
+                P_PORLOCAL => 'S',
+                P_CODLOCAL => CTE.CODLOCAL,
+                P_PORCONTROLE => 'N',
+                P_CONTROLE => CTE.CONTROLE,
+                P_DATA => SYSDATE,
+                P_TIPO => 1
+            )
+```
 
 ---
 

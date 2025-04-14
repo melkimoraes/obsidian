@@ -30,6 +30,7 @@
 - [x] fazer re-transferencia pro recebimento do armazenado → com o gabriel!
 	- [x] ver com o gabriel baixa de requisição das tintas. quando sem endereço. → posso fazer uma trigger pra setar o codlocalorig sempre DEP. DE TINTAS.
 - [x] fazer documento de devolução + exclusão de armazenamento(ou transferência?)
+- [ ] colocar vlrunit com vlr do custo médio nas transferencias → Gabriel
 
 ---
 

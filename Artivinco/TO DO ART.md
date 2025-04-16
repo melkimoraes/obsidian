@@ -31,6 +31,7 @@
 	- [x] ver com o gabriel baixa de requisição das tintas. quando sem endereço. → posso fazer uma trigger pra setar o codlocalorig sempre DEP. DE TINTAS.
 - [x] fazer documento de devolução + exclusão de armazenamento(ou transferência?)
 - [ ] requisição de compra clicheria → empresa SRV nota 843 → CENTRO DE RESULTADO DE SRV tanto serviço/produto
+- [ ] ver a dash de requisição de produto → ver as tops novas.
 - [x] colocar vlrunit com vlr do custo médio nas transferencias → Gabriel
 
 ---

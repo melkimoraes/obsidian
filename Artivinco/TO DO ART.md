@@ -30,10 +30,11 @@
 - [x] fazer re-transferencia pro recebimento do armazenado → com o gabriel!
 	- [x] ver com o gabriel baixa de requisição das tintas. quando sem endereço. → posso fazer uma trigger pra setar o codlocalorig sempre DEP. DE TINTAS.
 - [x] fazer documento de devolução + exclusão de armazenamento(ou transferência?)
-- [ ] requisição de compra clicheria → empresa SRV nota 843 → CENTRO DE RESULTADO DE SRV tanto serviço/produto
-	- [ ] ABA ORDEM DE SERVIÇO(FICHA DE FACA) É A TELA REQUISIÇÃO → VER COM O MINUTTI MATAR OS PROBLEMAS DA EMPRESA.
+- [x] requisição de compra clicheria → empresa SRV nota 843 → CENTRO DE RESULTADO DE SRV tanto serviço/produto
+	- [x] ABA ORDEM DE SERVIÇO(FICHA DE FACA) É A TELA REQUISIÇÃO → VER COM O MINUTTI MATAR OS PROBLEMAS DA EMPRESA.
 - [x] ver a dash de requisição de produto → ver as tops novas.
 - [x] colocar vlrunit com vlr do custo médio nas transferencias → Gabriel
+- [ ] ver PALETE CHEP
 
 ---
 

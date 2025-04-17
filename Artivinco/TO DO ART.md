@@ -35,6 +35,8 @@
 - [x] ver a dash de requisição de produto → ver as tops novas.
 - [x] colocar vlrunit com vlr do custo médio nas transferencias → Gabriel
 - [ ] ver PALETE CHEP
+- [ ] TESTAR A TOP 515 SE VAI TIRAR DO ESTOQUE DE TERCEIRO E ENTRAR NO PROPRIO.
+	- [ ] TALVEZ VOLTAR A CONFIG DA TOP 515 PRA ENTRAR NO ESTOQUE PROPRIO DNV E  DAR UPDATE NAS ULTIMAS NOTAS!
 
 ---
 

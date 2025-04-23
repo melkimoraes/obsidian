@@ -42,6 +42,8 @@
 - [x] copiar analise de giro reis → tamara?
 - [ ] fazer copiar tabela de preço e selecionar varias tabelas e reajustar % reajuste.
 	- [ ] perguntar pra ela se ambas as personalizações sao somente de preço
+- [ ] ver embalagens de paletes que nao geram remessa! 
+- [ ] e ver paletes que geram remessa → as notas modelo
 
 4468
 

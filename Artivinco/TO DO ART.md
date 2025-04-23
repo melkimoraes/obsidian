@@ -40,6 +40,7 @@
 - [x] VER FINALIZAR OP !
 - [x] VER RELATORIO FORMATADO
 - [x] copiar analise de giro reis → tamara?
+- [ ] fazer copiar tabela de preço e selecionar varias tabelas e reajustar % reajuste.
 
 4468
 

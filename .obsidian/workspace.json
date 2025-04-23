@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "5fe365369c574707",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
-          },
-          {
             "id": "d4285aedc4a8dcf9",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               "title": "tips"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +201,7 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "5fe365369c574707",
+  "active": "4adc216f1b25491a",
   "lastOpenFiles": [
     "tips.md",
     "Artivinco/TO DO ART.md",

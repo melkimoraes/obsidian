@@ -41,6 +41,7 @@
 - [x] VER RELATORIO FORMATADO
 - [x] copiar analise de giro reis → tamara?
 - [ ] fazer copiar tabela de preço e selecionar varias tabelas e reajustar % reajuste.
+	- [ ] perguntar pra ela se ambas as personalizações sao somente de preço
 
 4468
 

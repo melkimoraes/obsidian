@@ -43,10 +43,9 @@
 - [ ] fazer copiar tabela de preço e selecionar varias tabelas e reajustar % reajuste.
 	- [ ] perguntar pra ela se ambas as personalizações sao somente de preço
 - [ ] ver embalagens de paletes que nao geram remessa! 
-- [ ] e ver paletes que geram remessa → as notas modelo
+	- [ ] e ver paletes que geram remessa → as notas modelo
 - [ ] alterar apontamento de caixa SRV → pegar o IDIPROC com base no numero do pedido e a sequencia
 
-4468
 
 ---
 

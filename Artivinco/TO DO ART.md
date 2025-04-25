@@ -42,8 +42,8 @@
 - [x] copiar analise de giro reis → tamara?
 - [ ] fazer copiar tabela de preço e selecionar varias tabelas e reajustar % reajuste.
 	- [ ] perguntar pra ela se ambas as personalizações sao somente de preço
-- [ ] ver embalagens de paletes que nao geram remessa! 
-	- [ ] e ver paletes que geram remessa → as notas modelo
+- [x] ver embalagens de paletes que nao geram remessa! 
+	- [x] e ver paletes que geram remessa → as notas modelo
 - [x] alterar apontamento de caixa SRV → pegar o IDIPROC com base no numero do pedido e a sequencia
 - [ ] FILTRO DE DATA DE CHEGADA PROTOCOLO DE ENTRADA E SAIDA.
 - [ ] rodar amanha: UPDATE TGFPRO SET CODPARCFORN=1 WHERE ATIVO='S';

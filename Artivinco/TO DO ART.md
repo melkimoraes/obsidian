@@ -49,6 +49,7 @@
 - [ ] rodar amanha: UPDATE TGFPRO SET CODPARCFORN=1 WHERE ATIVO='S';
 - [ ] fazer evento no libconf=’s’ pro pessoal da contabilidade!
 - [ ] falar com o Bruno → travar ordem de carga em entrada??
+- [ ] cancelar inventario → 
 
 
 ---

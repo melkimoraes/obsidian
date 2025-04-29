@@ -40,8 +40,8 @@
 - [x] VER FINALIZAR OP !
 - [x] VER RELATORIO FORMATADO
 - [x] copiar analise de giro reis → tamara?
-- [ ] fazer copiar tabela de preço e selecionar varias tabelas e reajustar % reajuste.
-	- [ ] perguntar pra ela se ambas as personalizações sao somente de preço
+- [x] fazer copiar tabela de preço e selecionar varias tabelas e reajustar % reajuste.
+	- [x] perguntar pra ela se ambas as personalizações sao somente de preço
 - [x] ver embalagens de paletes que nao geram remessa! 
 	- [x] e ver paletes que geram remessa → as notas modelo
 - [x] alterar apontamento de caixa SRV → pegar o IDIPROC com base no numero do pedido e a sequencia
@@ -49,7 +49,8 @@
 - [ ] rodar amanha: UPDATE TGFPRO SET CODPARCFORN=1 WHERE ATIVO='S';
 - [ ] fazer evento no libconf=’s’ pro pessoal da contabilidade!
 - [ ] falar com o Bruno → travar ordem de carga em entrada??
-- [ ] cancelar inventario → 
+- [ ] FAZER A COPIA DE ESTOQUE NA ATUALIZAÇÃO TABELA DE PREÇO
+- [x] cancelar inventario → 
 
 
 ---

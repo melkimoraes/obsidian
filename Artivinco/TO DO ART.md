@@ -46,15 +46,15 @@
 	- [x] e ver paletes que geram remessa → as notas modelo
 - [x] alterar apontamento de caixa SRV → pegar o IDIPROC com base no numero do pedido e a sequencia
 - [ ] FILTRO DE DATA DE CHEGADA PROTOCOLO DE ENTRADA E SAIDA.
-- [ ] rodar amanha: UPDATE TGFPRO SET CODPARCFORN=1 WHERE ATIVO='S'; → SNK_MATGIRCALCSUG_EXT
 - [ ] fazer evento no libconf=’s’ pro pessoal da contabilidade!
 - [ ] falar com o Bruno → travar ordem de carga em entrada??
-- [ ] FAZER A COPIA DE ESTOQUE NA ATUALIZAÇÃO TABELA DE PREÇO
 - [x] cancelar inventario → 
 
 
 ## Important 🛑
 
+- [ ] rodar amanha: UPDATE TGFPRO SET CODPARCFORN=1 WHERE ATIVO='S'; → SNK_MATGIRCALCSUG_EXT
+- [ ] FAZER A COPIA DE ESTOQUE NA ATUALIZAÇÃO TABELA DE PREÇO
 
 ---
 

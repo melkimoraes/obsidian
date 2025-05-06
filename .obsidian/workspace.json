@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/TO DO ART.md",
+                "file": "Artivinco/Integrações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO DO ART"
+              "title": "Integrações"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "IMGJ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,7 +215,7 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "bd10d8c6bebd6ca3",
+  "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
     "Artivinco/TO DO ART.md",
     "Aliberti/IMGJ.md",

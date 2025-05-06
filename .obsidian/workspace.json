@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/TO DO ART.md",
+                "file": "Artivinco/Integrações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO DO ART"
+              "title": "Integrações"
             }
           }
         ]
@@ -201,10 +201,11 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "cdbd9ae6bf2082f0",
+  "active": "25659e9f4e70e75c",
   "lastOpenFiles": [
-    "Aliberti/IMGJ.md",
     "Artivinco/TO DO ART.md",
+    "Artivinco/Integrações.md",
+    "Aliberti/IMGJ.md",
     "tips.md",
     "GM/⭐.md",
     "GM/day a day.md",
@@ -235,7 +236,6 @@
     "Diario/28-01-2025.md",
     "Diario/27-01-2025.md",
     "Sem título.canvas",
-    "Estudos/Kotlin/Roadmap.md",
     "GM/Bioclean/Flow/Flow.excalidraw",
     "Estudos/DevOps/Desafio DevOps & Cloud",
     "Estudos/DevOps",

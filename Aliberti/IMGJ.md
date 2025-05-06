@@ -3,7 +3,7 @@ IP: 10.100.114.51
 Porta: 1521
 Service Name: SANKHYA_PROD
 Username: sankhya
-Pass: zsbjVez5JyugGJUI
+Pass:  
 
 Banco de Dados IMGJ_TESTE (Local)
 IP: 172.20.16.119

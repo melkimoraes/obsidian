@@ -39,3 +39,10 @@ Acesso externo: http://177.85.34.36:34480/mge/
 (Vou criar um dns ainda)
 
 User: sup
+
+---
+
+clico no botão -> é devolução física? gerar nota de remessa industrialização tipmov v da imgj pra artivinco, confirmar.
+
+se precisar tem a proc que o elton já fez algo na artivinco : STP_NEWPED_DEV_ART
+

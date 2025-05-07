@@ -53,7 +53,7 @@
 ## Important 🛑
 
 - [x] rodar amanha: UPDATE TGFPRO SET CODPARCFORN=1 WHERE ATIVO='S'; → SNK_MATGIRCALCSUG_EXT
-- [ ] FAZER A COPIA DE ESTOQUE NA ATUALIZAÇÃO TABELA DE PREÇO
+- [x] FAZER A COPIA DE ESTOQUE NA ATUALIZAÇÃO TABELA DE PREÇO
 - [ ] fazer evento no libconf=’s’ pro pessoal da contabilidade!
 - [x] COLOCAR A VALIDACAO AD_ENTPLT → CAMPO DA TOP NO JAVA DO PALETEREMESSA
 

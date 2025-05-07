@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/TO DO ART.md",
+                "file": "Aliberti/IMGJ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO DO ART"
+              "title": "IMGJ"
             }
           }
         ],
@@ -216,11 +216,11 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "9f0b34b38747009e",
+  "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
+    "Artivinco/TO DO ART.md",
     "Artivinco/Integrações.md",
     "Aliberti/IMGJ.md",
-    "Artivinco/TO DO ART.md",
     "tips.md",
     "GM/⭐.md",
     "GM/day a day.md",

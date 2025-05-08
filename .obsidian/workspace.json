@@ -212,8 +212,7 @@
       "graph:Abrir visualização em gráfico": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:Criar um novo quadro": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "b6d264a370438c02",

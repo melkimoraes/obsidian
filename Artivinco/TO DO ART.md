@@ -48,6 +48,7 @@
 - [x] FILTRO DE DATA DE CHEGADA PROTOCOLO DE ENTRADA E SAIDA.
 - [x] falar com o Bruno → travar ordem de carga em entrada??
 - [x] cancelar inventario → 
+- [ ] REQUISIÇÕES LIBERADAS NAO CONFIRMADAS.
 
 
 ## Important 🛑

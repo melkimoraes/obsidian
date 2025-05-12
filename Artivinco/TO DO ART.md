@@ -53,6 +53,7 @@
 - [x] NOME DO USUARIO NO LOG INCORRETO
 - [ ] ANALISE DE GIRO
 - [x] ERRO NA HORA DE FINALIZAR REQ
+- [ ] chep → em SRV talvez o parceiro que vai baixar é do FIFO pq lá a nota entra como ITA
 
 
 ## Important 🛑

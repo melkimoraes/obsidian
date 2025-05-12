@@ -49,9 +49,10 @@
 - [x] falar com o Bruno → travar ordem de carga em entrada??
 - [x] cancelar inventario → 
 - [ ] REQUISIÇÕES LIBERADAS NAO CONFIRMADAS.
-- [ ] ARMAZENOU O AMIGO EM TO E FOI EM KG?
+- [x] ARMAZENOU O AMIGO EM TO E FOI EM KG?
 - [ ] NOME DO USUARIO NO LOG INCORRETO
 - [ ] ANALISE DE GIRO
+- [ ] ERRO NA HORA DE FINALIZAR REQ
 
 
 ## Important 🛑

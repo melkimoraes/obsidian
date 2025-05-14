@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,10 +230,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6d264a370438c02",
+  "active": "c264222ee99fc004",
   "lastOpenFiles": [
-    "Artivinco/Configs-Acessos.md",
     "Artivinco/TO DO ART.md",
+    "Artivinco/Configs-Acessos.md",
     "Artivinco/Integrações.md",
     "Aliberti/IMGJ.md",
     "tips.md",

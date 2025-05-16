@@ -117,3 +117,9 @@ NUIVT- 9
 
 TROCAR OS LOCAIS DOS PALETES DE REMESSA
 NA SELECT CODLOCALPAD fROM TGFPEM WHERE CODPROD=423;
+
+
+---
+
+tirar pedidos zira  → pedidos clicheria
+

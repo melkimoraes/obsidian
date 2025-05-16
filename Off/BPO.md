@@ -1,0 +1,2 @@
+- [ ] colocar o validar empresa
+- [ ] colocar o inserir log!

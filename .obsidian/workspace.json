@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/TO DO ART.md",
+                "file": "Off/BPO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO DO ART"
+              "title": "BPO"
             }
           }
         ],
@@ -218,8 +218,10 @@
   },
   "active": "b6d264a370438c02",
   "lastOpenFiles": [
-    "Artivinco/Configs-Acessos.md",
     "Artivinco/TO DO ART.md",
+    "Off/BPO.md",
+    "Off",
+    "Artivinco/Configs-Acessos.md",
     "Artivinco/Laudo.md",
     "Artivinco/Almox.md",
     "Artivinco/Integrações.md",
@@ -249,14 +251,12 @@
     "Diario/30-01-2025.md",
     "Estudos/Kotlin/KMP.md",
     "Diario/28-01-2025.md",
-    "Diario/27-01-2025.md",
     "Sem título.canvas",
     "GM/Bioclean/Flow/Flow.excalidraw",
     "Estudos/DevOps/Desafio DevOps & Cloud",
     "Estudos/DevOps",
     "Estudos/Kotlin",
     "Estudos",
-    "GM/BP",
     "Pasted image 20240819175130.png",
     "Pasted image 20240318154059.png",
     "Pasted image 20240318154839.png",

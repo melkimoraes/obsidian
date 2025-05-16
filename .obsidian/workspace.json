@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Integrações"
             }
-          },
-          {
-            "id": "b6d264a370438c02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Off/BPO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BPO"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,10 +201,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6d264a370438c02",
+  "active": "317700b635e1ce99",
   "lastOpenFiles": [
-    "Artivinco/TO DO ART.md",
     "Off/BPO.md",
+    "Artivinco/TO DO ART.md",
     "Off",
     "Artivinco/Configs-Acessos.md",
     "Artivinco/Laudo.md",

@@ -1,3 +1,4 @@
 - [ ] colocar o validar empresa
 - [ ] colocar o inserir log!
 - [ ] criar campo pra tipo d neegociação
+- [ ] criar nota modelo

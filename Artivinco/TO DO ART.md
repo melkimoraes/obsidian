@@ -53,7 +53,7 @@
 - [x] NOME DO USUARIO NO LOG INCORRETO
 - [ ] ANALISE DE GIRO
 - [x] ERRO NA HORA DE FINALIZAR REQ
-- [ ] chep → em SRV talvez o parceiro que vai baixar é do FIFO pq lá a nota entra como ITA
+- [x] chep → em SRV talvez o parceiro que vai baixar é do FIFO pq lá a nota entra como ITA
 
 
 ## Important 🛑
@@ -62,6 +62,9 @@
 - [x] FAZER A COPIA DE ESTOQUE NA ATUALIZAÇÃO TABELA DE PREÇO
 - [ ] fazer evento no libconf=’s’ pro pessoal da contabilidade!
 - [x] COLOCAR A VALIDACAO AD_ENTPLT → CAMPO DA TOP NO JAVA DO PALETEREMESSA
+- [ ] TESTAR TRANSFERENCIA DE CHEP → APP
+- [ ] QUANDO CONTAR CHEP → MUDAR A TOP 515 NOVAMENTE
+	- [ ] TIRAR A VERIFICAÇÃO DO ESTOQUE DO PALETEREMESSA (BOOLEAN QUE FIZ PRA VERIFICAR)
 
 ---
 

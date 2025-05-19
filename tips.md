@@ -6,9 +6,9 @@
 	END;
 ```
 
-```sql
+```java
 
-BEGIN
+BigDecimal qtdApontadaSinal1 = BigDecimalUtil.getValueOrZero(NativeSql.getBigDecimal("SUM(QTD)", "TPRMER", "IDIPROC = ? AND IDIATV = ? AND SINAL = 1", new Object[]{idIproc, idIatv}));
 
 ```
 

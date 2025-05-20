@@ -48,10 +48,10 @@
 - [x] FILTRO DE DATA DE CHEGADA PROTOCOLO DE ENTRADA E SAIDA.
 - [x] falar com o Bruno → travar ordem de carga em entrada??
 - [x] cancelar inventario → 
-- [ ] REQUISIÇÕES LIBERADAS NAO CONFIRMADAS.
+- [x] REQUISIÇÕES LIBERADAS NAO CONFIRMADAS.
 - [x] ARMAZENOU O AMIGO EM TO E FOI EM KG?
 - [x] NOME DO USUARIO NO LOG INCORRETO
-- [ ] ANALISE DE GIRO
+- [x] ANALISE DE GIRO
 - [x] ERRO NA HORA DE FINALIZAR REQ
 - [x] chep → em SRV talvez o parceiro que vai baixar é do FIFO pq lá a nota entra como ITA
 

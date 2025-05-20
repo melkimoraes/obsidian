@@ -2,8 +2,8 @@
 - [x] colocar o inserir log!
 - [ ] criar campo pra tipo de negociação
 - [ ] criar nota modelo
-- [ ] criar preferencias
+- [x] criar preferencias
 - [ ] criar pastas repositorio de arquivo
 - [ ] ver com a fernanda:
-	- [ ] criado um depara no tipo de negociacao como antes
-	- [ ] o valor de venda é o valor que ta vindo no arquivo?
+	- [x] criado um depara no tipo de negociacao como antes
+	- [x] o valor de venda é o valor que ta vindo no arquivo?

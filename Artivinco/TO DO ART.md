@@ -34,7 +34,7 @@
 	- [x] ABA ORDEM DE SERVIÇO(FICHA DE FACA) É A TELA REQUISIÇÃO → VER COM O MINUTTI MATAR OS PROBLEMAS DA EMPRESA.
 - [x] ver a dash de requisição de produto → ver as tops novas.
 - [x] colocar vlrunit com vlr do custo médio nas transferencias → Gabriel
-- [ ] ver PALETE CHEP
+- [x] ver PALETE CHEP
 - [x] TESTAR A TOP 515 SE VAI TIRAR DO ESTOQUE DE TERCEIRO E ENTRAR NO PROPRIO.
 	- [x] TALVEZ VOLTAR A CONFIG DA TOP 515 PRA ENTRAR NO ESTOQUE PROPRIO DNV E  DAR UPDATE NAS ULTIMAS NOTAS!
 - [x] VER FINALIZAR OP !

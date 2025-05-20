@@ -1,9 +1,9 @@
 - [x] colocar o validar empresa
 - [x] colocar o inserir log!
-- [ ] criar campo pra tipo de negociação
+- [x] criar campo pra tipo de negociação
 - [ ] criar nota modelo
 - [x] criar preferencias
-- [ ] criar pastas repositorio de arquivo
+- [x] criar pastas repositorio de arquivo
 - [ ] ver com a fernanda:
 	- [x] criado um depara no tipo de negociacao como antes
 	- [x] o valor de venda é o valor que ta vindo no arquivo?

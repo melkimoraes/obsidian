@@ -61,7 +61,7 @@
 - [x] rodar amanha: UPDATE TGFPRO SET CODPARCFORN=1 WHERE ATIVO='S'; → SNK_MATGIRCALCSUG_EXT
 - [x] FAZER A COPIA DE ESTOQUE NA ATUALIZAÇÃO TABELA DE PREÇO
 - [ ] fazer evento no libconf=’s’ pro pessoal da contabilidade!
-	- [ ] criar preferencia PERC LIB
+	- [x] criar preferencia PERC LIB
 	- [ ] criar marcação nas TOP que vai criar evento 6868
 - [ ] VER AS EXC
 - [x] COLOCAR A VALIDACAO AD_ENTPLT → CAMPO DA TOP NO JAVA DO PALETEREMESSA

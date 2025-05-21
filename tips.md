@@ -12,9 +12,10 @@ BigDecimal qtdApontadaSinal1 = BigDecimalUtil.getValueOrZero(NativeSql.getBigDec
 
 ```
 
-````SQL
-TESTE
+
+```SQL
+
+    DBMS_OUTPUT.PUT_LINE('Contador: ' || v_contador);
+
+
 ```
-----
-
-

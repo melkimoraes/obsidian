@@ -64,7 +64,7 @@
 	- [x] criar preferencia PERC LIB
 	- [x] criar marcação nas TOP que vai criar evento 6868
 - [ ] VER AS EXC
-- [ ] 5261 - produto nao tava na analise de giro
+- [x] 5261 - produto nao tava na analise de giro
 - [x] COLOCAR A VALIDACAO AD_ENTPLT → CAMPO DA TOP NO JAVA DO PALETEREMESSA
 - [x] TESTAR TRANSFERENCIA DE CHEP → APP
 - [x] QUANDO CONTAR CHEP → MUDAR A TOP 515 NOVAMENTE

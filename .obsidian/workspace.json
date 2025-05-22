@@ -35,7 +35,8 @@
               "title": "kampa"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,10 +216,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ceac526667f96d95",
+  "active": "f5778bb86f2cd445",
   "lastOpenFiles": [
-    "Off/kampa.md",
     "Artivinco/TO DO ART.md",
+    "Off/kampa.md",
     "Artivinco/Almox.md",
     "Artivinco/Configs-Acessos.md",
     "Artivinco/Integrações.md",

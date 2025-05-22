@@ -8,4 +8,4 @@
 	- [x] criado um depara no tipo de negociacao como antes
 	- [x] o valor de venda é o valor que ta vindo no arquivo?
 
-acessos → 
+acessos → 11101995

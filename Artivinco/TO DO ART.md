@@ -74,9 +74,9 @@
 	- [ ] STP_RGN_COMPRAHOM_ART
 	- [ ] VER SE VAI MARCAR OS PRODUTOS OU TOP.
 - [ ] VER A SOLICITAÇÃO DO VITOR DE CANCELAR VARIAS ETIQUEATS, HOJE PELA LIXEIRA.
-- [ ] ver devoluções incorretas do chep
-	- [ ] fifo
-	- [ ] arquivo remessa se vai pegar oq eles ja tinham feito
+- [x] ver devoluções incorretas do chep
+	- [x] fifo
+	- [x] arquivo remessa se vai pegar oq eles ja tinham feito
 
 ---
 

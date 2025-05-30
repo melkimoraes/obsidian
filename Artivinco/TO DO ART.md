@@ -78,6 +78,7 @@
 	- [x] fifo
 	- [x] arquivo remessa se vai pegar oq eles ja tinham feito
 - [ ] quando igor retornar os produtos pra passar pelas validações de homologação → explicar e liberar o evento 1500!
+- [ ] colocar os PP pra finalizar caso PA finalizado
 
 ---
 

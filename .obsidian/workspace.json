@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/TO DO ART.md",
+                "file": "Artivinco/Configs-Acessos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO DO ART"
+              "title": "Configs-Acessos"
             }
           }
         ]
@@ -201,10 +201,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ceac526667f96d95",
+  "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
-    "tips.md",
     "Artivinco/TO DO ART.md",
+    "tips.md",
     "Off/kampa.md",
     "Artivinco/Almox.md",
     "Artivinco/Configs-Acessos.md",

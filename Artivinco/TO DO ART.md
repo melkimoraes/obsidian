@@ -79,7 +79,7 @@
 	- [x] arquivo remessa se vai pegar oq eles ja tinham feito
 - [x] quando Igor retornar os produtos pra passar pelas validações de homologação → explicar e liberar o evento 1500!
 - [x] colocar os PP pra finalizar caso PA finalizado
-- [ ] natureza do palete CHEP → ver com o contabil → nao pode ser a msm natureza da nota de debito
+- [x] natureza do palete CHEP → ver com o contabil → nao pode ser a msm natureza da nota de debito
 
 ---
 

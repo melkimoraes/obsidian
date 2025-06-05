@@ -80,6 +80,8 @@
 - [x] quando Igor retornar os produtos pra passar pelas validações de homologação → explicar e liberar o evento 1500!
 - [x] colocar os PP pra finalizar caso PA finalizado
 - [x] natureza do palete CHEP → ver com o contabil → nao pode ser a msm natureza da nota de debito
+- [ ] LANÇAR REFUGO, COM ERRO → ELTAO
+- [ ] ELTAO BOTAR NA EXT FILTRO DE DATA CHEGADA NO PROTOCOLO DE ENTRADA
 
 ---
 

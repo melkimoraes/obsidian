@@ -82,6 +82,7 @@
 - [x] natureza do palete CHEP → ver com o contabil → nao pode ser a msm natureza da nota de debito
 - [ ] LANÇAR REFUGO, COM ERRO → ELTAO
 - [ ] ELTAO BOTAR NA EXT FILTRO DE DATA CHEGADA NO PROTOCOLO DE ENTRADA
+- [ ] ver fc dos vendedores → marcação de tipo assistentes(acho que nao é esse o nome) e se for vendedor tb ver a aba das assistentes mas com data de validade(pra caso deferias)
 
 ---
 

@@ -35,8 +35,7 @@
               "title": "BP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,11 +215,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15dbb394fbc78d47",
+  "active": "99a759160607dec2",
   "lastOpenFiles": [
-    "tips.md",
     "Off/BP.md",
     "Artivinco/TO DO ART.md",
+    "tips.md",
     "Artivinco/Configs-Acessos.md",
     "Off/kampa.md",
     "Artivinco/Almox.md",

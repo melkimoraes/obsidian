@@ -84,7 +84,7 @@
 - [ ] ELTAO BOTAR NA EXT FILTRO DE DATA CHEGADA NO PROTOCOLO DE ENTRADA
 - [ ] ver fc dos vendedores → marcação de tipo assistentes(acho que nao é esse o nome) e se for vendedor tb ver a aba das assistentes mas com data de validade(pra caso deferias)
 - [ ] Apontamento de Acessórios -> quando alterado peças por pacote -> alterar peçar por palete
-	- [ ] acessorios@artivinco.com.br
+	- [x] acessorios@artivinco.com.br
 
 ---
 

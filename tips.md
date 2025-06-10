@@ -41,3 +41,8 @@ AND ITER.CODPROD = 423
 GROUP BY CAB.NUNOTA,CAB.DTFATUR,CABR.NUNOTA,ITER.CODPROD, ITER.QTDNEG
 ORDER BY 1 DESC
 ```
+
+
+```sql
+sudo mv /home/mgeweb/TempDocumento/teste.zip /home/t495542/
+```

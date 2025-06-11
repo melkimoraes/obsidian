@@ -1,4 +1,4 @@
-- [x] fazer trigger na AD_TRANSFLOCID → verificando STATUSETQ = ‘COMPRADO’ na AD_TGFIDETQ
+	- [x] fazer trigger na AD_TRANSFLOCID → verificando STATUSETQ = ‘COMPRADO’ na AD_TGFIDETQ
 - [x] colocar a query da auditoria de compras em produção
 - [x] ver transferencia de palete caixa pra SRV que vai ter venda pro cliente.
 - [x] fazer um relatorio formatado → Contabilidade → tops que baixam estoque(Almoxarifado) → nao confirmadas.

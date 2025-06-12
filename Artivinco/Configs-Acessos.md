@@ -10,6 +10,9 @@ User: sankhya
 Pass: !YBSotIsQdlJSc4L
 IP: 172.1.0.65
 
+sup
+‘5qx}4n/G{DQ#kD<a’
+
 # Aplicacao
 
 PROD:

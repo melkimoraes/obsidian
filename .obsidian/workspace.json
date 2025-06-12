@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99a759160607dec2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artivinco/Configs-Acessos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Configs-Acessos"
-            }
-          },
-          {
             "id": "35bce01440b63312",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "TO DO ART"
+            }
+          },
+          {
+            "id": "5513e86d693ebd6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artivinco/Configs-Acessos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configs-Acessos"
             }
           },
           {
@@ -230,7 +230,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4285aedc4a8dcf9",
+  "active": "5513e86d693ebd6c",
   "lastOpenFiles": [
     "Artivinco/TO DO ART.md",
     "Artivinco/Configs-Acessos.md",

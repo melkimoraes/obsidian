@@ -4,3 +4,6 @@ Notazz
 
 código do serviço 2966
  1 nota por serviço → nao entra pj, exportação, produto
+
+- [ ] criar campo de VLR.
+- [ ] criar campos na CONFIG GURU → TOP e Serviço da nota unica.

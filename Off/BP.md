@@ -7,3 +7,5 @@ código do serviço 2966
 
 - [ ] criar campo de VLR.
 - [ ] criar campos na CONFIG GURU → TOP e Serviço da nota unica.
+- [ ] perguntar pro rogerio do tipo de negociação/parceiro → nota unica
+- [ ] em um possivel erro aonde vou logar isso?

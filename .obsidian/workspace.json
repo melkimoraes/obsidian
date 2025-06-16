@@ -49,8 +49,7 @@
               "title": "BP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,8 +229,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dccc572f12795787",
+  "active": "35bce01440b63312",
   "lastOpenFiles": [
+    "GM/⭐.md",
     "Artivinco/TO DO ART.md",
     "Off/BP.md",
     "Artivinco/Configs-Acessos.md",
@@ -241,7 +241,6 @@
     "Artivinco/Integrações.md",
     "Artivinco/Laudo.md",
     "Sem título",
-    "GM/⭐.md",
     "Aliberti/IMGJ.md",
     "Off",
     "Notepad/tips.md",

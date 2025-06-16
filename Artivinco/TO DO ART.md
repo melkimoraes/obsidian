@@ -143,3 +143,5 @@ NA SELECT CODLOCALPAD fROM TGFPEM WHERE CODPROD=423;
 
 
 ---
+
+C:\sk-java\DWFDesigner\jre

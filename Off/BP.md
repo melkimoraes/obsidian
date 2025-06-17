@@ -5,7 +5,8 @@ Notazz
 código do serviço 2966
  1 nota por serviço → nao entra pj, exportação, produto
 
-- [ ] criar campo de VLR.
+- [ ] criar campo de VLR. → AD_INTGURUAPRVNFSE
 - [ ] criar campos na CONFIG GURU → TOP e Serviço da nota unica.
 - [ ] perguntar pro rogerio do tipo de negociação/parceiro → nota unica
 - [ ] em um possivel erro aonde vou logar isso?
+- [ ] MUDAR PK DA AD_INTGURUAPRVNFSE PRO NROFATURA.

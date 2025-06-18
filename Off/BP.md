@@ -10,3 +10,32 @@ código do serviço 2966
 - [x] perguntar pro rogerio do tipo de negociação/parceiro → nota unica
 - [ ] fazer algum log da nota unica!!
 - [ ] MUDAR PK DA AD_INTGURUAPRVNFSE PRO NROFATURA.
+
+---
+
+arrumando a prod!
+
+finder com oq tinha colocado no ProcessarNotasGuruNFS:
+
+BigDecimal qtdParaFaturar = qtdFaturar.subtract(qtdFaturados);  
+FinderWrapper finderCab = new FinderWrapper("CabecalhoNota",  
+        "this.NUNOTA IN (\n"  
+                + "  SELECT NUNOTA FROM (\n"  
+                + "    SELECT NOTAS.NUNOTA, NOTAS.DTFATUR\n"  
+                + "    FROM (\n"  
+                + "      SELECT NUNOTA, DTFATUR\n"  
+                + "      FROM AD_INTGURUAPRVNFSE\n"  
+                + "      WHERE DTFATURADO IS NULL\n"  
+                + "        AND NVL(CANCELADO, 'N') = 'N'\n"  
+                + "        AND NVL(QTDTNTFAT, 0) < 3\n"  
+                + "        AND NUNOTA <> 0\n"  
+                + "        AND NVL(VLRFATURA,0) = 0\n"  
+                + "    ) NOTAS\n"  
+                + "    WHERE DTFATUR <= SYSDATE\n"  
+                + "      AND NOTAS.NUNOTA IN (SELECT NUNOTA FROM TGFCAB)\n"  
+                + "    ORDER BY NOTAS.DTFATUR ASC\n"  
+                + "  ) WHERE ROWNUM <= ?\n"  
+                + ")",  
+        new Object[]{qtdParaFaturar.compareTo(BigDecimal.ZERO) == -1 ? BigDecimal.ZERO : qtdParaFaturar});  
+finderCab.setMaxResults(-1);  
+Collection<PersistentLocalEntity> colCab = dwfFacade.findByDynamicFinder(finderCab);

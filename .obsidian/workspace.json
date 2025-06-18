@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "ab61fcc65ac2e42d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Off/BP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BP"
+            }
+          },
+          {
             "id": "18cf4ca8c825b641",
             "type": "leaf",
             "state": {
@@ -49,7 +63,8 @@
               "title": "⭐"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,12 +244,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35bce01440b63312",
+  "active": "ab61fcc65ac2e42d",
   "lastOpenFiles": [
+    "Artivinco/TO DO ART.md",
     "GM/⭐.md",
     "Off/BP.md",
     "Artivinco/Configs-Acessos.md",
-    "Artivinco/TO DO ART.md",
     "tips.md",
     "Off/kampa.md",
     "Artivinco/Almox.md",

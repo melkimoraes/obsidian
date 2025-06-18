@@ -7,6 +7,6 @@ código do serviço 2966
 
 - [ ] criar campo de VLR. → AD_INTGURUAPRVNFSE
 - [ ] criar campos na CONFIG GURU → TOP e Serviço da nota unica.
-- [ ] perguntar pro rogerio do tipo de negociação/parceiro → nota unica
-- [ ] em um possivel erro aonde vou logar isso?
+- [x] perguntar pro rogerio do tipo de negociação/parceiro → nota unica
+- [ ] fazer algum log da nota unica!!
 - [ ] MUDAR PK DA AD_INTGURUAPRVNFSE PRO NROFATURA.

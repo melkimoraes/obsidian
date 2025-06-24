@@ -86,8 +86,8 @@
 - [x] ver fc dos vendedores → marcação de tipo assistentes(acho que nao é esse o nome) e se for vendedor tb ver a aba das assistentes mas com data de validade(pra caso deferias)
 - [x] Apontamento de Acessórios -> quando alterado peças por pacote -> alterar peçar por palete
 	- [x] acessorios@artivinco.com.br
-- [ ] Travar o desmembramento de etiqueta caso não for o pedido todo!!
-	- [ ] top de destino, nao tiver na top que gera cota maquina → nao trava
+- [x] Travar o desmembramento de etiqueta caso não for o pedido todo!!
+	- [x] top de destino, nao tiver na top que gera cota maquina → nao trava
 
 ---
 

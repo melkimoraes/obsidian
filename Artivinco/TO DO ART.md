@@ -87,7 +87,7 @@
 - [x] Apontamento de Acessórios -> quando alterado peças por pacote -> alterar peçar por palete
 	- [x] acessorios@artivinco.com.br
 - [ ] Travar o desmembramento de etiqueta caso não for o pedido todo!!
-	- [ ] top de d
+	- [ ] top de destino, nao tiver na top que gera cota maquina → nao trava
 
 ---
 

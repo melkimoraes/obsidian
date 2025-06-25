@@ -63,7 +63,8 @@
               "title": "⭐"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,10 +244,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35bce01440b63312",
+  "active": "ab0d8263d0496604",
   "lastOpenFiles": [
-    "Artivinco/Configs-Acessos.md",
     "Artivinco/TO DO ART.md",
+    "Artivinco/Configs-Acessos.md",
     "Off/BP.md",
     "GM/⭐.md",
     "Aliberti/IMGJ.md",

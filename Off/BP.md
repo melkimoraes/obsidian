@@ -14,6 +14,7 @@ código do serviço 2966
 	- [ ] primeiro um cancelamento de nota que vai impactar no valor da nota unica
 	- [ ] e outro um cancelamento depois da nota unica emitida! nao é pra cancelar a nota unica!
 - [ ] DELETAR NRO UNICO SE DER ALGUM ERRO? testar!
+- [ ] fazer marcaçãoda inserção de nota unica → mais facil de encontrar
 
 ---
 

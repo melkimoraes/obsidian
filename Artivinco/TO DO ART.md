@@ -90,6 +90,9 @@
 - [x] Travar o desmembramento de etiqueta caso não for o pedido todo!!
 	- [x] top de destino, nao tiver na top que gera cota maquina → nao trava
 - [ ] fazer a melhoria na tela de apontamento de refugo 2.0 de gerar 1 nota seja de entrada ou saida pra todas as etiquetas!
+- [ ] AVISO OU TRAVA -> valor do item no pedido de venda ao salvar -> se estiver data de entrega dentro de um período de PC Aprovado e o valor estiver diferente deste travar/avisar.
+	- [ ] botão de ação prorrogar na alteração de pedidos.
+
 
 ---
 

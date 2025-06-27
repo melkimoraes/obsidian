@@ -16,6 +16,9 @@ código do serviço 2966
 	- [ ] e outro um cancelamento depois da nota unica emitida! nao é pra cancelar a nota unica!
 - [ ] DELETAR NRO UNICO SE DER ALGUM ERRO? testar!
 - [ ] fazer marcaçãoda inserção de nota unica → mais facil de encontrar
+- [ ] tirar o loop de 2 registros na inserção das paginas
+- [ ] tirar os dias a + no select da nota unica pra pegar o SUM DO VLR!
+- [ ] colocar o parceiro 1 como cliente em produção!
 
 ---
 

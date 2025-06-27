@@ -6,6 +6,7 @@ código do serviço 2966
  1 nota por serviço → nao entra pj, exportação, produto
 
 - [ ] criar campo de VLR. → AD_INTGURUAPRVNFSE
+- [ ] campo na CAB → AD_INTGURUNU
 - [ ] criar campos na CONFIG GURU → TOP e Serviço da nota unica.
 - [x] perguntar pro rogerio do tipo de negociação/parceiro → nota unica
 - [ ] fazer algum log da nota unica!! → AD_LOGGURUNU

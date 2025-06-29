@@ -6,7 +6,7 @@ código do serviço 2966
  1 nota por serviço → nao entra pj, exportação, produto
 
 - [x] criar campo de VLR. → AD_INTGURUAPRVNFSE
-- [ ] campo na CAB → AD_INTGURUNU
+- [x] campo na CAB → AD_INTGURUNU
 - [x] criar campo QTDTNTGR → pedaprv e canc
 - [x] criar campos na CONFIG GURU → TOP e Serviço da nota unica.
 - [x] criar campo CODPARC → AD_INTGURUPED
@@ -21,11 +21,6 @@ código do serviço 2966
 - [x] tirar o loop de 2 registros na inserção das paginas
 - [x] tirar os dias a + no select da nota unica pra pegar o SUM DO VLR!
 - [x] colocar o parceiro 1 como cliente em produção!
-
----
-
-em teste:
-UPDATE AD_INTGURUAPRVNFSE SET NUNOTA = 22489682, DTFATURADO = SYSDATE WHERE DTFATURADO IS NULL AND NVL(CANCELADO, 'N') = 'N' AND NUNOTA = 0 AND NVL(VLRFATURA,0) <> 0 AND TRUNC(DTFATUR, 'MM') = TRUNC(SYSDATE+2, 'MM');
 
 
 ---

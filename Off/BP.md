@@ -51,3 +51,16 @@ FinderWrapper finderCab = new FinderWrapper("CabecalhoNota",
         new Object[]{qtdParaFaturar.compareTo(BigDecimal.ZERO) == -1 ? BigDecimal.ZERO : qtdParaFaturar});  
 finderCab.setMaxResults(-1);  
 Collection<PersistentLocalEntity> colCab = dwfFacade.findByDynamicFinder(finderCab);
+
+-----
+
+
+SELECT count(1), ID,
+PAGINA,
+IDPED,
+NROFATURA FROM AD_INTGURUAPRVNFSE WHERE NVL(vlrfatura,0) <> 0
+GROUP BY ID,
+PAGINA,
+IDPED,
+NROFATURA
+HAVING COUNT(1) > 1

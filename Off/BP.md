@@ -12,7 +12,7 @@ código do serviço 2966
 - [x] criar campo CODPARC → AD_INTGURUPED
 - [x] perguntar pro rogerio do tipo de negociação/parceiro → nota unica
 - [x] fazer algum log da nota unica!! → AD_LOGGURUNU
-- [ ] MUDAR PK DA AD_INTGURUAPRVNFSE PRO NROFATURA.
+- [x] MUDAR PK DA AD_INTGURUAPRVNFSE PRO NROFATURA.
 - [ ] sera que consigo testar/acompanhar um cancelamento?
 	- [ ] primeiro um cancelamento de nota que vai impactar no valor da nota unica
 	- [ ] e outro um cancelamento depois da nota unica emitida! nao é pra cancelar a nota unica!

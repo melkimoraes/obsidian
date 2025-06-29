@@ -7,7 +7,9 @@ código do serviço 2966
 
 - [ ] criar campo de VLR. → AD_INTGURUAPRVNFSE
 - [ ] campo na CAB → AD_INTGURUNU
+- [ ] criar campo QTDTNTGR → pedaprv e canc
 - [ ] criar campos na CONFIG GURU → TOP e Serviço da nota unica.
+- [ ] criar campo CODPARC → AD_INTGURUPED
 - [x] perguntar pro rogerio do tipo de negociação/parceiro → nota unica
 - [ ] fazer algum log da nota unica!! → AD_LOGGURUNU
 - [ ] MUDAR PK DA AD_INTGURUAPRVNFSE PRO NROFATURA.

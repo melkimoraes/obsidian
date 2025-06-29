@@ -5,22 +5,28 @@ Notazz
 código do serviço 2966
  1 nota por serviço → nao entra pj, exportação, produto
 
-- [ ] criar campo de VLR. → AD_INTGURUAPRVNFSE
+- [x] criar campo de VLR. → AD_INTGURUAPRVNFSE
 - [ ] campo na CAB → AD_INTGURUNU
-- [ ] criar campo QTDTNTGR → pedaprv e canc
-- [ ] criar campos na CONFIG GURU → TOP e Serviço da nota unica.
-- [ ] criar campo CODPARC → AD_INTGURUPED
+- [x] criar campo QTDTNTGR → pedaprv e canc
+- [x] criar campos na CONFIG GURU → TOP e Serviço da nota unica.
+- [x] criar campo CODPARC → AD_INTGURUPED
 - [x] perguntar pro rogerio do tipo de negociação/parceiro → nota unica
-- [ ] fazer algum log da nota unica!! → AD_LOGGURUNU
+- [x] fazer algum log da nota unica!! → AD_LOGGURUNU
 - [ ] MUDAR PK DA AD_INTGURUAPRVNFSE PRO NROFATURA.
 - [ ] sera que consigo testar/acompanhar um cancelamento?
 	- [ ] primeiro um cancelamento de nota que vai impactar no valor da nota unica
 	- [ ] e outro um cancelamento depois da nota unica emitida! nao é pra cancelar a nota unica!
-- [ ] DELETAR NRO UNICO SE DER ALGUM ERRO? testar!
-- [ ] fazer marcaçãoda inserção de nota unica → mais facil de encontrar
-- [ ] tirar o loop de 2 registros na inserção das paginas
-- [ ] tirar os dias a + no select da nota unica pra pegar o SUM DO VLR!
-- [ ] colocar o parceiro 1 como cliente em produção!
+- [x] DELETAR NRO UNICO SE DER ALGUM ERRO? testar!
+- [x] fazer marcaçãoda inserção de nota unica → mais facil de encontrar
+- [x] tirar o loop de 2 registros na inserção das paginas
+- [x] tirar os dias a + no select da nota unica pra pegar o SUM DO VLR!
+- [x] colocar o parceiro 1 como cliente em produção!
+
+---
+
+em teste:
+UPDATE AD_INTGURUAPRVNFSE SET NUNOTA = 22489682, DTFATURADO = SYSDATE WHERE DTFATURADO IS NULL AND NVL(CANCELADO, 'N') = 'N' AND NUNOTA = 0 AND NVL(VLRFATURA,0) <> 0 AND TRUNC(DTFATUR, 'MM') = TRUNC(SYSDATE, 'MM');
+
 
 ---
 

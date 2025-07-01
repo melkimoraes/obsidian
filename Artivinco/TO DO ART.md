@@ -84,6 +84,7 @@
 - [ ] ELTAO BOTAR NA EXT FILTRO DE DATA CHEGADA NO PROTOCOLO DE ENTRADA
 - [ ] ver com o bruno talvez uma tela de pedidos agil → comercial?
 - [ ] ELTAO → JAVA DO FINALIZAR TRANSFERENCIA SAIDA BOBINA → COLOCARMOS PRA COLOCAR VALOR ICMS NA NOTA DE COMPRA QUE DUPLICA APARTIR DA VENDA
+- [ ] Eltao → desabilitar botao de excluir composição
 - [x] ver fc dos vendedores → marcação de tipo assistentes(acho que nao é esse o nome) e se for vendedor tb ver a aba das assistentes mas com data de validade(pra caso deferias)
 - [x] Apontamento de Acessórios -> quando alterado peças por pacote -> alterar peçar por palete
 	- [x] acessorios@artivinco.com.br

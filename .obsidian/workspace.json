@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/TO DO ART.md",
+                "file": "Notepad/tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO DO ART"
+              "title": "tips"
             }
           },
           {
@@ -273,8 +273,8 @@
   },
   "active": "35bce01440b63312",
   "lastOpenFiles": [
-    "Off/BP.md",
     "Artivinco/TO DO ART.md",
+    "Off/BP.md",
     "GM/⭐.md",
     "Artivinco/Configs-Acessos.md",
     "Aliberti/IMGJ.md",

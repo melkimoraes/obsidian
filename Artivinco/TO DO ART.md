@@ -54,7 +54,6 @@
 - [x] ANALISE DE GIRO
 - [x] ERRO NA HORA DE FINALIZAR REQ
 - [x] chep → em SRV talvez o parceiro que vai baixar é do FIFO pq lá a nota entra como ITA
-- [ ] 296 -> TRANSFERENCIA DE LENHA -> GERADO ENTRADA
 
 
 ## Important 🛑
@@ -99,6 +98,7 @@
 	- [x] botão de ação prorrogar na alteração de pedidos.
 	- [x] STP_U_TGFITE_PRCO_ART
 - [ ] Fazer a melhoria do gerar apontamento em java!
+- [ ] 296 -> TRANSFERENCIA DE LENHA -> GERAR ENTRADA
 
 
 ---

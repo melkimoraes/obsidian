@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,12 +230,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27e0be847e3e6b54",
+  "active": "05df0571c2f8e006",
   "lastOpenFiles": [
+    "Off/BP.md",
     "tips.md",
     "Artivinco/TO DO ART.md",
     "Aliberti/IMGJ.md",
-    "Off/BP.md",
     "Artivinco/Configs-Acessos.md",
     "GM/⭐.md",
     "Notepad/tips.md",

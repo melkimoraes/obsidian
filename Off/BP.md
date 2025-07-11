@@ -24,6 +24,13 @@ código do serviço 2966
 
 Marcar o pedido no cancelamento que foi cancelado ou no gerar nota verificar se o pedido está na tabela de cancelamento?
 
+---
+
+1 - fazer a dash solicitada por e-mail
+2 - ajustar nome das dash de nota unica
+3 - fazer bater o valor das faturas da nota única no java com a dash!
+4 - ver o erro de log no processar cancelada (erro do gson)
+5 - subir o java que ta pegando <= MES DO DTFATUR
 
 ---
 

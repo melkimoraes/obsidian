@@ -98,7 +98,7 @@
 	- [x] botão de ação prorrogar na alteração de pedidos.
 	- [x] STP_U_TGFITE_PRCO_ART
 - [ ] Fazer a melhoria do gerar apontamento em java!
-- [ ] 296 -> TRANSFERENCIA DE LENHA -> GERAR ENTRADA
+- [x] 296 -> TRANSFERENCIA DE LENHA -> GERAR ENTRADA
 
 
 ---

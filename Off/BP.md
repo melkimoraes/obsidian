@@ -21,6 +21,7 @@ código do serviço 2966
 - [x] tirar o loop de 2 registros na inserção das paginas
 - [x] tirar os dias a + no select da nota unica pra pegar o SUM DO VLR!
 - [x] colocar o parceiro 1 como cliente em produção!
+- [ ] um dia melhorar as canceladas pra marcar que processou?
 
 Marcar o pedido no cancelamento que foi cancelado ou no gerar nota verificar se o pedido está na tabela de cancelamento?
 

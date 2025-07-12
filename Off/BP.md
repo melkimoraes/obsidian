@@ -75,3 +75,12 @@ PAGINA,
 IDPED,
 NROFATURA
 HAVING COUNT(1) > 1
+
+
+
+-----
+
+
+### Notazz ###
+
+rodar update do dia 14/06

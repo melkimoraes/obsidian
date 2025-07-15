@@ -99,6 +99,8 @@
 	- [x] STP_U_TGFITE_PRCO_ART
 - [ ] Fazer a melhoria do gerar apontamento em java!
 - [x] 296 -> TRANSFERENCIA DE LENHA -> GERAR ENTRADA
+- [ ] ficar de olho nas notas da lenha do dia 8 em diante
+	- [ ] ver como vai entrar a nota no almox, sera que vai ter que por pra conferir?
 
 
 ---

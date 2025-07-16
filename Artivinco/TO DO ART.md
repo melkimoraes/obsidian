@@ -101,6 +101,7 @@
 - [x] 296 -> TRANSFERENCIA DE LENHA -> GERAR ENTRADA
 - [ ] ficar de olho nas notas da lenha do dia 8 em diante
 	- [ ] ver como vai entrar a nota no almox, sera que vai ter que por pra conferir?
+- [ ] feito a trava TRG_I_ITE_VALESTAPP_ART → das tintas somentes na 500 e 700 porem no APP nao retorna erro ao tentar confirmar a transferencia!
 
 
 ---

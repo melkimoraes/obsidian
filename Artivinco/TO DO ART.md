@@ -99,9 +99,12 @@
 	- [x] STP_U_TGFITE_PRCO_ART
 - [ ] Fazer a melhoria do gerar apontamento em java!
 - [x] 296 -> TRANSFERENCIA DE LENHA -> GERAR ENTRADA
-- [ ] ficar de olho nas notas da lenha do dia 8 em diante
-	- [ ] ver como vai entrar a nota no almox, sera que vai ter que por pra conferir?
+- [x] ficar de olho nas notas da lenha do dia 8 em diante
+	- [x] ver como vai entrar a nota no almox, sera que vai ter que por pra conferir?
+Gabriel
 - [ ] feito a trava TRG_I_ITE_VALESTAPP_ART → das tintas somentes na 500 e 700 porem no APP nao retorna erro ao tentar confirmar a transferencia!
+- [ ] a nota de lenha era pra entrar na conferencia APP? nao conseguimos ativar isso pois nao tem pedido!
+	- [ ] e quando eles conferem pra menos? moraes falou que nao tem necessidade de fazer uma devolução
 
 
 ---

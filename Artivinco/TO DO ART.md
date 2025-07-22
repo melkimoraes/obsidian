@@ -103,6 +103,7 @@
 	- [x] ver como vai entrar a nota no almox, sera que vai ter que por pra conferir?
 Gabriel
 - [ ] feito a trava TRG_I_ITE_VALESTAPP_ART → das tintas somentes na 500 e 700 porem no APP nao retorna erro ao tentar confirmar a transferencia!
+- [ ] produtos com top 700, dias diferentes só que com vlr unitario 1 e outro com valor, mesma top e empresa.
 - [ ] a nota de lenha era pra entrar na conferencia APP? nao conseguimos ativar isso pois nao tem pedido!
 	- [ ] e quando eles conferem pra menos? moraes falou que nao tem necessidade de fazer uma devolução
 

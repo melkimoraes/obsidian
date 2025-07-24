@@ -51,3 +51,7 @@ ORDER BY 1 DESC
 ```sql
 sudo mv /home/mgeweb/TempDocumento/teste.zip /home/t495542/
 ```
+
+```sql
+alter session set nls_date_format='dd/mm/yyyy hh24:mi:ss';
+```

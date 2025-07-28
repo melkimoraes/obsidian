@@ -107,8 +107,8 @@ Gabriel
 - [ ] produtos com top 700, dias diferentes só que com vlr unitario 1 e outro com valor, mesma top e empresa.
 - [ ] a nota de lenha era pra entrar na conferencia APP? nao conseguimos ativar isso pois nao tem pedido!
 	- [ ] e quando eles conferem pra menos? moraes falou que não tem necessidade de fazer uma devolução
-- [ ] VER COM O GABRIEL, A TRANSFERENCIA DE PALETE QUE O PEDRO PERGUNTOU
-	- [ ] QUANDO TERMINA DE TRANSFERIR ERA PRA MUDAR A EMPRESA DE FATURAMENTO NO PEDIDO ORIGINAL?
+- [x] VER COM O GABRIEL, A TRANSFERENCIA DE PALETE QUE O PEDRO PERGUNTOU
+	- [x] QUANDO TERMINA DE TRANSFERIR ERA PRA MUDAR A EMPRESA DE FATURAMENTO NO PEDIDO ORIGINAL?
 
 
 ---

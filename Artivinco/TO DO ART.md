@@ -256,3 +256,8 @@ LEFT JOIN TGFPEM PEM ON PEM.CODPROD = PRO.CODPROD
 LEFT JOIN COMPRA CMP ON CMP.CODPROD = PRO.CODPROD AND (PEM.CODEMP IS NULL OR CMP.CODEMP = PEM.CODEMP)
 WHERE PRO.ATIVO = 'S'
 AND PRO.USOPROD NOT IN ('2','V','P','T')
+
+
+trigger para não deletar itens giro e pedidos compras pendentes!
+
+fazer trigger no cabeçalho para não deletar analise de giro finalizada.

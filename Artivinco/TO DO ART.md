@@ -262,3 +262,193 @@ AND PRO.USOPROD NOT IN ('2','V','P','T')
 trigger para não deletar itens giro e pedidos compras pendentes!
 
 fazer trigger no cabeçalho para não deletar analise de giro finalizada.
+
+---
+
+SELECT DISTINCT
+    C.ALTURA,
+    C.CODPARC,
+    C.CODPROD,
+    C.CODVOL,
+    C.CONTROLE,
+    C.DTVAL,
+    C.IDETQ,
+    C.IDIPROC,
+    C.LARGURA,
+    C.LASTRO,
+    C.NROAMAR,
+    C.NUCONT,
+    C.NUNOTA,
+    C.ORDEMCARGA,
+    C.PECAAMAR,
+    C.PESO,
+    C.QTD,
+    C.SEQLOTE,
+    C.SEQPED,
+    C.SOBRA,
+    C.STATUS,
+    C.TIPOPALETE,
+    C.CODPLP,
+    C.TIPO
+FROM (
+    -- BLOCO 1
+    SELECT
+        ALTURA,
+        ETQ.CODPARC,
+        ETQ.CODPROD,
+        CODVOL,
+        CONTROLE,
+        DTVAL,
+        ETQ.IDETQ,
+        ETQ.IDIPROC,
+        LARGURA,
+        LASTRO,
+        NROAMAR,
+        ETQ.NUCONT,
+        ETQ.NUNOTA,
+        ORDEMCARGA,
+        PECAAMAR,
+        PESO,
+        ETQ.QTD,
+        ETQ.SEQLOTE,
+        ETQ.SEQPED,
+        SOBRA,
+        FNC_GETSTATUSETQ_ART(ETQ.IDETQ) AS STATUS,
+        TIPOPALETE,
+        CASE
+            WHEN CAB.AD_TEMTRANSFISICA = 'SIM' THEN CAB.CODEMP
+            ELSE OP.CODPLP
+        END AS CODPLP,
+        ETQ.TIPO
+    FROM AD_TGFIDETQ ETQ
+    INNER JOIN AD_TGFIDETQOCOR OC 
+        ON OC.NUNOTA = ETQ.NUNOTA
+       AND OC.SEQPED = ETQ.SEQPED
+       AND OC.NUCONT = ETQ.NUCONT
+       AND OC.CODPROD = ETQ.CODPROD     
+    INNER JOIN AD_TGFTPOCOETQ TP 
+        ON OC.CODOCO = TP.CODOCO
+    LEFT JOIN TPRIPROC OP 
+        ON ETQ.IDIPROC = OP.IDIPROC
+    LEFT JOIN TGFCAB CAB
+        ON CAB.NUNOTA = ETQ.NUNOTA
+    WHERE NVL(TP.PROIBEDESMEM,'N') <>  'S'
+      AND OC.DHINC = (
+            SELECT MAX(O.DHINC)
+            FROM AD_TGFIDETQOCOR O
+            WHERE O.NUNOTA = ETQ.NUNOTA
+              AND O.SEQPED = ETQ.SEQPED
+              AND O.NUCONT = ETQ.NUCONT 
+              AND O.CODPROD = ETQ.CODPROD
+      )
+      AND ETQ.TIPO = 1
+
+    UNION ALL
+
+    -- BLOCO 2
+    SELECT
+        ALTURA,
+        ETQ.CODPARC,
+        ETQ.CODPROD,
+        CODVOL,
+        CONTROLE,
+        DTVAL,
+        ETQ.IDETQ,
+        ETQ.IDIPROC,
+        LARGURA,
+        LASTRO,
+        NROAMAR,
+        ETQ.NUCONT,
+        ETQ.NUNOTA,
+        ORDEMCARGA,
+        PECAAMAR,
+        PESO,
+        ETQ.QTD,
+        ETQ.SEQLOTE,
+        ETQ.SEQPED,
+        SOBRA,
+        FNC_GETSTATUSETQ_ART(ETQ.IDETQ) AS STATUS,
+        TIPOPALETE,
+        CASE
+            WHEN CAB.AD_TEMTRANSFISICA = 'SIM' THEN CAB.CODEMP
+            ELSE OP.CODPLP
+        END AS CODPLP,
+        ETQ.TIPO
+    FROM AD_TGFIDETQ ETQ
+    INNER JOIN AD_TGFIDETQOCOR OC 
+        ON OC.NUNOTA = ETQ.NUNOTA
+       AND OC.SEQPED = ETQ.SEQPED
+       AND OC.NUCONT = ETQ.NUCONT
+       AND OC.CODPROD = ETQ.CODPROD     
+    INNER JOIN AD_TGFTPOCOETQ TP 
+        ON OC.CODOCO = TP.CODOCO
+    LEFT JOIN TPRIPROC OP 
+        ON ETQ.IDIPROC = OP.IDIPROC
+    LEFT JOIN TGFCAB CAB
+        ON CAB.NUNOTA = ETQ.NUNOTA
+    WHERE NVL(TP.PROIBEDESMEM,'N') <>  'S'
+      AND OC.DHINC = (
+            SELECT MAX(O.DHINC)
+            FROM AD_TGFIDETQOCOR O
+            WHERE O.NUNOTA = ETQ.NUNOTA
+              AND O.SEQPED = ETQ.SEQPED
+              AND O.NUCONT = ETQ.NUCONT 
+              AND O.CODPROD = ETQ.CODPROD
+      )
+      AND ETQ.IDIPROC = OP.IDIPROC
+
+    UNION ALL
+
+    -- BLOCO 3
+    SELECT
+        ALTURA,
+        ETQ.CODPARC,
+        ETQ.CODPROD,
+        CODVOL,
+        CONTROLE,
+        DTVAL,
+        ETQ.IDETQ,
+        ETQ.IDIPROC,
+        LARGURA,
+        LASTRO,
+        NROAMAR,
+        ETQ.NUCONT,
+        ETQ.NUNOTA,
+        ORDEMCARGA,
+        PECAAMAR,
+        PESO,
+        ETQ.QTD,
+        ETQ.SEQLOTE,
+        ETQ.SEQPED,
+        SOBRA,
+        FNC_GETSTATUSETQ_ART(ETQ.IDETQ) AS STATUS,
+        TIPOPALETE,
+        CASE
+            WHEN CAB.AD_TEMTRANSFISICA = 'SIM' THEN CAB.CODEMP
+            ELSE ETQ.CODEMP
+        END AS CODPLP,
+        ETQ.TIPO
+    FROM AD_TGFIDETQ ETQ
+    INNER JOIN AD_TGFIDETQOCOR OC 
+        ON OC.NUNOTA = ETQ.NUNOTA
+       AND OC.SEQPED = ETQ.SEQPED
+       AND OC.NUCONT = ETQ.NUCONT
+       AND OC.CODPROD = ETQ.CODPROD     
+    INNER JOIN AD_TGFTPOCOETQ TP 
+        ON OC.CODOCO = TP.CODOCO
+    LEFT JOIN TPRIPROC OP 
+        ON ETQ.IDIPROC = OP.IDIPROC
+    LEFT JOIN TGFCAB CAB
+        ON CAB.NUNOTA = ETQ.NUNOTA
+    WHERE NVL(TP.PROIBEDESMEM,'N') <>  'S'
+      AND OC.DHINC = (
+            SELECT MAX(O.DHINC)
+            FROM AD_TGFIDETQOCOR O
+            WHERE O.NUNOTA = ETQ.NUNOTA
+              AND O.SEQPED = ETQ.SEQPED
+              AND O.NUCONT = ETQ.NUCONT 
+              AND O.CODPROD = ETQ.CODPROD
+      )
+      AND ETQ.NUNOTA < 0
+) C;
+

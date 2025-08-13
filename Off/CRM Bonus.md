@@ -1,3 +1,5 @@
+https://crmbonus-api.readme.io/reference/fluxo-da-integracao-pdv
+
 codempresa
 e77c7d61-ea31-11ef-808
 

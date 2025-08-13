@@ -10,3 +10,14 @@ BaseURL
 https://giftback-sandbox.crmbonus.com/pages
 
 loja 100982
+
+
+---
+
+Duvidas a respeito do processo agora:
+No Sankhya comentei que faria um botão de ação, que no momento da venda, voces clicariam pra gerar o pin. 
+E depois eu faria outro botão que vai perguntar o pin que o cliente te falar. 
+Tem problema isso estar separado em 2 botões?
+
+Outra duvida é, o finalizar compra no CRM Bônus exige a NF, então pensando no fluxo e validações.
+Só deixaria iniciar o processo no CRM, se já tiver salvado o cabeçalho da nota e também com pelo menos 1 produto inserido na venda, correto?

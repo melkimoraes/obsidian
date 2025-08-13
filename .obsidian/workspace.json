@@ -11,10 +11,14 @@
             "id": "61f79754d4e9d2ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Off/GB Musical.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "GB Musical"
             }
           }
         ]
@@ -199,8 +203,8 @@
   },
   "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
-    "Off/GB Musical.md",
     "Off/CRM Bonus.md",
+    "Off/GB Musical.md",
     "Artivinco/TO DO ART.md",
     "Artivinco/Configs-Acessos.md",
     "tips.md",

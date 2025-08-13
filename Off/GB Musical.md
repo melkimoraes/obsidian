@@ -1,0 +1,1 @@
+O que vai iniciar o FLOW? Vai ser algum processo automatico ou manual por parte dos setores? Porque a próxima tarefa , é eles mesmos que decidem se vao acatar ou nao.

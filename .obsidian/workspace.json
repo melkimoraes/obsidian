@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Off/GB Musical.md",
+                "file": "Off/CRM Bonus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GB Musical"
+              "title": "CRM Bonus"
             }
           }
         ]
@@ -203,8 +203,8 @@
   },
   "active": "61f79754d4e9d2ef",
   "lastOpenFiles": [
-    "tips.md",
     "Off/GB Musical.md",
+    "tips.md",
     "Off/CRM Bonus.md",
     "Artivinco/TO DO ART.md",
     "Artivinco/Configs-Acessos.md",

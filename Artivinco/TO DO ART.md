@@ -112,6 +112,10 @@ Gabriel
 - [x] VER COM A CONTABILIDADE DE CONSERTO
 - [x] FINALIZAR A DASH INDICADOR P/ ANÁLISE DE GIRO
 - [x] Ajuda do Eltao - qtd de paletes nas notas de kit
+- [ ] valida feriado:
+	- [ ] FC_GET_DIAUTIL_ANT_ART -> valida feriado da empresa
+	- [ ] FC_GET_EHFERIADOPARC_ART -> valida feriado do cliente
+	- [ ] FC_EHFERIADO_ART → valida feriado do cliente
 
 
 ---

@@ -55,3 +55,23 @@ sudo mv /home/mgeweb/TempDocumento/teste.zip /home/t495542/
 ```sql
 alter session set nls_date_format='dd/mm/yyyy hh24:mi:ss';
 ```
+
+```SQL
+V_CURRCUSTO := OBTEMCUSTO(
+                P_CODPROD => CURR_CHECK.CODPROD,
+                P_POREMP => 'S',
+                P_CODEMP => V_REQ.CODEMP,
+                P_PORLOCAL => 'N',
+                P_CODLOCAL => NULL,
+                P_PORCONTROLE => 'N',
+                P_CONTROLE => NULL,
+                P_DATA => SYSDATE,
+                P_TIPO => 3
+            );
+            
+            -- CASO NAO ACHAR CUSTO
+            IF NVL(V_CURRCUSTO, 0) = 0 THEN
+                OUT_MSG := 'Custo não encontrado para produto ' || CURR_CHECK.CODPROD || ' na empresa ' || V_REQ.CODEMP || ', por favor contactar o setor de Custos!';
+                RAISE_APPLICATION_ERROR(-20014, 'Custo não encontrado para produto ' || CURR_CHECK.CODPROD || ' na empresa ' || V_REQ.CODEMP);
+            END IF;
+```

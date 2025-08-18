@@ -193,6 +193,14 @@ TAMBÉM COLOCAR O MATERIAL NOS INDICADORES.
 
 ---
 
+Insert into TDDPCO (NUCAMPO,NOME,VALOR,CONTROLE,DOMAIN) values ('261564','filterKeepLast','N','1',null);
+Insert into TDDPCO (NUCAMPO,NOME,VALOR,CONTROLE,DOMAIN) values ('261564','filterOrder','0','1',null);
+Insert into TDDPCO (NUCAMPO,NOME,VALOR,CONTROLE,DOMAIN) values ('261564','filterRequired','N','1',null);
+Insert into TDDPCO (NUCAMPO,NOME,VALOR,CONTROLE,DOMAIN) values ('261564','filterType','period','1',null);
+Insert into TDDPCO (NUCAMPO,NOME,VALOR,CONTROLE,DOMAIN) values ('261564','filterVoidExpression','N','1',null);
+
+---
+
 WITH COMPRA AS (
     SELECT ITE.CODPROD, CAB.CODEMP, SUM(ITE.QTDNEG-ITE.QTDENTREGUE) AS QTD
     FROM TGFITE ITE

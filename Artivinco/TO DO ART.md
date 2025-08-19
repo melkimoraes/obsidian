@@ -116,6 +116,7 @@ Gabriel
 	- [ ] FC_GET_DIAUTIL_ANT_ART -> valida feriado da empresa
 	- [ ] FC_GET_EHFERIADOPARC_ART -> valida feriado do cliente
 	- [ ] FC_EHFERIADO_ART → valida feriado do cliente
+	- [ ] calc_d_uteis_entrega_art → valida feriado do cliente
 
 
 ---

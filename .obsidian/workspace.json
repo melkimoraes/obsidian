@@ -35,8 +35,7 @@
               "title": "CRM Bonus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,8 +216,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07cfcc9d14f3a874",
+  "active": "422cafcb741e1ffe",
   "lastOpenFiles": [
+    "Off/CRM Bonus.md",
     "Artivinco/TO DO ART.md",
     "Artivinco/IMGJ.md",
     "tips.md",
@@ -226,7 +226,6 @@
     "Artivinco/Almox.md",
     "Artivinco/Integrações.md",
     "Artivinco/Configs-Acessos.md",
-    "Off/CRM Bonus.md",
     "Off/Sulmantiqueira.md",
     "Off/GB Musical.md",
     "Off/Betosport.md",

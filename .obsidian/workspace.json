@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "TO DO ART"
             }
+          },
+          {
+            "id": "f79c8042f283f0eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coleta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "coleta"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,10 +217,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "422cafcb741e1ffe",
+  "active": "f79c8042f283f0eb",
   "lastOpenFiles": [
-    "Off/CRM Bonus.md",
+    "coleta.md",
     "Artivinco/TO DO ART.md",
+    "Off/CRM Bonus.md",
     "tips.md",
     "Artivinco/IMGJ.md",
     "Artivinco/Laudo.md",
@@ -237,7 +253,6 @@
     "Aliberti/Oriente Farma",
     "Artivinco",
     "Diario/05-02-2025.md",
-    "GM/Vortx/Flow.md",
     "Sem título.canvas",
     "GM/Bioclean/Flow/Flow.excalidraw",
     "Estudos/DevOps/Desafio DevOps & Cloud",

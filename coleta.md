@@ -24,7 +24,7 @@ Frota:
 Cliente
 Cliente coleta
 Cidade
-E campos que foram preenchidos no SAC
+E campos que foram preenchidos no SAC e ID
 se tipo frota → habilitar campo pra ajudante
 qtd ajudante
 valor do ajudante
@@ -37,7 +37,7 @@ Terceiros:
 Cliente
 Cliente coleta
 Cidade
-E campos que foram preenchidos no SAC
+E campos que foram preenchidos no SAC e ID
 
 Aba de Cotação Coleta → aprovação sobe as informações da transportadora vencedora
 Valor orçamento
@@ -47,7 +47,8 @@ Motorista (cpf/rg/cnh/celular)?
 
 Status/Fluxos
 Iniciada → Fretes (Thiago Cintra/ Matheus Laveli/ Marcos Silva) → depois que o Thiago colocou os orçamentos - > finalizado cotação
-Aguard. Aprovação Cotação → Paloma
+Aguard. Aprovação Cotação → Paloma → envia todas as cotações via mensageria? o retorno da mensageria a Paloma aprovaria a transportadora venceroda.
+Cotação Aprovada → 
 
 Iniciada → Transporte (Renato/Mateus/Juan/Gustavo/Zildiomar)
 

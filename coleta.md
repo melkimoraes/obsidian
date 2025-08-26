@@ -31,13 +31,14 @@ valor do ajudante
 Veiculo - placa carreta
 Motorista
 Tipo do caminhao (ja tem no cadastro do veiculo)
-
+Data Coleta
 
 Terceiros:
 Cliente
 Cliente coleta
 Cidade
 E campos que foram preenchidos no SAC e ID
+Data Coleta
 
 Aba de Cotação Coleta → aprovação sobe as informações da transportadora vencedora
 Valor orçamento
@@ -50,7 +51,10 @@ Iniciada → Fretes (Thiago Cintra/ Matheus Laveli/ Marcos Silva) → depois que
 Aguard. Envio Cotação →  Paloma → envia todas as cotações via mensageria? o retorno da mensageria a Paloma aprovaria a transportadora venceroda.
 Aguard. Aprovação Cotação →
 Cotação Aprovada →  STatus 2 → aguardando preenchimento frete. Thiago preencheu a placa → finaliza preenchimento coleta
-Aguardando Coleta → 
+Aguardando Coleta → Ver com o tiago temos algum status/rotina do sankhya que a coleta chegou?
+Liberação Diretoria → 
 
-Iniciada → Transporte (Renato/Mateus/Juan/Gustavo/Zildiomar)
+Iniciada → Transporte (Renato/Mateus/Juan/Gustavo/Zildiomar) → finaliza informações
+Aguard. Envio Cliente → SAC envia informaçoes pro cliente
+
 

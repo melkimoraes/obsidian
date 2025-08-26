@@ -46,9 +46,11 @@ Veiculo - Placa carreta
 Motorista (cpf/rg/cnh/celular)?
 
 Status/Fluxos
-Iniciada → Fretes (Thiago Cintra/ Matheus Laveli/ Marcos Silva) → depois que o Thiago colocou os orçamentos - > finalizado cotação
-Aguard. Aprovação Cotação → Paloma → envia todas as cotações via mensageria? o retorno da mensageria a Paloma aprovaria a transportadora venceroda.
-Cotação Aprovada → 
+Iniciada → Fretes (Thiago Cintra/ Matheus Laveli/ Marcos Silva) → depois que o Thiago colocou os orçamentos - > finalizado cotação.
+Aguard. Envio Cotação →  Paloma → envia todas as cotações via mensageria? o retorno da mensageria a Paloma aprovaria a transportadora venceroda.
+Aguard. Aprovação Cotação →
+Cotação Aprovada →  STatus 2 → aguardando preenchimento frete. Thiago preencheu a placa → finaliza preenchimento coleta
+Aguardando Coleta → 
 
 Iniciada → Transporte (Renato/Mateus/Juan/Gustavo/Zildiomar)
 

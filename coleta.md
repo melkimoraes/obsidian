@@ -51,7 +51,7 @@ Iniciada → Fretes (Thiago Cintra/ Matheus Laveli/ Marcos Silva) → depois que
 Aguard. Envio Cotação →  Paloma → envia todas as cotações via mensageria? o retorno da mensageria a Paloma aprovaria a transportadora venceroda.
 Aguard. Aprovação Cotação →
 Cotação Aprovada →  STatus 2 → aguardando preenchimento frete. Thiago preencheu a placa → finaliza preenchimento coleta
-Aguardando Coleta → Ver com o tiago temos algum status/rotina do sankhya que a coleta chegou?
+Aguardando Coleta → Ver com o tiago temos algum status/rotina do sankhya que a coleta chegou, finalizou? O tiago informar o ticket que entrou a coleta?
 Coleta Finalizada → 
 Liberação Diretoria → enviar alerta para todos (CSC/SAC/Fretes/Financeiro) vai para o finaceiro.
 Aguard. Financeiro → Adriana → finalizou (pago)
@@ -59,6 +59,6 @@ Aguard. Financeiro → Adriana → finalizou (pago)
 
 Iniciada → Transporte (Renato/Mateus/Juan/Gustavo/Zildiomar) → finaliza informações
 Aguard. Envio Cliente → SAC envia informaçoes pro cliente
-Aguardando Coleta → ver oq vai finalizar a coleta
+Aguardando Coleta → ver oq vai finalizar a coleta, alguem informar o ticket que entrou a coleta?
 Finalizada Coleta
 

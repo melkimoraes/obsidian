@@ -13,8 +13,8 @@ pedido → lote
 quantidade reclamada →
 quantidade palete → 
 peso →
-nota da coleta já emitida →
-advertencia da coleta → 
+nota da coleta já emitida → dois tipos
+advertencia da coleta → dois tipos
 coleta frota → ver com o thiago valor e a tabela em sankhya. Pra preencher custo evento.
 
 E-mail automatico na inserção evento → coleta solicitada.
@@ -38,12 +38,16 @@ Cliente
 Cliente coleta
 Cidade
 E campos que foram preenchidos no SAC
+
+Aba de Cotação Coleta → aprovação sobe as informações da transportadora vencedora
 Valor orçamento
 Transportadora
 Veiculo - Placa carreta
 Motorista (cpf/rg/cnh/celular)?
 
-Terceiros fluxo:
-Inicio Coleta → Fretes (Thiago Cintra/ Matheus Laveli/ Marcos Silva)
-Inicio Coleta → Transporte (Renato/Mateus/Juan/Gustavo/Zildiomar)
+Status/Fluxos
+Iniciada → Fretes (Thiago Cintra/ Matheus Laveli/ Marcos Silva) → depois que o Thiago colocou os orçamentos - > finalizado cotação
+Aguard. Aprovação Cotação → Paloma
+
+Iniciada → Transporte (Renato/Mateus/Juan/Gustavo/Zildiomar)
 

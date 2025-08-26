@@ -35,8 +35,7 @@
               "title": "coleta"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,12 +216,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4285aedc4a8dcf9",
+  "active": "422cafcb741e1ffe",
   "lastOpenFiles": [
+    "tips.md",
     "coleta.md",
     "Artivinco/TO DO ART.md",
     "Off/CRM Bonus.md",
-    "tips.md",
     "Artivinco/IMGJ.md",
     "Artivinco/Laudo.md",
     "Artivinco/Almox.md",

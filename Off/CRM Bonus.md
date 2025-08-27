@@ -21,3 +21,9 @@ Tem problema isso estar separado em 2 botões?
 
 Outra duvida é, o finalizar compra no CRM Bônus exige a NF, então pensando no fluxo e validações.
 Só deixaria iniciar o processo no CRM, se já tiver salvado o cabeçalho da nota e também com pelo menos 1 produto inserido na venda, correto?
+
+
+---
+
+- [ ] ver se vai precisar validar TOP pra usar CRM
+- [ ] ver se no cadastro dos parceiros usa o campo Telefone ou Celular/Fax

@@ -81,12 +81,12 @@
 - [x] colocar os PP pra finalizar caso PA finalizado
 - [x] natureza do palete CHEP → ver com o contabil → nao pode ser a msm natureza da nota de debito
 - [x] LANÇAR REFUGO, COM ERRO → ELTAO
-- [ ] ELTAO BOTAR NA EXT FILTRO DE DATA CHEGADA NO PROTOCOLO DE ENTRADA
+- [x] ELTAO BOTAR NA EXT FILTRO DE DATA CHEGADA NO PROTOCOLO DE ENTRADA
 - [ ] ver com o bruno talvez uma tela de pedidos agil → comercial?
-- [ ] ELTAO → JAVA DO FINALIZAR TRANSFERENCIA SAIDA BOBINA → COLOCARMOS PRA COLOCAR VALOR ICMS NA NOTA DE COMPRA QUE DUPLICA APARTIR DA VENDA
+- [x] ELTAO → JAVA DO FINALIZAR TRANSFERENCIA SAIDA BOBINA → COLOCARMOS PRA COLOCAR VALOR ICMS NA NOTA DE COMPRA QUE DUPLICA APARTIR DA VENDA
 - [ ] Eltao → desabilitar botao de excluir composição
-- [ ] Elton → travar o campo Vendedor no PRECALCULO
-- [ ] Elton → erro no anexo RD.
+- [x] Elton → travar o campo Vendedor no PRECALCULO
+- [x] Elton → erro no anexo RD.
 - [x] Elton → Colocar filtro de ATIVO = ‘S’, Cores da TGFPRO (RD)
 - [x] ver fc dos vendedores → marcação de tipo assistentes(acho que nao é esse o nome) e se for vendedor tb ver a aba das assistentes mas com data de validade(pra caso deferias)
 - [x] Apontamento de Acessórios -> quando alterado peças por pacote -> alterar peçar por palete

@@ -84,7 +84,7 @@
 - [x] ELTAO BOTAR NA EXT FILTRO DE DATA CHEGADA NO PROTOCOLO DE ENTRADA
 - [ ] ver com o bruno talvez uma tela de pedidos agil → comercial?
 - [x] ELTAO → JAVA DO FINALIZAR TRANSFERENCIA SAIDA BOBINA → COLOCARMOS PRA COLOCAR VALOR ICMS NA NOTA DE COMPRA QUE DUPLICA APARTIR DA VENDA
-- [ ] Eltao → desabilitar botao de excluir composição
+- [x] Eltao → desabilitar botao de excluir composição
 - [x] Elton → travar o campo Vendedor no PRECALCULO
 - [x] Elton → erro no anexo RD.
 - [x] Elton → Colocar filtro de ATIVO = ‘S’, Cores da TGFPRO (RD)
@@ -112,11 +112,11 @@ Gabriel
 - [x] VER COM A CONTABILIDADE DE CONSERTO
 - [x] FINALIZAR A DASH INDICADOR P/ ANÁLISE DE GIRO
 - [x] Ajuda do Eltao - qtd de paletes nas notas de kit
-- [ ] valida feriado:
-	- [ ] FC_GET_DIAUTIL_ANT_ART -> valida feriado da empresa
-	- [ ] FC_GET_EHFERIADOPARC_ART -> valida feriado do cliente
-	- [ ] FC_EHFERIADO_ART → valida feriado do cliente
-	- [ ] calc_d_uteis_entrega_art → valida feriado do cliente
+- [x] valida feriado:
+	- [x] FC_GET_DIAUTIL_ANT_ART -> valida feriado da empresa
+	- [x] FC_GET_EHFERIADOPARC_ART -> valida feriado do cliente
+	- [x] FC_EHFERIADO_ART → valida feriado do cliente
+	- [x] calc_d_uteis_entrega_art → valida feriado do cliente
 
 
 ---

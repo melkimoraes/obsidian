@@ -14,9 +14,11 @@ quantidade reclamada →
 quantidade palete → 
 peso →
 nota da coleta já emitida → dois tipos
-advertencia da coleta → dois tipos
+advertência da coleta → dois tipos
 coleta frota → ver com o thiago valor e a tabela em sankhya. Pra preencher custo evento.
-Campo Calculado → Data Coleta → com base na informação que eles colocarem.
+Campo Calculado → Data Coleta → com base na informação que eles colocarem NA TELA DA COLETA.
+
+FAZER TRIGGER → EVENTO TIPO 15
 
 E-mail automatico na inserção evento → coleta solicitada.
 

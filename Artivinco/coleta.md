@@ -65,3 +65,6 @@ Aguard. Envio Cliente → SAC envia informaçoes pro cliente
 Aguardando Coleta → ver oq vai finalizar a coleta, alguem informar o ticket que entrou a coleta?
 Finalizada Coleta
 
+
+
+Renato → ver custo da frota.

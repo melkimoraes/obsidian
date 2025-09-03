@@ -7,7 +7,7 @@ IP: 172.1.0.151
 
 Service Name: TESTE/TREINA
 User: sankhya
-Pass: !YBSotIsQdlJSc4L
+Pass: “5qx}4n/G{DQ#kD<a”
 IP: 172.1.0.65
 
 sup
@@ -25,3 +25,4 @@ User: t495542
 Pass: kmZbpMKb7KG2
 
 WPM: tecvinco24sis
+

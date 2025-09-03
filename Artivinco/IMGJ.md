@@ -32,7 +32,7 @@ http://erp.imgj.com.br:34480/mge/
 
 SUP:
 User: sup
-Pass: Uz654EjAaWxG!@
+Pass: Uz654EjAaWxG!
 
 Acesso externo: http://177.85.34.36:34480/mge/
 

@@ -40,6 +40,31 @@ Acesso externo: http://177.85.34.36:34480/mge/
 
 User: sup
 
+
+
+---
+
+Segue acessos da IMGJ:
+
+|                    |                  |                  |
+| ------------------ | ---------------- | ---------------- |
+| **BANCO DE DADOS** |                  |                  |
+|                    | **PRODUCAO**     | **TESTE**        |
+| **IP**             | 10.100.114.51    | 172.20.16.119    |
+| **PORTA**          | 1521             | 1521             |
+| **SERVICE NAME**   | SANKHYA_PROD     | IMGJ_TESTE       |
+| **USERNAME**       | sankhya          | sankhya          |
+| **PASSWORD**       | !YBSotIsQdlJSc4L | zsbjVez5JyugGJUI |
+
+|              |                  |               |                 |               |
+| ------------ | ---------------- | ------------- | --------------- | ------------- |
+| **SSH**      |                  |               |                 |               |
+|              | **PRODUCAO APP** | **TESTE APP** | **PRODUCAO BD** | **TESTE BD**  |
+| **IP**       | 10.100.114.51    | 172.20.16.120 | 10.100.114.50   | 172.20.16.119 |
+| **PORTA**    | 64222            | 22            | 64222           | 22            |
+| **USERNAME** | imgj_adm         | t495542.adm   | imgj_adm        | t495542.adm   |
+| **PASSWORD** | Imgj@adm         | Mudar@123     | Imgj@adm        | Mudar@123     |
+
 ---
 
 clico no botão -> é devolução física? gerar nota de remessa industrialização tipmov v da imgj pra artivinco, confirmar.

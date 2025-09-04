@@ -7,6 +7,11 @@ Coleta de Terceiro somente nessa tela.
 Aprovação Diretoria → ultima.
 
 ---
+
+- [ ] FAZER TRIGGER PRA ENVIAR EMAIL TODA VEZ QUE ALTERAR STATUS DA COLETA?
+
+
+---
 Campo no SAC:
 tipo da coleta → frota/terceiro
 pedido → lote

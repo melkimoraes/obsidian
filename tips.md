@@ -50,6 +50,8 @@ ORDER BY 1 DESC
 
 ```sql
 sudo mv /home/mgeweb/TempDocumento/teste.zip /home/t495542/
+
+--com meu usuario! t495542!
 ```
 
 ```sql

@@ -49,7 +49,8 @@
               "title": "Configs-Acessos"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,12 +231,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdbd9ae6bf2082f0",
+  "active": "dbed199777e8e14a",
   "lastOpenFiles": [
-    "Artivinco/IMGJ.md",
-    "Artivinco/Configs-Acessos.md",
     "Artivinco/TO DO ART.md",
     "Artivinco/coleta.md",
+    "Artivinco/IMGJ.md",
+    "Artivinco/Configs-Acessos.md",
     "Off/CRM Bonus.md",
     "tips.md",
     "Off/GB Musical.md",

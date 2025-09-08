@@ -6,6 +6,13 @@ Inicio do flow → COMERCIAL/FINANCEIRO/FISCAL/QUALIDADE → faz um registro no 
 se for devolução interna → FISCAL  → aba calculos e criterios → mas também vai emitir a nota propria de devolução
 
 
-se for devolucao externa → QUALIDADE preenche calculos e criterios → FISCAL CONFERE
+se for devolucao externa → QUALIDADE preenche calculos e criterios → FISCAL CONFERE vai conferir →
 
-COLETA → 
+Contato com o cliente (QUALIDADE) (via WSP) → 
+
+
+
+
+---
+
+esse calculo/criterios → tem uma conta, calculo que o flow pode fazer?

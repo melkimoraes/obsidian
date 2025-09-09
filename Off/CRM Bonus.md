@@ -30,3 +30,4 @@ Só deixaria iniciar o processo no CRM, se já tiver salvado o cabeçalho da not
 - [x] fazer o validar nota no api inicio
 - [ ] criar campos na CAB calculado do CRM!
 - [ ] valor da consulta bonus → é o valor total dos itens?
+- [ ] em todas as ações depois do inicio → validar se ainda é do mesmo cliente.

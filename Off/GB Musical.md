@@ -16,9 +16,10 @@ Contato com o cliente (QUALIDADE) (via WSP, depois dos cálculos, vai pedir nota
 depois Do contato do cliente → aguardando a nota pra validacao → qualidade vai anexar → vai pro fiscal validar  a danfe. → negar/aceitar → 
 	→ negado → volta pra qualidade fazer  o contato!
 
-→ aceitado → SOLICITA COLETA (QUALIDADE) CONTATO COM O CLIENTE → conferencia da COLETA (setor vai dar finalizar ao finalziar conferencia)→ AI SIM ENTRADA DA NOTA (ANDRE QUALIDADE) (ELE NAO CONFIRMA) → logistica armazena depois da nota (finalizar armarnezamento). → VAI PRO FINANCEIRO FAZER A ANALISE DA NOTA (VAI FAZER ABATIMENTO, OU INSERIR CREDITO PRO CLIENTE(PREENCHER CREDITO NO CLIENTE)) (FINANCEIRO → FOI POR CREDITO (OQ PODERIA FAZER PRA PROXIMA VENDA?))
-
-→ ENVIAR BOLETO DO CLIENTE (NOVO)
+→ aceitado → SOLICITA COLETA (QUALIDADE) CONTATO COM O CLIENTE → conferencia da COLETA (setor vai dar finalizar ao finalziar conferencia)→ AI SIM ENTRADA DA NOTA (ANDRE QUALIDADE) (ELE NAO CONFIRMA) → logistica armazena depois da nota (finalizar armarnezamento). → VAI PRO FINANCEIRO FAZER A ANALISE DA NOTA (VAI FAZER ABATIMENTO, OU INSERIR CREDITO PRO CLIENTE
+	→ CREDITO : (PREENCHER CREDITO NO CLIENTE)) (FINANCEIRO → FOI POR CREDITO (OQ PODERIA FAZER PRA PROXIMA VENDA?)) 
+	→ ABATIMENTO: ENVIAR BOLETO DO CLIENTE (NOVO)
+→ SE FOR ABATIMENTO → VAI PRO CLIENTE.
 
 
 

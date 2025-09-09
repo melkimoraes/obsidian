@@ -2,11 +2,16 @@ O que vai iniciar o FLOW? Vai ser algum processo automático ou manual por parte
 
 Inicio do flow → COMERCIAL/FINANCEIRO/FISCAL/QUALIDADE → faz um registro no controle devolução(aqui tem nota da venda?)
 	→ também registra o tipo da devolução
+	→ registrar o tipo do credito
+	→ registrar o frete (como vai ser)
 
 se for devolução interna → FISCAL  → aba cálculos e critérios → mas também vai emitir a nota própria de devolução → VAI PRA QUALIDADE → ANALISE DE COLETA → FINAL.
 
 
-se for devolução externa → QUALIDADE preenche cálculos e critérios (colocando produtos,qtdneg, frete) → FISCAL CONFERE vai conferir (IMPOSTOS, PQ NAO TEM NOTA AQUI, só orçamento) → Contato com o cliente (QUALIDADE) (via WSP, depois dos cálculos, vai pedir nota pro cliente), vai ver se o cliente vai querer credito? → CLIENTE FAZ A NOTA → FISCAL FAZ A VALIDACAO DA NOTA → COLETA
+se for devolução externa → QUALIDADE preenche cálculos e critérios (colocando produtos,qtdneg, frete) → FISCAL CONFERE vai conferir (IMPOSTOS, PQ NAO TEM NOTA AQUI, só orçamento) → 
+
+Contato com o cliente (QUALIDADE) (via WSP, depois dos cálculos, vai pedir nota pro cliente), vai ver se o cliente vai querer credito? → CLIENTE FAZ A NOTA → FISCAL FAZ A VALIDACAO DA NOTA → COLETA
+	→ aqui cliente pode negar (pedir algum ajuste no orçamento)
 
 depois disso tudo → quando o material chega → vai ver a parte do credito (FINANCEIRO) (abatimento em boletos  / créditos na próxima compra)! depois da devolução vai efetivar o credito?
 

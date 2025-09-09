@@ -16,7 +16,7 @@ Contato com o cliente (QUALIDADE) (via WSP, depois dos cálculos, vai pedir nota
 depois Do contato do cliente → aguardando a nota pra validacao → qualidade vai anexar → vai pro fiscal validar  a danfe. → negar/aceitar → 
 	→ negado → volta pra qualidade fazer  o contato!
 
-→ aceitado → SOLICITA COLETA → conferencia da COLETA → AI SIM ENTRADA DA NOTA
+→ aceitado → SOLICITA COLETA (QUALIDADE) CONTATO COM O CLIENTE → conferencia da COLETA → AI SIM ENTRADA DA NOTA → logistica armazena depois da nota
 
 → quando o material chega → vai ver a parte do credito (FINANCEIRO) (abatimento em boletos  / créditos na próxima compra)! depois da devolução vai efetivar o credito?
 

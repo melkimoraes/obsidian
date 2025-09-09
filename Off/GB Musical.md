@@ -6,7 +6,7 @@ Inicio do flow → COMERCIAL/FINANCEIRO/FISCAL/QUALIDADE → faz um registro no 
 se for devolução interna → FISCAL  → aba cálculos e critérios → mas também vai emitir a nota própria de devolução → VAI PRA QUALIDADE → ANALISE DE COLETA → FINAL.
 
 
-se for devolução externa → QUALIDADE preenche cálculos e critérios → FISCAL CONFERE vai conferir ? → Contato com o cliente (QUALIDADE) (via WSP, depois dos cálculos, vai pedir nota pro cliente), vai ver se o cliente vai querer credito? → CLIENTE FAZ A NOTA → FISCAL FAZ A VALIDACAO DA NOTA → COLETA
+se for devolução externa → QUALIDADE preenche cálculos e critérios (colocando produtos,qtdneg, frete) → FISCAL CONFERE vai conferir (IMPOSTOS, PQ NAO TEM NOTA AQUI, só orçamento) → Contato com o cliente (QUALIDADE) (via WSP, depois dos cálculos, vai pedir nota pro cliente), vai ver se o cliente vai querer credito? → CLIENTE FAZ A NOTA → FISCAL FAZ A VALIDACAO DA NOTA → COLETA
 
 depois disso tudo → quando o material chega → vai ver a parte do credito (FINANCEIRO) (abatimento em boletos  / créditos na próxima compra)! depois da devolução vai efetivar o credito?
 

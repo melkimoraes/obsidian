@@ -13,7 +13,12 @@ se for devolução externa → QUALIDADE preenche cálculos e critérios (coloca
 Contato com o cliente (QUALIDADE) (via WSP, depois dos cálculos, vai pedir nota pro cliente), vai ver se o cliente vai querer credito? → CLIENTE FAZ A NOTA → FISCAL FAZ A VALIDACAO DA NOTA → COLETA
 	→ aqui cliente pode negar (pedir algum ajuste no orçamento)
 
-depois disso tudo → quando o material chega → vai ver a parte do credito (FINANCEIRO) (abatimento em boletos  / créditos na próxima compra)! depois da devolução vai efetivar o credito?
+depois Do contato do cliente → aguardando a nota pra validacao → qualidade vai anexar → vai pro fiscal validar  a danfe. → negar/aceitar → 
+	→ negado → volta pra qualidade fazer  o contato!
+
+→ aceitado → SOLICITA COLETA → conferencia da COLETA → AI SIM ENTRADA DA NOTA
+
+→ quando o material chega → vai ver a parte do credito (FINANCEIRO) (abatimento em boletos  / créditos na próxima compra)! depois da devolução vai efetivar o credito?
 
 
 ---

@@ -77,3 +77,9 @@ V_CURRCUSTO := OBTEMCUSTO(
                 RAISE_APPLICATION_ERROR(-20014, 'Custo não encontrado para produto ' || CURR_CHECK.CODPROD || ' na empresa ' || V_REQ.CODEMP);
             END IF;
 ```
+
+
+```SQL
+                      alter session set nls_date_format='dd/mm/yyyy hh24:mi:ss';
+
+```

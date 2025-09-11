@@ -7,15 +7,17 @@ Coleta de Terceiro somente nessa tela.
 Aprovação Diretoria → ultima.
 
 ---
-
+PRODUÇÃO:
 - [ ] FAZER TRIGGER PRA ENVIAR EMAIL TODA VEZ QUE ALTERAR STATUS DA COLETA?
 - [ ] FAZER CAMPO CALCULADO DA CIDADE NA AD_COL
 - [ ] CAMPO CALCULADO DO TIPO DO VEICULO NA AD_COL!
 - [ ] ALTERAR A VIEW EM PRODUCAO AD_VGFVEI
 - [ ] FAZER ENVIO DO E-EMAIL NOS DIFERENTES STATUS!
-
-
+----
+DUVIDAS:
+- [ ] ver cpf/rg/cnh/celular com o THIAGO
 ---
+
 Campo no SAC:
 tipo da coleta → frota/terceiro
 pedido → lote
@@ -57,6 +59,7 @@ Valor orçamento
 Transportadora
 Veiculo - Placa carreta
 Motorista (cpf/rg/cnh/celular)?
+
 
 Status/Fluxos
 Iniciada → Fretes (Thiago Cintra/ Matheus Laveli/ Marcos Silva) → depois que o Thiago colocou os orçamentos - > finalizado cotação.

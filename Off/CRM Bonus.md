@@ -35,3 +35,4 @@ Só deixaria iniciar o processo no CRM, se já tiver salvado o cabeçalho da not
 - [x] valor da consulta bonus → é o valor total dos itens?
 - [x] em todas as ações depois do inicio → validar se ainda é do mesmo cliente.
 - [ ] comentar todos os sysouts
+- [ ] salvar o celular deopis do inicio da api na INTCRM

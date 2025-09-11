@@ -29,6 +29,7 @@ Só deixaria iniciar o processo no CRM, se já tiver salvado o cabeçalho da not
 - [ ] ver se no cadastro dos parceiros usa o campo Telefone ou Celular/Fax
 - [ ] ver se no final ao dar o bonus, dá sim/nao pro usuario? (eu ja apliquei o desconto)
 - [ ] ver se a nota deles é o campo STATUSNFE = A
+- [ ] ver questao do campanha_id → oq passar?
 - [x] fazer o validar nota no api inicio
 - [ ] criar campos na CAB calculado do CRM!
 - [x] valor da consulta bonus → é o valor total dos itens?

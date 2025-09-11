@@ -25,7 +25,7 @@ Só deixaria iniciar o processo no CRM, se já tiver salvado o cabeçalho da not
 
 ---
 
-- [ ] ver se vai precisar validar TOP pra usar CRM
+- [x] ver se vai precisar validar TOP pra usar CRM
 - [x] ver se no cadastro dos parceiros usa o campo Telefone ou Celular/Fax
 - [ ] FALAR QUE no final ao dar o bonus, dá sim/nao pro usuario? (eu ja apliquei o desconto)
 - [x] ver se a nota deles é o campo STATUSNFE = A

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/coleta.md",
+                "file": "Off/CRM Bonus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "coleta"
+              "title": "CRM Bonus"
             }
           }
         ]
@@ -204,9 +204,9 @@
   },
   "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
+    "Artivinco/coleta.md",
     "Artivinco/Configs-Acessos.md",
     "Off/CRM Bonus.md",
-    "Artivinco/coleta.md",
     "tips.md",
     "Off/GB Musical.md",
     "GM/⭐.md",

@@ -40,7 +40,11 @@ Acesso externo: http://177.85.34.36:34480/mge/
 
 User: sup
 
+---
 
+--Empresa 1 -> clicar no portal Intercompany -> Transferencia de Papel -> vai inserir na IGMJ a TGFCABIMGJ -> NUNOTARETART (faturar na Artivinco, vai inserir IXN na IMGJ) ->
+-- -> NUNOTARETIMGJ (BOBINAPRODUZIDA = 'S') (INSERT NA TGFCABIMGJPRO) ->  NUNOTAREMSIMB (artivinco) -> NUNOTAENTREMSIMB -> NUNOTAREMBOBINA (VER SE APROVOU NA IMGJ!) -> VER SE A NUNOTAREMBOBINA ENTROU NA ARTIVINCO 
+-- -> NUNOTARETBOBINA -> NUNOTARETBOBINAIMGJ (vai inserir IXN na IMGJ) -> NUNOTAPRODUCAO
 
 ---
 

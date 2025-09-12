@@ -37,5 +37,5 @@ Só deixaria iniciar o processo no CRM, se já tiver salvado o cabeçalho da not
 - [ ] comentar todos os sysouts
 - [x] salvar o celular depois do inicio da api na INTCRM
 - [x] salvar o request do finalizar!
-- [ ] ver questao do question do bonus disponivel que o douglas vai responder, ocmo também aquela mensagem de assinar algo.
+- [ ] ver questao do question do bonus disponivel → se acumular bonus acredito que o douglas vai querer que apareça!
 - [ ] ver o vendas_totais?

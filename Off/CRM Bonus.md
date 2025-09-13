@@ -32,6 +32,10 @@ Só deixaria iniciar o processo no CRM, se já tiver salvado o cabeçalho da not
 - [x] ver questao do campanha_id → oq passar?
 - [x] fazer o validar nota no api inicio
 - [ ] criar campos na CAB calculado do CRM!
+	- [ ] saldo bonus
+	- [ ] campanha
+	- [ ] finalizado
+	- [ ] cancelado
 - [x] valor da consulta bonus → é o valor total dos itens?
 - [x] em todas as ações depois do inicio → validar se ainda é do mesmo cliente.
 - [x] comentar todos os sysouts

@@ -27,7 +27,7 @@ Só deixaria iniciar o processo no CRM, se já tiver salvado o cabeçalho da not
 
 - [x] ver se vai precisar validar TOP pra usar CRM
 - [x] ver se no cadastro dos parceiros usa o campo Telefone ou Celular/Fax
-- [ ] FALAR QUE no final ao dar o bonus, dá sim/nao pro usuario? (eu ja apliquei o desconto)
+- [x] FALAR QUE no final ao dar o bonus, dá sim/nao pro usuario? (eu ja apliquei o desconto)
 - [x] ver se a nota deles é o campo STATUSNFE = A
 - [x] ver questao do campanha_id → oq passar?
 - [x] fazer o validar nota no api inicio
@@ -37,5 +37,5 @@ Só deixaria iniciar o processo no CRM, se já tiver salvado o cabeçalho da not
 - [ ] comentar todos os sysouts
 - [x] salvar o celular depois do inicio da api na INTCRM
 - [x] salvar o request do finalizar!
-- [ ] ver questao do question do bonus disponivel → se acumular bonus acredito que o douglas vai querer que apareça!
+- [x] ver questao do question do bonus disponivel → se acumular bonus acredito que o douglas vai querer que apareça!
 - [ ] ver o vendas_totais?

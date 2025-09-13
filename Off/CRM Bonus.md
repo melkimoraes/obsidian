@@ -34,7 +34,7 @@ Só deixaria iniciar o processo no CRM, se já tiver salvado o cabeçalho da not
 - [ ] criar campos na CAB calculado do CRM!
 - [x] valor da consulta bonus → é o valor total dos itens?
 - [x] em todas as ações depois do inicio → validar se ainda é do mesmo cliente.
-- [ ] comentar todos os sysouts
+- [x] comentar todos os sysouts
 - [x] salvar o celular depois do inicio da api na INTCRM
 - [x] salvar o request do finalizar!
 - [x] ver questao do question do bonus disponivel → se acumular bonus acredito que o douglas vai querer que apareça!

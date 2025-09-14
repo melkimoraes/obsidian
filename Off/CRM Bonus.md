@@ -43,4 +43,6 @@ Só deixaria iniciar o processo no CRM, se já tiver salvado o cabeçalho da not
 - [x] salvar o request do finalizar!
 - [x] ver questao do question do bonus disponivel → se acumular bonus acredito que o douglas vai querer que apareça!
 - [ ] fazer o vendas_totais
+	- [ ] testar
+	- [ ] e depois tirar os sysouts só dele que faltou!
 - [x] colocar filtros na tela Integração CRM (data, parceiro, nro unico)

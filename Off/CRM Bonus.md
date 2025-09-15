@@ -20,6 +20,18 @@ Senha adabp2
 
 ---
 
+VALIDAR SE JÁ TEM PROMOÇÃO NO ITEM.
+
+REENVIAR PIN COM ERRO -> QUANDO TROCA O PARCEIRO DEPOIS DE INICIAR COM OUTRO
+
+SANKHYA: PIN 3744 - Ao passar pin você concorda com https://crm.bo/termo-uso
+
+65993546319
+
+VER AONDE ELES TEM O DESCONTO!
+
+---
+
 Duvidas a respeito do processo agora:
 No Sankhya comentei que faria um botão de ação, que no momento da venda, voces clicariam pra gerar o pin. 
 E depois eu faria outro botão que vai perguntar o pin que o cliente te falar. 

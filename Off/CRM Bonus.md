@@ -11,6 +11,11 @@ https://giftback-sandbox.crmbonus.com/pages
 
 loja 100982
 
+201.71.158.236:8280/mge/
+
+Usuário SUP
+Senha adabp2
+
 
 ---
 

@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6e1d6316de31b109",
+        "id": "69c6e950e41ce8e5",
         "type": "tabs",
         "children": [
           {
-            "id": "85d0ba4c2af3dd76",
+            "id": "348a81549de01688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/coleta.md",
+                "file": "Off/CRM Bonus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "coleta"
-            }
-          },
-          {
-            "id": "5d999436f5e98ecb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artivinco/Configs-Acessos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Configs-Acessos"
+              "title": "CRM Bonus"
             }
           }
         ]
@@ -216,12 +202,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4285aedc4a8dcf9",
+  "active": "348a81549de01688",
   "lastOpenFiles": [
+    "tips.md",
     "Artivinco/coleta.md",
     "Artivinco/Configs-Acessos.md",
     "Off/CRM Bonus.md",
-    "tips.md",
     "Off/GB Musical.md",
     "Artivinco/IMGJ.md",
     "GM/⭐.md",

@@ -30,6 +30,8 @@ SANKHYA: PIN 3744 - Ao passar pin você concorda com https://crm.bo/termo-uso
 
 VER AONDE ELES TEM O DESCONTO!
 
+TRUNCAR PERIODO DA TELA INT CRM!
+
 ---
 
 Duvidas a respeito do processo agora:

@@ -10,6 +10,7 @@ BaseURL
 https://giftback-sandbox.crmbonus.com/pages
 
 loja 100982
+código: 2018
 
 201.71.158.236:8280/mge/
 

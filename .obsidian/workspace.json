@@ -11,10 +11,14 @@
             "id": "306b120baa73332c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Artivinco/Configs-Acessos.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Configs-Acessos"
             }
           }
         ]

@@ -77,7 +77,8 @@
               "title": "IMGJ"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -258,13 +259,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "306b120baa73332c",
+  "active": "62b0ddbd19d29c52",
   "lastOpenFiles": [
+    "Artivinco/Configs-Acessos.md",
     "Artivinco/coleta.md",
     "Macboot.md",
     "Artivinco/IMGJ.md",
     "Off/CRM Bonus.md",
-    "Artivinco/Configs-Acessos.md",
     "Artivinco/TO DO ART.md",
     "tips.md",
     "Off/GB Musical.md",

@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "c57a785d3b2eac3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Macboot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Macboot"
-            }
-          },
-          {
             "id": "62b0ddbd19d29c52",
             "type": "leaf",
             "state": {
@@ -61,20 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "coleta"
-            }
-          },
-          {
-            "id": "338bc4b7aad64b00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artivinco/IMGJ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IMGJ"
             }
           }
         ],
@@ -259,12 +231,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c57a785d3b2eac3f",
+  "active": "62b0ddbd19d29c52",
   "lastOpenFiles": [
+    "Artivinco/IMGJ.md",
+    "Macboot.md",
     "Artivinco/coleta.md",
     "Artivinco/Configs-Acessos.md",
-    "Macboot.md",
-    "Artivinco/IMGJ.md",
     "Off/CRM Bonus.md",
     "Artivinco/TO DO ART.md",
     "tips.md",

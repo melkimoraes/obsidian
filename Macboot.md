@@ -7,6 +7,9 @@ Itens → aqui vai ser o produto generico
 
 Gerar pedido de venda/nota de venda → aqui vai inserir os itens com base no EAN rateado pela numeração!
 
+- [ ] inserção dos itens vai ser conforme multiplos ou qtd normal?
+- [ ] pedido de venda ou venda vai inserir?
+
 ---
 
 Botão de ação na composição → vai criar outra composição do mesmo produto porem por numeração do sapato! 3,33% pra cada numeração. Só vai fazer esse calculo em cima da atividade de CORTE.

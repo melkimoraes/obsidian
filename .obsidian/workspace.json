@@ -77,8 +77,7 @@
               "title": "IMGJ"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,7 +258,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c57a785d3b2eac3f",
+  "active": "306b120baa73332c",
   "lastOpenFiles": [
     "Artivinco/coleta.md",
     "Macboot.md",

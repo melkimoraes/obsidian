@@ -13,6 +13,7 @@ loja 100982
 código: 2018
 
 201.71.158.236:8280/mge/
+200.175.146.162:8280/mge/
 
 Usuário SUP
 Senha adabp2
@@ -25,6 +26,9 @@ REENVIAR PIN COM ERRO -> QUANDO TROCA O PARCEIRO DEPOIS DE INICIAR COM OUTRO →
 65993546319
 
 TRUNCAR PERIODO DA TELA INT CRM! → OK
+
+a tela por empresa
+configuração do crm por empresa
 
 ---
 

@@ -13,6 +13,8 @@ PRODUÇÃO:
 - [x] CAMPO CALCULADO DO TIPO DO VEICULO NA AD_COL!
 - [ ] ALTERAR A VIEW EM PRODUCAO AD_VGFVEI
 - [x] FAZER ENVIO DO E-EMAIL NOS DIFERENTES STATUS!
+- [ ] DASH
+		10 dias pra coleta -> Apartir da data de inclusão
 ----
 DUVIDAS:
 - [ ] ver cpf/rg/cnh/celular com o THIAGO

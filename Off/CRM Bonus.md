@@ -27,8 +27,8 @@ REENVIAR PIN COM ERRO -> QUANDO TROCA O PARCEIRO DEPOIS DE INICIAR COM OUTRO →
 
 TRUNCAR PERIODO DA TELA INT CRM! → OK
 
-a tela por empresa
-configuração do crm por empresa
+a tela por empresa → OK
+configuração do crm por empresa → OK
 
 ---
 

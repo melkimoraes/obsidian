@@ -10,6 +10,7 @@ Gerar pedido de venda/nota de venda → aqui vai inserir os itens com base no EA
 - [ ] inserção dos itens vai ser conforme multiplos ou qtd normal?
 - [ ] pedido de venda ou venda vai inserir?
 - [ ] campo calculado statusnota da cab, nunota da cab
+- [ ] campo vinculado o nunota na TGFCAB
 
 ---
 

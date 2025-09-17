@@ -63,7 +63,8 @@
               "title": "CRM Bonus"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,10 +245,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "306b120baa73332c",
+  "active": "62b0ddbd19d29c52",
   "lastOpenFiles": [
-    "Artivinco/IMGJ.md",
     "Artivinco/Configs-Acessos.md",
+    "Artivinco/IMGJ.md",
     "Aliberti/Macboot.md",
     "Off/CRM Bonus.md",
     "Artivinco/coleta.md",

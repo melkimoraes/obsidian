@@ -21,3 +21,30 @@ vai ter um campo lista do padrao (por ta trabalhando com controle de lista!) NA 
 
 só aplicar na TPRMPA
 
+---
+
+Acessos
+
+●
+ Produção- macboot.sankhyacloud.com.br
+●
+ Teste - macboot-teste.sankhyacloud.com.br
+●
+ Aplicativos - app.macboot.sankhyacloud.com.br
+●
+ E-social - esocial-macboot.sankhyacloud.com.br/index.html
+
+
+
+ Senha do usuário SUP :
+
+
+●
+ Produção - 0VG42OPm4qoDGf3mp6
+●
+ Teste - 0VG42OPm4qoDGf3mp6
+ Senha do WPM
+●
+ Produção - 6f7bZ7ZowEno
+●
+ Teste - 6f7bZ7ZowEno

@@ -7,13 +7,12 @@ Itens → aqui vai ser o produto generico
 
 Gerar pedido de venda/nota de venda → aqui vai inserir os itens com base no EAN rateado pela numeração!
 
-- [ ] inserção dos itens vai ser conforme multiplos ou qtd normal?
-- [ ] pedido de venda ou venda vai inserir?
+- [x] inserção dos itens vai ser conforme multiplos ou qtd normal?
+- [x] pedido de venda ou venda vai inserir?
 - [ ] campo calculado statusnota da cab, nunota da cab
 - [ ] campo vinculado o nunota na TGFCAB
 total de pares
 vlr. total
-referencia (campo calculado)
 
 ---
 

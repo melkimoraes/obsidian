@@ -35,7 +35,6 @@ FAZER TRIGGER → EVENTO TIPO 15
 
 E-mail automatico na inserção evento → coleta solicitada.
 
-
 Frota:
 Cliente
 Cliente coleta

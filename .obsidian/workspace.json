@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,12 +231,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "edeb9d459ff6a0d4",
+  "active": "f28a00e83706e7f5",
   "lastOpenFiles": [
+    "Artivinco/Configs-Acessos.md",
     "tips.md",
     "Aliberti/Macboot.md",
     "Artivinco/coleta.md",
-    "Artivinco/Configs-Acessos.md",
     "Artivinco/IMGJ.md",
     "Off/CRM Bonus.md",
     "Artivinco/TO DO ART.md",

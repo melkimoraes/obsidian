@@ -35,8 +35,7 @@
               "title": "coleta"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,11 +216,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdbd9ae6bf2082f0",
+  "active": "306b120baa73332c",
   "lastOpenFiles": [
+    "Artivinco/coleta.md",
     "Aliberti/Macboot.md",
     "tips.md",
-    "Artivinco/coleta.md",
     "Artivinco/Configs-Acessos.md",
     "Artivinco/IMGJ.md",
     "Off/CRM Bonus.md",

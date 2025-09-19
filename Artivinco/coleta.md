@@ -55,11 +55,6 @@ Cidade
 E campos que foram preenchidos no SAC e ID
 Data Coleta
 
-Aba de Cotação Coleta → aprovação sobe as informações da transportadora vencedora
-Valor orçamento
-Transportadora
-Veiculo - Placa carreta
-Motorista (cpf/rg/cnh/celular)?
 
 
 Status/Fluxos
@@ -71,13 +66,19 @@ Cotação Aprovada →  STatus 2 → aguardando preenchimento frete. Thiago pree
 	→ APROVAÇÃO DESCARTE → SAC Defini com o Cliente.
 	→ APROVACAO ORÇAMENTO →  Aguardando Coleta → Data coleta
 
-Aguardando Coleta → Ver com o tiago temos algum status/rotina do sankhya que a coleta chegou, finalizou? O tiago informar o ticket que entrou a coleta?
+Aguardando Definição Coleta → Ver com o tiago temos algum status/rotina do sankhya que a coleta chegou, finalizou? O tiago informar o ticket que entrou a coleta?
+	motorista(CPF,RG,CNH,CELULAR,NOME),veiculo(PLACA)
+	
+Aguardando Coleta → EXPEDIÇÃO
 
-Coleta Finalizada → 
+Coleta Realizada → vai pra expedição
 
 Liberação Diretoria → enviar alerta para todos (CSC/SAC/Fretes/Financeiro) vai para o finaceiro.
 
 Aguard. Financeiro → Adriana → finalizou (pago)
+
+---
+
 
 
 FROTA

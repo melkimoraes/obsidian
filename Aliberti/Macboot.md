@@ -13,7 +13,7 @@ Gerar pedido de venda/nota de venda → aqui vai inserir os itens com base no EA
 - [x] campo vinculado o nunota na TGFCAB → AD_NUNOTAPED
 - [x] EVENTOS
 - [x] PREFERENCIA! CODLOCALPEDVEND
-- [ ] ao atualizar a AD_TGFITE → atualiza o VLRTOT tb!
+- [x] ao atualizar a AD_TGFITE → atualiza o VLRTOT tb!
 
 ---
 

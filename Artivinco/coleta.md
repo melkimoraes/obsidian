@@ -55,6 +55,7 @@ Cidade
 E campos que foram preenchidos no SAC e ID
 Data Coleta
 
+---
 
 
 Status/Fluxos
@@ -65,9 +66,12 @@ Aguard. Aprovação Cotação → RAFAEL.JACHETA! → ve qual cotação com base
 Aguardando Definição Coleta → Ver com o tiago temos algum status/rotina do sankhya que a coleta chegou, finalizou? O tiago informar o ticket que entrou a coleta?
 	motorista(CPF,RG,CNH,CELULAR,NOME),veiculo(PLACA)
 Aguardando Coleta → EXPEDIÇÃO
-Liberação Diretoria → enviar alerta para todos (CSC/SAC/Fretes/Financeiro) vai para o finaceiro.
+Aguardando Liberação Diretoria → enviar alerta para todos (CSC/SAC/Fretes/Financeiro) vai para o finaceiro.
 
 Aguard. Financeiro → Adriana → finalizou (pago)
+Coleta Finalizada
+- [ ] 
+
 
 ---
 

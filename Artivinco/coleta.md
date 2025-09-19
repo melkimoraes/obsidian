@@ -64,8 +64,8 @@ Motorista (cpf/rg/cnh/celular)?
 
 Status/Fluxos
 Iniciada → Fretes (Thiago Cintra/ Matheus Laveli/ Marcos Silva) → depois que o Thiago colocou os orçamentos - > finalizado cotação. (ORÇAMENTOS DEFINIDOS)
-Aguard. Envio Cotação →  Paloma → envia todas as cotações via mensageria? o retorno da mensageria a Paloma aprovaria a transportadora venceroda.
-Aguard. Aprovação Cotação →
+Aguard. Envio Cotação →  Paloma → AVALIA O VALOR DE DESCARTE ANTES DE IR PRA DIRETORIA → ANTES DE IR PRA DIRETORIA TEM O VALOR DO DESCARTE + ORÇAMENTOS.
+Aguard. Aprovação Cotação → COMO A DONA CLAUDIA APROVARIA? EMAIL OU SANKHYA(LIBERACAO DE LIMITES) ?
 Cotação Aprovada →  STatus 2 → aguardando preenchimento frete. Thiago preencheu a placa → finaliza preenchimento coleta
 Aguardando Coleta → Ver com o tiago temos algum status/rotina do sankhya que a coleta chegou, finalizou? O tiago informar o ticket que entrou a coleta?
 Coleta Finalizada → 

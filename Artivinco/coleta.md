@@ -70,7 +70,10 @@ Aguardando Liberação Diretoria → enviar alerta para todos (CSC/SAC/Fretes/Fi
 
 Aguard. Financeiro → Adriana → finalizou (pago)
 Coleta Finalizada
-- [ ] 
+
+- [ ] tirar o veiculo da aba cotação
+- [ ] aba cotação → data prev. coleta
+	- [ ] aba cotação → observação cotação (tirar observação transporte! ou colocar no campo observação transporte!)
 
 
 ---

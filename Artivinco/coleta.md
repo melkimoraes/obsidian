@@ -63,16 +63,24 @@ Motorista (cpf/rg/cnh/celular)?
 
 
 Status/Fluxos
+TERCEIRO
 Iniciada → Fretes (Thiago Cintra/ Matheus Laveli/ Marcos Silva) → depois que o Thiago colocou os orçamentos - > finalizado cotação. (ORÇAMENTOS DEFINIDOS)
 Aguard. Envio Cotação →  Paloma → AVALIA O VALOR DE DESCARTE ANTES DE IR PRA DIRETORIA → ANTES DE IR PRA DIRETORIA TEM O VALOR DO DESCARTE + ORÇAMENTOS.
 Aguard. Aprovação Cotação → COMO A DONA CLAUDIA APROVARIA? EMAIL OU SANKHYA(LIBERACAO DE LIMITES) ?
 Cotação Aprovada →  STatus 2 → aguardando preenchimento frete. Thiago preencheu a placa → finaliza preenchimento coleta
+	→ APROVAÇÃO DESCARTE → SAC Defini com o Cliente.
+	→ APROVACAO ORÇAMENTO →  Aguardando Coleta → Data coleta
+
 Aguardando Coleta → Ver com o tiago temos algum status/rotina do sankhya que a coleta chegou, finalizou? O tiago informar o ticket que entrou a coleta?
+
 Coleta Finalizada → 
+
 Liberação Diretoria → enviar alerta para todos (CSC/SAC/Fretes/Financeiro) vai para o finaceiro.
+
 Aguard. Financeiro → Adriana → finalizou (pago)
 
 
+FROTA
 Iniciada → Transporte (Renato/Mateus/Juan/Gustavo/Zildiomar) → finaliza informações
 Aguard. Envio Cliente → SAC envia informaçoes pro cliente
 Aguardando Coleta → ver oq vai finalizar a coleta, alguem informar o ticket que entrou a coleta?

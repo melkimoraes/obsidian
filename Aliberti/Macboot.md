@@ -14,6 +14,7 @@ Gerar pedido de venda/nota de venda → aqui vai inserir os itens com base no EA
 - [x] EVENTOS
 - [x] PREFERENCIA! CODLOCALPEDVEND
 - [x] ao atualizar a AD_TGFITE → atualiza o VLRTOT tb!
+- [ ] GET_LINK_TELA(‘br.com.sankhya.com.mov.CentralNotas‘, ‘Clique aqui para visualizar o Pedido‘, ‘{NUNOTA : 3}‘)
 
 ---
 

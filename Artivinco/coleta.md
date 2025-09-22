@@ -64,6 +64,7 @@ Iniciada → Fretes (Thiago Cintra/ Matheus Laveli/ Marcos Silva) → depois que
 Aguard. Aprovação Cotação → RAFAEL.JACHETA! → ve qual cotação com base na data! 
 Aguardando Definição Coleta → Ver com o tiago temos algum status/rotina do sankhya que a coleta chegou, finalizou? O tiago informar o ticket que entrou a coleta?
 	motorista(CPF,RG,CNH,CELULAR,NOME),veiculo(PLACA)
+Aguard. Envio Cliente → ?? vai ter??
 Aguardando Coleta → EXPEDIÇÃO
 Aguardando Liberação Diretoria → enviar alerta para todos (CSC/SAC/Fretes/Financeiro) vai para o finaceiro.
 

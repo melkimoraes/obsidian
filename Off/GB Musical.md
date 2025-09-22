@@ -1,3 +1,6 @@
+
+[[gbmusical]]
+
 O que vai iniciar o FLOW? Vai ser algum processo automático ou manual por parte dos setores? Porque a próxima tarefa , é eles mesmos que decidem se vão acatar ou não.
 
 Inicio do flow → COMERCIAL/FINANCEIRO/FISCAL/QUALIDADE → faz um registro no controle devolução(aqui tem nota da venda?)

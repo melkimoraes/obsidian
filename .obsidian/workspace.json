@@ -47,8 +47,7 @@
               "title": "gbmusical"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,12 +228,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1a43b0dc55a26bc2",
+  "active": "d4285aedc4a8dcf9",
   "lastOpenFiles": [
-    "Off/GB Musical.md",
-    "Excalidraw/gbmusical.md",
-    "Excalidraw",
     "Artivinco/coleta.md",
+    "Excalidraw/gbmusical.md",
+    "Off/GB Musical.md",
+    "Excalidraw",
     "Artivinco/Configs-Acessos.md",
     "Aliberti/Macboot.md",
     "Artivinco/IMGJ.md",

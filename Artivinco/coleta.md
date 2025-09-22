@@ -15,6 +15,7 @@ PRODUÇÃO:
 - [x] FAZER ENVIO DO E-EMAIL NOS DIFERENTES STATUS!
 - [x] DASH
 		10 dias pra coleta -> Apartir da data de inclusão
+- [ ] SNK_GETLIB_CODPARC
 ----
 DUVIDAS:
 - [ ] ver cpf/rg/cnh/celular com o THIAGO

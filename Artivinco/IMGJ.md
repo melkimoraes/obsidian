@@ -6,7 +6,7 @@ Username: sankhya
 Pass:  Uz654EjAaWxG!@
 
 Banco de Dados IMGJ_TESTE (Local)
-IP: 172.20.16.119
+IP: http://172.20.16.120:8180/mge/
 Porta: 1521
 Service Name: IMGJ_TESTE
 Username: sankhya

@@ -16,6 +16,7 @@ PRODUÇÃO:
 - [x] DASH
 		10 dias pra coleta -> Apartir da data de inclusão
 - [ ] SNK_GETLIB_CODPARC
+- [ ] criar o evento 1122
 ----
 DUVIDAS:
 - [ ] ver cpf/rg/cnh/celular com o THIAGO

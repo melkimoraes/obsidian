@@ -31,12 +31,14 @@
             "id": "1a43b0dc55a26bc2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Off/GB Musical/gbmusical.md"
+                "file": "Off/BetoSport.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "gbmusical"
+              "icon": "lucide-file",
+              "title": "BetoSport"
             }
           }
         ]
@@ -96,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "97e494cd6dc1f88b",
@@ -232,7 +233,7 @@
     "Off/Sem título.md",
     "GM/Bioclean/Flow/Flow.md",
     "Diario/03-12-2024.md",
-    "Off/CRM Bonus.md",
+    "Off/BetoSport.md",
     "Artivinco/coleta.md",
     "tips.md",
     "Excalidraw",

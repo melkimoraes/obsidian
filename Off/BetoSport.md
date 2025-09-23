@@ -1,3 +1,5 @@
+## CRM Bonus
+
 https://crmbonus-api.readme.io/reference/fluxo-da-integracao-pdv
 
 codempresa
@@ -96,6 +98,8 @@ BEGIN
         EXCEPTION
             WHEN NO_DATA_FOUND THEN
                 RETURN;
+            WHEN OTHERS THEN
+		        RETURN;
         END;
     END IF;
 END;

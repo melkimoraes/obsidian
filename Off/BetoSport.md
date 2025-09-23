@@ -70,7 +70,7 @@ Só deixaria iniciar o processo no CRM, se já tiver salvado o cabeçalho da not
 
 ---
 
-CREATE OR REPLACE TRIGGER TRG_TSILIB_BONUS
+CREATE OR REPLACE TRIGGER TRG_I_TSILIB_VALCRM
 BEFORE INSERT ON TSILIB
 FOR EACH ROW
 DECLARE

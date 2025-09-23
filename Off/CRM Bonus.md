@@ -64,3 +64,38 @@ Só deixaria iniciar o processo no CRM, se já tiver salvado o cabeçalho da not
 	- [x] testar
 	- [x] e depois tirar os sysouts só dele que faltou!
 - [x] colocar filtros na tela Integração CRM (data, parceiro, nro unico)
+
+
+---
+
+CREATE OR REPLACE TRIGGER TRG_TSILIB_BONUS
+BEFORE INSERT ON TSILIB
+FOR EACH ROW
+DECLARE
+    V_USARBONUS   VARCHAR2(1);
+    V_SALDOBONUS  NUMBER;
+    V_VLRTOTPERC  NUMBER;
+BEGIN
+    -- Só executa se for EVENTO = 2
+    IF :NEW.EVENTO = 2 THEN
+        BEGIN
+            -- Buscar dados da AD_INTCRM
+
+            SELECT A.USARBONUS, A.SALDOBONUS, C.VLRDESCTOT
+              INTO V_USARBONUS, V_SALDOBONUS, V_VLRTOTPERC
+              FROM AD_INTCRM A
+              JOIN TGFCAB C ON C.NUNOTA = A.NUNOTA
+             WHERE A.NUNOTA = :NEW.NUCHAVE;
+
+            -- Validar condições
+            IF V_USARBONUS = 'S'
+               AND V_SALDOBONUS = V_VLRTOTPERC THEN
+                :NEW.VLRLIBERADO := :NEW.VLRATUAL;
+                :NEW.DHLIB       := SYSDATE;
+            END IF;
+        EXCEPTION
+            WHEN NO_DATA_FOUND THEN
+                RETURN;
+        END;
+    END IF;
+END;

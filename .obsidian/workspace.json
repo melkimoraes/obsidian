@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/coleta.md",
+                "file": "Off/CRM Bonus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "coleta"
+              "title": "CRM Bonus"
             }
           },
           {
@@ -214,11 +214,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f28a00e83706e7f5",
+  "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
+    "Artivinco/coleta.md",
     "Off/CRM Bonus.md",
     "tips.md",
-    "Artivinco/coleta.md",
     "Excalidraw/gbmusical.md",
     "Off/GB Musical.md",
     "Excalidraw",

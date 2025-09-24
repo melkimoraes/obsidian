@@ -11,12 +11,14 @@
             "id": "7b88ab795a83c0ec",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Off/GB Musical/gbmusical.md"
+                "file": "tips.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "gbmusical"
+              "icon": "lucide-file",
+              "title": "tips"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "97e494cd6dc1f88b",
@@ -202,7 +203,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b88ab795a83c0ec",
+  "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
     "Off/GB Musical/gbmusical.md",
     "Off/GB Musical/GB Musical.md",

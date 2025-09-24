@@ -31,11 +31,11 @@ só aplicar na TPRMPA
 
 Relatórios:
 
-NUMPS na TPRIPRO
+Ficha de produção
+- NUMPS na TPRIPRO
 
-
-relatorio Agrupamento:
-	- ficha é os numeros da OP
+Agrupamento
+- ficha é os números da OP
 
 ---
 

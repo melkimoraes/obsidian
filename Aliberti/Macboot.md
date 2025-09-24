@@ -31,7 +31,11 @@ só aplicar na TPRMPA
 
 Relatórios:
 
-NUMPS na TPRIPROC
+NUMPS na TPRIPRO
+
+
+relatorio Agrupamento:
+	- ficha é os numeros da OP
 
 ---
 

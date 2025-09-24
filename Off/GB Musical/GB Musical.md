@@ -1,6 +1,10 @@
 
 [[gbmusical]]
 
+- [ ] na dev. interna tem o contato com o cliente também (qualidade?)(com aprovação/reprovação)
+- [ ] o registro do credito/abatimento é no começo, no contato com o cliente no meio ou  no final somente com o financeiro?
+- [ ] no contato com o cliente seja dev. interna ou externa pode ter reprovação? se sim pra refazer os calculos e mandar dnv?
+
 O que vai iniciar o FLOW? Vai ser algum processo automático ou manual por parte dos setores? Porque a próxima tarefa , é eles mesmos que decidem se vão acatar ou não.
 
 Inicio do flow → COMERCIAL/FINANCEIRO/FISCAL/QUALIDADE → faz um registro no controle devolução(aqui tem nota da venda?)

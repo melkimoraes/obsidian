@@ -15,11 +15,11 @@ PRODUÇÃO:
 - [x] FAZER ENVIO DO E-EMAIL NOS DIFERENTES STATUS!
 - [x] DASH
 		10 dias pra coleta -> Apartir da data de inclusão
-- [ ] SNK_GETLIB_CODPARC
-- [ ] criar o evento 1122
+- [x] SNK_GETLIB_CODPARC
+- [x] criar o evento 1122
 ----
 DUVIDAS:
-- [ ] ver cpf/rg/cnh/celular com o THIAGO
+- [x] ver cpf/rg/cnh/celular com o THIAGO
 ---
 
 Campo no SAC:

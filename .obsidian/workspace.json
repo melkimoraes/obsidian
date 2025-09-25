@@ -35,8 +35,7 @@
               "title": "Configs-Acessos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,8 +217,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0790e1bec244b49c",
+  "active": "7a52afa650262146",
   "lastOpenFiles": [
+    "Artivinco/Configs-Acessos.md",
     "Artivinco/coleta.md",
     "Off/BetoSport.md",
     "Off/GB Musical/GB Musical.md",
@@ -227,7 +227,6 @@
     "Aliberti/Macboot.md",
     "tips.md",
     "GM/Bioclean/Flow/Flow.excalidraw",
-    "Artivinco/Configs-Acessos.md",
     "Artivinco/IMGJ.md",
     "Off/GB Musical/Drawing 2025-09-22 22.28.03.excalidraw.md",
     "Off/GB Musical",

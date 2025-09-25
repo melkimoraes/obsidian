@@ -49,8 +49,7 @@
               "title": "Configs-Acessos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,11 +231,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1490793f8305b799",
+  "active": "7a52afa650262146",
   "lastOpenFiles": [
+    "Off/BetoSport.md",
     "Artivinco/coleta.md",
     "Artivinco/Configs-Acessos.md",
-    "Off/BetoSport.md",
     "Off/GB Musical/GB Musical.md",
     "Off/GB Musical/gbmusical.md",
     "Aliberti/Macboot.md",

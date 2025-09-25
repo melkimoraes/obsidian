@@ -28,6 +28,8 @@ depois Do contato do cliente → aguardando a nota pra validacao → qualidade v
 	→ ABATIMENTO: ENVIAR BOLETO DO CLIENTE (NOVO)
 → SE FOR ABATIMENTO → VAI PRO CLIENTE.
 
+FAZER TELA COM AS DEVOLUÇÕES → COM OQ ELAS DERAM ABATIMENTO/CREDITO?
+
 
 
 → quando o material chega → vai ver a parte do credito (FINANCEIRO) (abatimento em boletos  / créditos na próxima compra)! depois da devolução vai efetivar o credito?

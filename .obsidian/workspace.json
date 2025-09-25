@@ -215,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,10 +231,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1923525b02b31e0d",
+  "active": "d4285aedc4a8dcf9",
   "lastOpenFiles": [
-    "Artivinco/Configs-Acessos.md",
     "Artivinco/coleta.md",
+    "Artivinco/Configs-Acessos.md",
     "Off/BetoSport.md",
     "Off/GB Musical/GB Musical.md",
     "Off/GB Musical/gbmusical.md",

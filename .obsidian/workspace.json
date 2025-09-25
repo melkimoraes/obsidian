@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,10 +230,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9687200339268c5",
+  "active": "0667afea632fa06f",
   "lastOpenFiles": [
-    "Off/GB Musical/GB Musical.md",
     "Off/GB Musical/gbmusical.md",
+    "Off/GB Musical/GB Musical.md",
     "Artivinco/coleta.md",
     "Off/BetoSport.md",
     "Aliberti/Macboot.md",

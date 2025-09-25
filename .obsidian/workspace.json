@@ -11,14 +11,12 @@
             "id": "c843f51415cb80e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Off/BetoSport.md",
-                "mode": "source",
-                "source": false
+                "file": "Off/GB Musical/gbmusical.md"
               },
-              "icon": "lucide-file",
-              "title": "BetoSport"
+              "icon": "excalidraw-icon",
+              "title": "gbmusical"
             }
           }
         ]
@@ -203,14 +201,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdbd9ae6bf2082f0",
+  "active": "c843f51415cb80e2",
   "lastOpenFiles": [
+    "Off/BetoSport.md",
     "Aliberti/Macboot.md",
     "tips.md",
     "Off/GB Musical/gbmusical.md",
     "Off/GB Musical/GB Musical.md",
     "GM/Bioclean/Flow/Flow.excalidraw",
-    "Off/BetoSport.md",
     "Artivinco/Configs-Acessos.md",
     "Artivinco/IMGJ.md",
     "Artivinco/coleta.md",

@@ -61,8 +61,7 @@
               "title": "GB Musical"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,13 +243,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44836a9c87c8b55d",
+  "active": "ae70074e17ed07db",
   "lastOpenFiles": [
-    "Off/GB Musical/gbmusical.md",
     "Off/BetoSport.md",
+    "Off/GB Musical/gbmusical.md",
+    "Off/GB Musical/GB Musical.md",
     "Aliberti/Macboot.md",
     "tips.md",
-    "Off/GB Musical/GB Musical.md",
     "GM/Bioclean/Flow/Flow.excalidraw",
     "Artivinco/Configs-Acessos.md",
     "Artivinco/IMGJ.md",

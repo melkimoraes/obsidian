@@ -11,10 +11,12 @@
             "id": "8e25a6ab1e160002",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "excalidraw",
+              "state": {
+                "file": "Off/GB Musical/gbmusical.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "gbmusical"
             }
           }
         ]
@@ -74,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "97e494cd6dc1f88b",

@@ -1,7 +1,7 @@
 
 [[gbmusical]]
 
-- [ ] na dev. interna tem o contato com o cliente também (qualidade?)(com aprovação/reprovação)
+- [x] na dev. interna tem o contato com o cliente também (qualidade?)(com aprovação/reprovação)
 - [ ] o registro do credito/abatimento é no começo, no contato com o cliente no meio ou  no final somente com o financeiro?
 - [x] no contato com o cliente seja dev. interna ou externa pode ter reprovação? se sim pra refazer os calculos e mandar dnv?
 

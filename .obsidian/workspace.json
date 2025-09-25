@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "coleta"
             }
+          },
+          {
+            "id": "a9687200339268c5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Off/GB Musical/gbmusical.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "gbmusical"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,8 +216,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a52afa650262146",
+  "active": "a9687200339268c5",
   "lastOpenFiles": [
+    "Artivinco/coleta.md",
     "Off/BetoSport.md",
     "Aliberti/Macboot.md",
     "Off/GB Musical/gbmusical.md",
@@ -213,7 +227,6 @@
     "GM/Bioclean/Flow/Flow.excalidraw",
     "Artivinco/Configs-Acessos.md",
     "Artivinco/IMGJ.md",
-    "Artivinco/coleta.md",
     "Off/GB Musical/Drawing 2025-09-22 22.28.03.excalidraw.md",
     "Off/GB Musical",
     "Off/Sem título.md",

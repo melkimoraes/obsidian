@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "97e494cd6dc1f88b",
@@ -230,10 +231,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0667afea632fa06f",
+  "active": "a9687200339268c5",
   "lastOpenFiles": [
-    "Off/GB Musical/gbmusical.md",
     "Off/GB Musical/GB Musical.md",
+    "Off/GB Musical/gbmusical.md",
     "Artivinco/coleta.md",
     "Off/BetoSport.md",
     "Aliberti/Macboot.md",

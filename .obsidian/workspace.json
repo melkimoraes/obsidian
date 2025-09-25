@@ -8,15 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c843f51415cb80e2",
+            "id": "8e25a6ab1e160002",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Off/GB Musical/gbmusical.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "gbmusical"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -202,12 +200,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c843f51415cb80e2",
+  "active": "8e25a6ab1e160002",
   "lastOpenFiles": [
+    "Off/GB Musical/gbmusical.md",
     "Off/BetoSport.md",
     "Aliberti/Macboot.md",
     "tips.md",
-    "Off/GB Musical/gbmusical.md",
     "Off/GB Musical/GB Musical.md",
     "GM/Bioclean/Flow/Flow.excalidraw",
     "Artivinco/Configs-Acessos.md",

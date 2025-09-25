@@ -47,8 +47,7 @@
               "title": "GB Musical"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "97e494cd6dc1f88b",
@@ -231,11 +229,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9687200339268c5",
+  "active": "7a52afa650262146",
   "lastOpenFiles": [
     "Off/GB Musical/GB Musical.md",
-    "Off/GB Musical/gbmusical.md",
     "Artivinco/coleta.md",
+    "Off/GB Musical/gbmusical.md",
     "Off/BetoSport.md",
     "Aliberti/Macboot.md",
     "tips.md",

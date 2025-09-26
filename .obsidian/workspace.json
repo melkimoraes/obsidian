@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "BetoSport"
             }
+          },
+          {
+            "id": "1b5ddaeaa63a8d3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artivinco/Configs-Acessos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configs-Acessos"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,10 +231,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4285aedc4a8dcf9",
+  "active": "1b5ddaeaa63a8d3d",
   "lastOpenFiles": [
-    "Off/BetoSport.md",
     "tips.md",
+    "Off/BetoSport.md",
     "Off/Aliberti/Macboot.md",
     "Off/GB Musical/GB Musical.md",
     "Off/GB Musical/gbmusical.md",

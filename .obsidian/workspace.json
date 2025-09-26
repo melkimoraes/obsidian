@@ -11,10 +11,14 @@
             "id": "abbe0c63f2afa9bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Off/Aliberti/Macboot.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Macboot"
             }
           }
         ]

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ca5112e73851cc8d",
+        "id": "6f3462caa3fb71af",
         "type": "tabs",
         "children": [
           {
-            "id": "4689c68efa7875ff",
+            "id": "abbe0c63f2afa9bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Off/GB Musical/GB Musical.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "GB Musical"
+              "title": "Nova aba"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "97e494cd6dc1f88b",
@@ -203,15 +198,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4689c68efa7875ff",
+  "active": "abbe0c63f2afa9bb",
   "lastOpenFiles": [
-    "Off/GB Musical/gbmusical.md",
     "Off/GB Musical/GB Musical.md",
+    "Off/GB Musical/gbmusical.md",
     "Artivinco/Configs-Acessos.md",
     "tips.md",
     "Artivinco/coleta.md",
     "Off/BetoSport.md",
-    "Aliberti/Macboot.md",
+    "Off/Aliberti/Macboot.md",
     "GM/Bioclean/Flow/Flow.excalidraw",
     "Artivinco/IMGJ.md",
     "Off/GB Musical/Drawing 2025-09-22 22.28.03.excalidraw.md",
@@ -234,12 +229,12 @@
     "Off",
     "GM/day a day.md",
     "GM/BP Matoso.md",
-    "Aliberti",
-    "Aliberti/Oriente Farma/19-03.md",
+    "Off/Aliberti",
+    "Off/Aliberti/Oriente Farma/19-03.md",
     "GM",
     "Estudos/Pasted image 20250115104558.png",
     "Estudos/Pasted image 20250117163703.png",
-    "Aliberti/Oriente Farma",
+    "Off/Aliberti/Oriente Farma",
     "Artivinco",
     "Sem título.canvas",
     "Estudos/DevOps/Desafio DevOps & Cloud",

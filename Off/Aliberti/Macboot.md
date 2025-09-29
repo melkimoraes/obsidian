@@ -39,6 +39,33 @@ Agrupamento
 
 ---
 
+SELECT 
+MPS.NUMPS,
+MPS.DHGERMRP,
+PRO.REFERENCIA,
+PRO.DESCRPROD,
+PRO.COMPLDESC,
+PRO.AD_FORMA,
+PRO.AD_MENOR,
+PRO.AD_MAIOR,
+PRO.AD_BASE,
+to_char(sysdate, 'DD/MM/YYYY HH24:MI:SS') as dt,
+to_char(PRO.DTALTER, 'DD/MM/YYYY HH24:MI:SS') as dtalter,
+PRO.IMAGEM
+FROM TPRMPS MPS
+INNER JOIN TGFPRO PRO ON PRO.CODPROD = (SELECT CODPROD FROM TPRIMPS WHERE NUMPS = MPS.NUMPS AND ROWNUM=1)
+WHERE MPS.NUMPS = 6
+
+FICHA : ORDEM DE PRODUÇÃO -> TEM MAIS DE UMA ORDEM DE PRODUÇÃO NO MSM NUMPS.
+
+PEDIDO A MESMA COISA E CLIENTE A MESMA COISA.
+
+O PRODUTO QUE APARECE, DESCRICAO E ETC -> PEGO QUAL PRODUTO DA TPRMPS.
+
+OU É PRA AGRUPAR POR PEDIDO? 
+
+---
+
 - Aparecer só as numerações do produto:
 	- quando inserir o produto ja inserir as numerações automaticamente zeradas
 - Desconto: criar campo com percentual de desconto que o vendedor vai querer colocar e replicar isso nos itens do pedido.

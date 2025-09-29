@@ -39,9 +39,8 @@ Agrupamento
 
 ---
 
-- Aparecer só as numerações do produto vou ter que mudar a tabela
+- Aparecer só as numerações do produto:
 	- quando inserir o produto ja inserir as numerações automaticamente zeradas
-- Vendedor ajustado (estava com erro mesmo, ao alterar)
 - Desconto: criar campo com percentual de desconto que o vendedor vai querer colocar e replicar isso nos itens do pedido.
 - ireport do pedido(ta incluso?)
 - Criar aba do tipo de negociação que o cliente vai poder usar.

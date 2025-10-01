@@ -74,6 +74,16 @@ OU É PRA AGRUPAR POR PEDIDO?
 
 ---
 
+Ficha produção do corte do couro -> faz igual do exemplo? a aparte do meio toda é informações fixas para serem preenchidas? é por OP também?
+
+Ficha de preparação do forro -> mesma duvida da produção do corte do couro!
+
+ficha agrupada preparação - é por OP? por MPS? é pra somar as MP de cada OP dai?
+
+EVA -> vai imprimir da OP tb? aonde tem os produtos listados no exemplo? é alguma atividade da OP?
+
+---
+
 Acessos
 
 ●

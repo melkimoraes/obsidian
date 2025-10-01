@@ -74,7 +74,7 @@ OU É PRA AGRUPAR POR PEDIDO?
 
 ---
 
-Ficha produção do corte do couro -> faz igual do exemplo? a aparte do meio toda é informações fixas para serem preenchidas? é por OP também?
+Ficha produção do corte do couro -> é por OP? faz igual do exemplo? a aparte do meio toda é informações fixas para serem preenchidas? 
 
 Ficha de preparação do forro -> mesma duvida da produção do corte do couro!
 

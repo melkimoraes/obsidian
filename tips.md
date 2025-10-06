@@ -83,3 +83,7 @@ V_CURRCUSTO := OBTEMCUSTO(
                       alter session set nls_date_format='dd/mm/yyyy hh24:mi:ss';
 
 ```
+
+```sql
+SELECT CODVEND, CODGER FROM TGFVEN FOR UPDATE
+```

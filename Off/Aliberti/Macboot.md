@@ -90,7 +90,7 @@ FICHA DE PREPARAÇÃO DO FORRO -> todos os produto da LMP -> corte também
 
 FICHA AGRUPADA PREPARAÇÃO -> todos produtos da LMP -> atividade preparação.
 
-PRODUCAO EVA -> PRODUTOS SERAO LMP DO PRODUTOPA
+PRODUCAO EVA -> PRODUTOS SERAO LMP DO PRODUTOPA → ok
 
 ---
 

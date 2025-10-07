@@ -84,7 +84,7 @@ EVA -> vai imprimir da OP tb? aonde tem os produtos listados no exemplo? é algu
 
 ---
 
-ORDEM DE PRODUÇÃO DO CORTE DO COURO -> pegar os produtos do grupo 40202000 pra exibir como MP
+ORDEM DE PRODUÇÃO DO CORTE DO COURO -> pegar os produtos do grupo 40202000 pra exibir como MP → ok
 
 FICHA DE PREPARAÇÃO DO FORRO -> todos os produto da LMP -> corte também → ok
 

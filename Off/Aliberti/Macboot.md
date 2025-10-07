@@ -88,7 +88,7 @@ ORDEM DE PRODUÇÃO DO CORTE DO COURO -> pegar os produtos do grupo 40202000 pra
 
 FICHA DE PREPARAÇÃO DO FORRO -> todos os produto da LMP -> corte também
 
-FICHA AGRUPADA PREPARAÇÃO -> todos produtos da LMP -> atividade preparação.
+FICHA AGRUPADA PREPARAÇÃO -> todos produtos da LMP -> atividade preparação. → ok
 
 PRODUCAO EVA -> PRODUTOS SERAO LMP DO PRODUTOPA → ok
 

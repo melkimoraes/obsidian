@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,10 +245,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d5aba238922cfdd",
+  "active": "c6e630a06edba360",
   "lastOpenFiles": [
-    "Artivinco/Configs-Acessos.md",
     "Off/Aliberti/BR Digital.md",
+    "Artivinco/Configs-Acessos.md",
     "Artivinco/IMGJ.md",
     "tips.md",
     "Off/BetoSport.md",

@@ -63,8 +63,7 @@
               "title": "Configs-Acessos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,10 +244,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6e630a06edba360",
+  "active": "8317c8780b7e8257",
   "lastOpenFiles": [
-    "Off/Aliberti/BR Digital.md",
     "Artivinco/Configs-Acessos.md",
+    "Off/Aliberti/BR Digital.md",
     "Artivinco/IMGJ.md",
     "tips.md",
     "Off/BetoSport.md",

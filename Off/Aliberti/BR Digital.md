@@ -69,3 +69,5 @@ END;
 
 
 CabecalhoNota.NUNOTA IN (SELECT NUNOTA FROM TGFITE WHERE AD_CODCENCUS = ?:{entidade=ItemNota;campo=AD_CODCENCUS})
+
+CabecalhoNota.NUNOTA IN (SELECT NUNOTA FROM TGFITE WHERE AD_CODNAT = ?:{entidade=ItemNota;campo=AD_CODNAT})

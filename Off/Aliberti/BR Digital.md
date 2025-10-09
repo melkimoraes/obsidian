@@ -66,3 +66,6 @@ END;
 
 ```
 
+
+
+CabecalhoNota.NUNOTA IN (SELECT NUNOTA FROM TGFITE WHERE AD_CODCENCUS = ?:{entidade=ItemNota;campo=AD_CODCENCUS})

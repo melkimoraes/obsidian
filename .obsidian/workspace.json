@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Configs-Acessos"
             }
+          },
+          {
+            "id": "f2f516087961fb5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artivinco/IMGJ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IMGJ"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,10 +231,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92ea47ca7cc7ec75",
+  "active": "f2f516087961fb5a",
   "lastOpenFiles": [
-    "tips.md",
     "Artivinco/Configs-Acessos.md",
+    "tips.md",
     "Off/Aliberti/BR Digital.md",
     "GM/⭐.md",
     "Off/Aliberti/Macboot.md",

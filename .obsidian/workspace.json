@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "7eb74d678d8ce132",
+        "id": "439ea1740942b682",
         "type": "tabs",
         "children": [
           {
-            "id": "fcd64b5c00f233e6",
+            "id": "80d0d4238944a27d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Off/Aliberti/Macboot.md",
+                "file": "Artivinco/Configs-Acessos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Macboot"
+              "title": "Configs-Acessos"
+            }
+          },
+          {
+            "id": "153e0d73c685cff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artivinco/IMGJ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IMGJ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,14 +217,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fcd64b5c00f233e6",
+  "active": "153e0d73c685cff2",
   "lastOpenFiles": [
-    "Artivinco/IMGJ.md",
     "Artivinco/Configs-Acessos.md",
+    "Off/Aliberti/Macboot.md",
+    "Artivinco/IMGJ.md",
     "Off/Aliberti/BR Digital.md",
     "tips.md",
     "GM/⭐.md",
-    "Off/Aliberti/Macboot.md",
     "Off/BetoSport.md",
     "Off/GB Musical/GB Musical.md",
     "Off/GB Musical/gbmusical.md",

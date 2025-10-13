@@ -21,7 +21,7 @@ DB SSH:
 IP Local: 10.100.114.51:64222
 User: imgj_adm
 Pass: Imgj@adm
-
+	
 WPM:
 IP: http://177.85.34.36:34480/wpm/
 DNS: http://erp.imgj.com.br:34480/wpm/

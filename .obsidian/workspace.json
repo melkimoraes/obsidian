@@ -35,7 +35,8 @@
               "title": "IMGJ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,10 +217,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "80d0d4238944a27d",
+  "active": "153e0d73c685cff2",
   "lastOpenFiles": [
-    "Artivinco/IMGJ.md",
     "Artivinco/Configs-Acessos.md",
+    "Artivinco/IMGJ.md",
     "Excalidraw/Drawing 2025-10-13 11.24.22.excalidraw.md",
     "Off/Aliberti/Macboot.md",
     "Off/Aliberti/BR Digital.md",

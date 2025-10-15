@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/Configs-Acessos.md",
+                "file": "Estudos/Kotlin/KMP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configs-Acessos"
-            }
-          },
-          {
-            "id": "153e0d73c685cff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artivinco/IMGJ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IMGJ"
+              "title": "KMP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,10 +202,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "153e0d73c685cff2",
+  "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
-    "tips.md",
+    "Estudos/Kotlin/Basico (Tipos, functions, lambdas) - 1.md",
     "Artivinco/IMGJ.md",
+    "tips.md",
     "Artivinco/Configs-Acessos.md",
     "Excalidraw/Drawing 2025-10-13 11.24.22.excalidraw.md",
     "Off/Aliberti/Macboot.md",
@@ -249,7 +235,6 @@
     "Sem título",
     "Off",
     "GM/day a day.md",
-    "GM/BP Matoso.md",
     "Off/Aliberti",
     "GM",
     "Estudos/Pasted image 20250115104558.png",

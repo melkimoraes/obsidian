@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "439ea1740942b682",
+        "id": "4bb0827fc5e75218",
         "type": "tabs",
         "children": [
           {
-            "id": "80d0d4238944a27d",
+            "id": "66d413409ac95a63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudos/Kotlin/KMP.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "KMP"
+              "title": "Nova aba"
             }
           }
         ]
@@ -204,6 +200,8 @@
   },
   "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
+    "Estudos/Kotlin/Roadmap.md",
+    "Estudos/Kotlin/KMP.md",
     "Estudos/Kotlin/Basico (Tipos, functions, lambdas) - 1.md",
     "Artivinco/IMGJ.md",
     "tips.md",
@@ -231,10 +229,8 @@
     "Off/Betosport.md",
     "Off/BP.md",
     "Notepad/tips.md",
-    "Off/kampa.md",
     "Sem título",
     "Off",
-    "GM/day a day.md",
     "Off/Aliberti",
     "GM",
     "Estudos/Pasted image 20250115104558.png",

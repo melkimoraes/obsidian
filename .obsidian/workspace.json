@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4bb0827fc5e75218",
+        "id": "592f50f21995bc64",
         "type": "tabs",
         "children": [
           {
-            "id": "66d413409ac95a63",
+            "id": "713174060f1b27c6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -198,7 +198,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdbd9ae6bf2082f0",
+  "active": "d4285aedc4a8dcf9",
   "lastOpenFiles": [
     "Estudos/Kotlin/Roadmap.md",
     "Estudos/Kotlin/KMP.md",

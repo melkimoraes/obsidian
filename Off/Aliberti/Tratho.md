@@ -230,3 +230,122 @@ BEGIN
 END
 
 ```
+
+Alteracao Salario
+```sql
+CREATE TRIGGER SANKHYA.TRG_IU_TFPREQACS_TRA
+ON SANKHYA.TFPREQACS
+AFTER INSERT, UPDATE
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    DECLARE
+        @V_HTML          NVARCHAR(MAX),
+        @V_NOMEFUNC      NVARCHAR(2000),
+        @V_CARGOATUAL    NVARCHAR(2000),
+        @V_CARGONOVO     NVARCHAR(2000),
+        @V_SALARIOATUAL  DECIMAL(18,2),
+        @V_SALARIONOVO   DECIMAL(18,2),
+        @V_STATUSLABEL   NVARCHAR(200),
+        @V_EMAILS        NVARCHAR(4000),
+        @V_ASSUNTO       NVARCHAR(4000),
+        @V_CODFUNC       INT,
+        @V_CODEMP        INT,
+        @V_CODCON        INT,
+        @V_DATE          DATE,
+        @V_CODSMTP       INT,
+        @V_NUREQ         INT,
+        @V_URLLOGO       VARCHAR(2000),
+        @V_EMPRESA       NVARCHAR(2000);
+
+    /* ***********************************************
+       Empresa:  Aliberti Consultoria Tecnologica
+       Objetivo: Envio de e-mail de solicitação de alteração de cargo e salário
+       *********************************************** */
+
+    -- percorre cada ID afetado (trigger é por instrução no SQL Server)
+    DECLARE cur CURSOR LOCAL FAST_FORWARD FOR
+        SELECT
+            I.ID AS request_id,
+            I.CODFUNC,
+            I.CODEMP,
+            I.CODCARGO AS cargo_atual_id,
+            I.CODCARGOANTIGO AS cargo_novo_id,
+            I.SALARIO AS salario_atual,
+            I.SALARIOANTIGO AS salario_novo,
+            I.STATUS AS status_code,
+            FUN.NOMEFUNC AS employee_name
+        FROM inserted I
+        INNER JOIN SANKHYA.TFPFUN AS FUN ON FUN.CODFUNC = I.CODFUNC AND FUN.CODEMP = I.CODEMP
+        WHERE I.ID IS NOT NULL;
+
+    OPEN cur;
+    FETCH NEXT FROM cur INTO @V_NUREQ, @V_CODFUNC, @V_CODEMP, @V_CARGOATUAL, @V_CARGONOVO, @V_SALARIOATUAL, @V_SALARIONOVO, @V_STATUSLABEL, @V_NOMEFUNC;
+
+    WHILE @@FETCH_STATUS = 0
+    BEGIN
+        -- agrega dados do líder e e-mails
+        SELECT
+            @V_EMAILS    = STRING_AGG(TRIM(USU.EMAIL), ",") 
+                           WITHIN GROUP (ORDER BY USU.EMAIL)
+        FROM SANKHYA.TFPLIDER AS LID
+        INNER JOIN SANKHYA.TFPFUN  AS LIR
+            ON LIR.CODEMP  = LID.CODEMPLIDER
+           AND LIR.CODFUNC = LID.CODFUNCLIDER
+        INNER JOIN SANKHYA.TFPFUN  AS FUN
+            ON FUN.CODEMP  = LID.CODEMP
+           AND FUN.CODFUNC = LID.CODFUNC
+        INNER JOIN SANKHYA.TSIUSU  AS USU
+            ON USU.CODEMP  = LIR.CODEMP
+           AND USU.CODFUNC = LIR.CODFUNC
+        WHERE LID.CODFUNC = @V_CODFUNC
+        AND LID.CODEMP = @V_CODEMP;
+
+        -- busca template HTML
+        SELECT @V_HTML = CONTEUDO,
+               @V_ASSUNTO = ASSUNTO,
+               @V_CODSMTP = CODSMTP,
+               @V_URLLOGO = URLLOGO,
+               @V_EMPRESA = EMPRESA
+        FROM SANKHYA.AD_CFGEMAIL
+        WHERE TIPO = 'S'; -- Tipo 'S' para Solicitação de Alteração de Cargo e Salário
+
+        IF @V_NOMEFUNC IS NULL
+        BEGIN
+            FETCH NEXT FROM cur INTO @V_NUREQ, @V_CODFUNC, @V_CODEMP, @V_CARGOATUAL, @V_CARGONOVO, @V_SALARIOATUAL, @V_SALARIONOVO, @V_STATUSLABEL, @V_NOMEFUNC;
+            CONTINUE;
+        END;
+
+        -- Busca descrição dos cargos
+        SELECT @V_CARGOATUAL = DESCRCARGO FROM SANKHYA.TFPCAR WHERE CODCARGO = @V_CARGOATUAL;
+        SELECT @V_CARGONOVO = DESCRCARGO FROM SANKHYA.TFPCAR WHERE CODCARGO = @V_CARGONOVO;
+
+        -- Aplica o F_DESCROPC para status_label
+        SET @V_STATUSLABEL = SANKHYA.F_DESCROPC('TFPREQACS','STATUS',@V_STATUSLABEL);
+
+        -- aplica os placeholders
+        SET @V_HTML = REPLACE(@V_HTML, '{{employee_name}}', ISNULL(@V_NOMEFUNC, ''));
+        SET @V_HTML = REPLACE(@V_HTML, '{{cargo_atual}}', ISNULL(@V_CARGOATUAL, ''));
+        SET @V_HTML = REPLACE(@V_HTML, '{{cargo_novo}}', ISNULL(@V_CARGONOVO, ''));
+        SET @V_HTML = REPLACE(@V_HTML, '{{salario_atual}}', ISNULL(CONVERT(NVARCHAR, @V_SALARIOATUAL), ''));
+        SET @V_HTML = REPLACE(@V_HTML, '{{salario_novo}}', ISNULL(CONVERT(NVARCHAR, @V_SALARIONOVO), ''));
+        SET @V_HTML = REPLACE(@V_HTML, '{{status_label}}', ISNULL(@V_STATUSLABEL, ''));
+        SET @V_HTML = REPLACE(@V_HTML, '{{request_id}}', @V_NUREQ);
+        SET @V_HTML = REPLACE(@V_HTML, '{{company_name}}', ISNULL(@V_EMPRESA, ''));
+        SET @V_HTML = REPLACE(@V_HTML, '{{current_year}}', CONVERT(VARCHAR(4), YEAR(GETDATE())));
+        SET @V_HTML = REPLACE(@V_HTML, '{{url_logo}}', ISNULL(@V_URLLOGO, ''));
+
+        SET @V_DATE = GETDATE();
+
+        -- dispara e-mail
+        EXEC sankhya.Stp_Gravafilabi_TRA @V_ASSUNTO, NULL, @V_DATE, 'Pendente', @V_CODCON, 20, @V_HTML, 'E', 3, @V_EMAILS, @V_CODSMTP, 'text/html';
+
+        FETCH NEXT FROM cur INTO @V_NUREQ, @V_CODFUNC, @V_CODEMP, @V_CARGOATUAL, @V_CARGONOVO, @V_SALARIOATUAL, @V_SALARIONOVO, @V_STATUSLABEL, @V_NOMEFUNC;
+    END
+
+    CLOSE cur;
+    DEALLOCATE cur;
+END
+
+```

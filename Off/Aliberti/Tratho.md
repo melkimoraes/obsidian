@@ -15,6 +15,7 @@ senha: Gte7*23De2
 
 ----------------------------------------------------------
 
+Dependentes:
 
 ```sql
 
@@ -120,3 +121,112 @@ END
 ```
 
 
+Atestado:
+``
+```sql
+CREATE TRIGGER SANKHYA.TRG_IU_TFPREQAFAS_TRA
+ON SANKHYA.TFPREQAFAS
+AFTER INSERT, UPDATE
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    DECLARE
+        @V_HTML          NVARCHAR(MAX),
+        @V_NOMEFUNC      NVARCHAR(2000),
+        @V_CID           NVARCHAR(2000),
+        @V_DTINIOCOR     DATE,
+        @V_DTFINALCOR    DATE,
+        @V_PERIODO       NVARCHAR(2000),
+        @V_EMAILS        NVARCHAR(4000),
+        @V_ASSUNTO       NVARCHAR(4000),
+        @V_CODFUNC       INT,
+        @V_CODEMP        INT,
+        @V_CODCON        INT,
+        @V_DATE          DATE,
+        @V_CODSMTP       INT,
+        @V_NUREQ         INT,
+        @V_URLLOGO       VARCHAR(2000),
+        @V_EMPRESA       NVARCHAR(2000);
+
+    /* ***********************************************
+       Empresa:  Aliberti Consultoria Tecnologica
+       Objetivo: Envio de e-mail de requisição de afastamento
+       *********************************************** */
+
+    -- percorre cada ID afetado (trigger é por instrução no SQL Server)
+    DECLARE cur CURSOR LOCAL FAST_FORWARD FOR
+        SELECT
+            I.ID AS request_id,
+            I.CODFUNC,
+            I.CODEMP,
+            I.NUREINCID AS cid,
+            I.DTINIOCOR,
+            I.DTFINALCOR,
+            FUN.NOMEFUNC AS employee_name
+        FROM inserted I
+        INNER JOIN SANKHYA.TFPFUN AS FUN ON FUN.CODFUNC = I.CODFUNC AND FUN.CODEMP = I.CODEMP
+        WHERE I.ID IS NOT NULL;
+
+    OPEN cur;
+    FETCH NEXT FROM cur INTO @V_NUREQ, @V_CODFUNC, @V_CODEMP, @V_CID, @V_DTINIOCOR, @V_DTFINALCOR, @V_NOMEFUNC;
+
+    WHILE @@FETCH_STATUS = 0
+    BEGIN
+        -- agrega dados do líder e e-mails
+        SELECT
+            @V_EMAILS    = STRING_AGG(TRIM(USU.EMAIL), ",") 
+                           WITHIN GROUP (ORDER BY USU.EMAIL)
+        FROM SANKHYA.TFPLIDER AS LID
+        INNER JOIN SANKHYA.TFPFUN  AS LIR
+            ON LIR.CODEMP  = LID.CODEMPLIDER
+           AND LIR.CODFUNC = LID.CODFUNCLIDER
+        INNER JOIN SANKHYA.TFPFUN  AS FUN
+            ON FUN.CODEMP  = LID.CODEMP
+           AND FUN.CODFUNC = LID.CODFUNC
+        INNER JOIN SANKHYA.TSIUSU  AS USU
+            ON USU.CODEMP  = LIR.CODEMP
+           AND USU.CODFUNC = LIR.CODFUNC
+        WHERE LID.CODFUNC = @V_CODFUNC
+        AND LID.CODEMP = @V_CODEMP;
+
+        -- busca template HTML
+        SELECT @V_HTML = CONTEUDO,
+               @V_ASSUNTO = ASSUNTO,
+               @V_CODSMTP = CODSMTP,
+               @V_URLLOGO = URLLOGO,
+               @V_EMPRESA = EMPRESA
+        FROM SANKHYA.AD_CFGEMAIL
+        WHERE TIPO = 'A'; -- Tipo 'A' para Afastamento
+
+        IF @V_NOMEFUNC IS NULL
+        BEGIN
+            FETCH NEXT FROM cur INTO @V_NUREQ, @V_CODFUNC, @V_CODEMP, @V_CID, @V_DTINIOCOR, @V_DTFINALCOR, @V_NOMEFUNC;
+            CONTINUE;
+        END;
+
+        -- Formata o período
+        SET @V_PERIODO = CONVERT(VARCHAR(10), @V_DTINIOCOR, 103) + ' a ' + CONVERT(VARCHAR(10), @V_DTFINALCOR, 103);
+
+        -- aplica os placeholders
+        SET @V_HTML = REPLACE(@V_HTML, '{{employee_name}}', ISNULL(@V_NOMEFUNC, ''));
+        SET @V_HTML = REPLACE(@V_HTML, '{{cid}}', ISNULL(@V_CID, ''));
+        SET @V_HTML = REPLACE(@V_HTML, '{{periodo}}', ISNULL(@V_PERIODO, ''));
+        SET @V_HTML = REPLACE(@V_HTML, '{{request_id}}', @V_NUREQ);
+        SET @V_HTML = REPLACE(@V_HTML, '{{company_name}}', ISNULL(@V_EMPRESA, ''));
+        SET @V_HTML = REPLACE(@V_HTML, '{{current_year}}', CONVERT(VARCHAR(4), YEAR(GETDATE())));
+        SET @V_HTML = REPLACE(@V_HTML, '{{url_logo}}', ISNULL(@V_URLLOGO, ''));
+
+        SET @V_DATE = GETDATE();
+
+        -- dispara e-mail
+        EXEC sankhya.Stp_Gravafilabi_TRA @V_ASSUNTO, NULL, @V_DATE, 'Pendente', @V_CODCON, 20, @V_HTML, 'E', 3, @V_EMAILS, @V_CODSMTP, 'text/html';
+
+        FETCH NEXT FROM cur INTO @V_NUREQ, @V_CODFUNC, @V_CODEMP, @V_CID, @V_DTINIOCOR, @V_DTFINALCOR, @V_NOMEFUNC;
+    END
+
+    CLOSE cur;
+    DEALLOCATE cur;
+END
+
+```

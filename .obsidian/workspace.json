@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "feccb3747d4dfff1",
+        "id": "facab3ae4fb1f338",
         "type": "tabs",
         "children": [
           {
-            "id": "d97e9c6c7e87e5b1",
+            "id": "da59c5fcac6a5b79",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -198,7 +198,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d97e9c6c7e87e5b1",
+  "active": "da59c5fcac6a5b79",
   "lastOpenFiles": [
     "Artivinco/Analise de Giro - CURVA ABC.md",
     "tips.md",

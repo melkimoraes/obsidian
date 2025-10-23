@@ -273,8 +273,8 @@ BEGIN
             I.ID AS request_id,
             I.CODFUNC,
             I.CODEMP,
-            I.CODCARGO AS cargo_atual_id,
-            I.CODCARGOANTIGO AS cargo_novo_id,
+            I.CARGO AS cargo_atual_id,
+            I.CARGOANTIGO AS cargo_novo_id,
             I.SALARIO AS salario_atual,
             I.SALARIOANTIGO AS salario_novo,
             I.STATUS AS status_code,
@@ -290,7 +290,7 @@ BEGIN
     BEGIN
         -- agrega dados do líder e e-mails
         SELECT
-            @V_EMAILS    = STRING_AGG(TRIM(USU.EMAIL), ",") 
+            @V_EMAILS    = STRING_AGG(TRIM(USU.EMAIL), ',') 
                            WITHIN GROUP (ORDER BY USU.EMAIL)
         FROM SANKHYA.TFPLIDER AS LID
         INNER JOIN SANKHYA.TFPFUN  AS LIR
@@ -342,7 +342,7 @@ BEGIN
         SET @V_DATE = GETDATE();
 
         -- dispara e-mail
-        EXEC sankhya.Stp_Gravafilabi_TRA @V_ASSUNTO, NULL, @V_DATE, 'Pendente', @V_CODCON, 20, @V_HTML, 'E', 3, @V_EMAILS, @V_CODSMTP, 'text/html';
+        EXEC sankhya.Stp_Gravafilabi_TRA @V_ASSUNTO, NULL, @V_DATE, 'Pendente', @V_CODCON, 20, @V_HTML, 'E', 3, 'leandro@aliberti.com.br', @V_CODSMTP, 'text/html';
 
         FETCH NEXT FROM cur INTO @V_NUREQ, @V_CODFUNC, @V_CODEMP, @V_CARGOATUAL, @V_CARGONOVO, @V_SALARIOATUAL, @V_SALARIONOVO, @V_STATUSLABEL, @V_NOMEFUNC;
     END
@@ -350,5 +350,20 @@ BEGIN
     CLOSE cur;
     DEALLOCATE cur;
 END
+
+```
+
+
+
+```SQL
+
+  -- 2. Busca e-mail do RH (TSIPAR.EMAILRH)
+        DECLARE @V_EMAIL_RH NVARCHAR(200);
+        SELECT @V_EMAIL_RH = VALOR FROM SANKHYA.TSIPAR WHERE CHAVE = 'EMAILRH';
+
+        -- 3. Concatena e-mails (Líder + RH)
+        SET @V_EMAILS = ISNULL(@V_EMAILS_LIDER, '') + 
+                        CASE WHEN ISNULL(@V_EMAILS_LIDER, '') <> '' AND ISNULL(@V_EMAIL_RH, '') <> '' THEN ',' ELSE '' END +
+                        ISNULL(@V_EMAIL_RH, '');
 
 ```

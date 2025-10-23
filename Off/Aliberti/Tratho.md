@@ -19,6 +19,7 @@ Dependentes:
 
 ```sql
 
+
 CREATE TRIGGER SANKHYA.TRG_IU_TFPREQDPD_TRA
 ON SANKHYA.TFPREQDPD
 AFTER INSERT, UPDATE
@@ -67,7 +68,7 @@ BEGIN
     BEGIN
         -- agrega dados do funcionário e e-mails do RH (ou líder, se a lógica for mantida)
         SELECT
-            @V_EMAILS    = STRING_AGG(TRIM(USU.EMAIL), ",") 
+            @V_EMAILS    = STRING_AGG(TRIM(USU.EMAIL), ',') 
                            WITHIN GROUP (ORDER BY USU.EMAIL)
         FROM SANKHYA.TFPLIDER AS LID
         INNER JOIN SANKHYA.TFPFUN  AS LIR
@@ -109,7 +110,7 @@ BEGIN
         SET @V_DATE = GETDATE();
 
         -- dispara e-mail
-        EXEC sankhya.Stp_Gravafilabi_TRA @V_ASSUNTO, NULL, @V_DATE, 'Pendente', @V_CODCON, 20, @V_HTML, 'E', 3, @V_EMAILS, @V_CODSMTP, 'text/html';
+        EXEC sankhya.Stp_Gravafilabi_TRA @V_ASSUNTO, NULL, @V_DATE, 'Pendente', @V_CODCON, 20, @V_HTML, 'E', 3, 'Leandro@aliberti.com.br', @V_CODSMTP, 'text/html';
 
         FETCH NEXT FROM cur INTO @V_NUREQ, @V_CODFUNC, @V_CODEMP, @V_NOMEDEP, @V_PARENTESCO, @V_NOMEFUNC;
     END
@@ -117,6 +118,7 @@ BEGIN
     CLOSE cur;
     DEALLOCATE cur;
 END
+
 
 
 ```

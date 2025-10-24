@@ -17,8 +17,8 @@ senha: Gte7*23De2
 ---
 
 - [x] inverter campos da alteração de salario: cargo e salario
-- [ ] colocar colaborador(a) nos emails!
-- [ ] colocar o email do rh da preferencia nas triggers!
+- [x] colocar colaborador(a) nos emails!
+- [x] colocar o email do rh da preferencia nas triggers!
 
 ----------------------------------------------------------
 

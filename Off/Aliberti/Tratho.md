@@ -20,6 +20,7 @@ senha: Gte7*23De2
 - [x] colocar colaborador(a) nos emails!
 - [x] colocar o email do rh da preferencia nas triggers!
 - [ ] verificar se é pra eu mexer na TRG_IU_TFPSFE_TRA
+- [ ] TFPFUN.DTSAIDA IS NULL → nao achei!
 
 STP_AGE_ENVIA_LAUDO_ART
 

@@ -21,6 +21,7 @@ senha: Gte7*23De2
 - [x] colocar o email do rh da preferencia nas triggers!
 - [ ] verificar se é pra eu mexer na TRG_IU_TFPSFE_TRA
 - [ ] TFPFUN.DTSAIDA IS NULL → nao achei!
+- [ ] fazer exemplos de vencimetno de ferias e de   experiencia? temos?
 
 STP_AGE_ENVIA_LAUDO_ART
 

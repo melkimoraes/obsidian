@@ -22,6 +22,7 @@ senha: Gte7*23De2
 - [ ] verificar se é pra eu mexer na TRG_IU_TFPSFE_TRA
 - [x] TFPFUN.DTSAIDA IS NULL → nao achei!
 - [x] fazer exemplos de vencimetno de ferias e de   experiencia? temos?
+- [ ] TESTAR ALGUNS FUNCIONARIOS E SUBIR A STP_AVIFERVENC_TRA
 
 STP_AGE_ENVIA_LAUDO_ART
 

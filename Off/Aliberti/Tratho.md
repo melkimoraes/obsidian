@@ -19,6 +19,9 @@ senha: Gte7*23De2
 - [x] inverter campos da alteração de salario: cargo e salario
 - [x] colocar colaborador(a) nos emails!
 - [x] colocar o email do rh da preferencia nas triggers!
+- [ ] verificar se é pra eu mexer na TRG_IU_TFPSFE_TRA
+
+STP_AGE_ENVIA_LAUDO_ART
 
 ----------------------------------------------------------
 

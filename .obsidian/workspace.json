@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,8 +231,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec1dfb15c6927881",
+  "active": "dbaa2e5ad65a2d73",
   "lastOpenFiles": [
+    "Artivinco/IMGJ.md",
     "Artivinco/TO DO ART.md",
     "Off/Aliberti/Tratho.md",
     "tips.md",
@@ -240,7 +241,6 @@
     "Off/Aliberti/Protec.md",
     "Artivinco/Analise de Giro - CURVA ABC.md",
     "Artivinco/Almox.md",
-    "Artivinco/IMGJ.md",
     "Artivinco/Configs-Acessos.md",
     "Estudos/Kotlin/Roadmap.md",
     "Estudos/Kotlin/KMP.md",

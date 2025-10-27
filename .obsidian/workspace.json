@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,11 +231,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbaa2e5ad65a2d73",
+  "active": "ec1dfb15c6927881",
   "lastOpenFiles": [
+    "Off/Aliberti/Tratho.md",
     "Artivinco/IMGJ.md",
     "Artivinco/TO DO ART.md",
-    "Off/Aliberti/Tratho.md",
     "tips.md",
     "Artivinco/PRE-CALCULO ROULET.md",
     "Off/Aliberti/Protec.md",

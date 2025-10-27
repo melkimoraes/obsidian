@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Off/Aliberti/Tratho.md",
+                "file": "Artivinco/TO DO ART.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tratho"
+              "title": "TO DO ART"
             }
           }
         ]
@@ -202,11 +202,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4a9a3009ed0b49f4",
+  "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
+    "Off/Aliberti/Tratho.md",
     "tips.md",
     "Artivinco/TO DO ART.md",
-    "Off/Aliberti/Tratho.md",
     "Artivinco/PRE-CALCULO ROULET.md",
     "Off/Aliberti/Protec.md",
     "Artivinco/Analise de Giro - CURVA ABC.md",

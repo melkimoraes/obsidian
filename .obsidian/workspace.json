@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/Analise de Giro - CURVA ABC.md",
+                "file": "Off/Solar Volt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analise de Giro - CURVA ABC"
+              "title": "Solar Volt"
             }
           }
         ]
@@ -204,6 +204,7 @@
   },
   "active": "b225c4cbcdab196e",
   "lastOpenFiles": [
+    "Artivinco/Analise de Giro - CURVA ABC.md",
     "Artivinco/IMGJ.md",
     "Off/Solar Volt.md",
     "Off/Aliberti/Tratho.md",
@@ -211,7 +212,6 @@
     "tips.md",
     "Artivinco/PRE-CALCULO ROULET.md",
     "Off/Aliberti/Protec.md",
-    "Artivinco/Analise de Giro - CURVA ABC.md",
     "Artivinco/Almox.md",
     "Artivinco/Configs-Acessos.md",
     "Estudos/Kotlin/Roadmap.md",

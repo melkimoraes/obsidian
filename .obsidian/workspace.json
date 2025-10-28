@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a9655934f39540f3",
+        "id": "02a09cf29646eb66",
         "type": "tabs",
         "children": [
           {
-            "id": "b225c4cbcdab196e",
+            "id": "f150c95d07f3cdb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Off/Solar Volt.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Solar Volt"
+              "title": "Nova aba"
             }
           }
         ]
@@ -202,11 +198,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b225c4cbcdab196e",
+  "active": "f150c95d07f3cdb4",
   "lastOpenFiles": [
+    "Off/Solar Volt.md",
     "Artivinco/Analise de Giro - CURVA ABC.md",
     "Artivinco/IMGJ.md",
-    "Off/Solar Volt.md",
     "Off/Aliberti/Tratho.md",
     "Artivinco/TO DO ART.md",
     "tips.md",

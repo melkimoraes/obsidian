@@ -11,10 +11,14 @@
             "id": "f150c95d07f3cdb4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Artivinco/Analise de Giro - CURVA ABC.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Analise de Giro - CURVA ABC"
             }
           }
         ]
@@ -198,14 +202,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f150c95d07f3cdb4",
+  "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
+    "tips.md",
     "Off/Solar Volt.md",
     "Artivinco/Analise de Giro - CURVA ABC.md",
     "Artivinco/IMGJ.md",
     "Off/Aliberti/Tratho.md",
     "Artivinco/TO DO ART.md",
-    "tips.md",
     "Artivinco/PRE-CALCULO ROULET.md",
     "Off/Aliberti/Protec.md",
     "Artivinco/Almox.md",

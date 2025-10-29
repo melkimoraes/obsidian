@@ -18,6 +18,10 @@ Gerar pedido de venda/nota de venda → aqui vai inserir os itens com base no EA
 
 ---
 
+
+
+---
+
 Botão de ação na composição → vai criar outra composição do mesmo produto porem por numeração do sapato! 3,33% pra cada numeração. Só vai fazer esse calculo em cima da atividade de CORTE.
 pra cima é 3,33% pra cima
 pra menos é 3,33% pra menos

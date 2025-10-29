@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Off/Aliberti/Macboot.md",
+                "file": "Artivinco/Analise de Giro - CURVA ABC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Macboot"
+              "title": "Analise de Giro - CURVA ABC"
             }
           }
         ]
@@ -202,8 +202,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca92e0c9a0b7d3d4",
+  "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
+    "Off/Aliberti/Macboot.md",
     "Off/Aliberti/Tratho.md",
     "Artivinco/Analise de Giro - CURVA ABC.md",
     "tips.md",
@@ -218,7 +219,6 @@
     "Estudos/Kotlin/KMP.md",
     "Estudos/Kotlin/Basico (Tipos, functions, lambdas) - 1.md",
     "Excalidraw/Drawing 2025-10-13 11.24.22.excalidraw.md",
-    "Off/Aliberti/Macboot.md",
     "Off/Aliberti/BR Digital.md",
     "GM/⭐.md",
     "Off/BetoSport.md",

@@ -22,7 +22,7 @@ Gerar pedido de venda/nota de venda → aqui vai inserir os itens com base no EA
 - [ ] Precisa puxar o preço do produto automático → ?
 - [x] Desconto pode ser até 5%, passando disso, a diferença abate da comissão.
 - [ ] Verificar a impressão do pedido→ ?
-- [ ] Tipo de negociação padrão pra cada cliente ( Criar tabelinha de tipo de negociação no cadastro do parceiro)
+- [x] Tipo de negociação padrão pra cada cliente ( Criar tabelinha de tipo de negociação no cadastro do parceiro)
 	 
 ---
 

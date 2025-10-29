@@ -18,13 +18,12 @@ Gerar pedido de venda/nota de venda → aqui vai inserir os itens com base no EA
 
 ---
 
-- [ ] Verificar a possibilidade de trazer somente os números cadastrados 
-- [x] Não ta gravando o vendedor
+- [x] Verificar a possibilidade de trazer somente os números cadastrados 
 - [ ] Precisa puxar o preço do produto automático → ?
 - [ ] Desconto pode ser até 5%, passando disso, a diferença abate da comissão.
 - [ ] Verificar a impressão do pedido→ ?
 - [ ] Tipo de negociação padrão pra cada cliente ( Criar tabelinha de tipo de negociação no cadastro do parceiro)
-
+	 
 ---
 
 Botão de ação na composição → vai criar outra composição do mesmo produto porem por numeração do sapato! 3,33% pra cada numeração. Só vai fazer esse calculo em cima da atividade de CORTE.

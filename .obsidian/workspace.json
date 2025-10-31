@@ -35,8 +35,7 @@
               "title": "Tratho"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,10 +216,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35b13c50e4a4cb29",
+  "active": "b81ce08c61faaa84",
   "lastOpenFiles": [
-    "Artivinco/Configs-Acessos.md",
     "Off/Aliberti/Tratho.md",
+    "Artivinco/Configs-Acessos.md",
     "tips.md",
     "Artivinco/Analise de Giro - CURVA ABC.md",
     "Off/Aliberti/Macboot.md",

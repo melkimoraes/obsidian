@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/Configs-Acessos.md",
+                "file": "Off/BetoSport.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configs-Acessos"
+              "title": "BetoSport"
             }
           }
         ]
@@ -204,8 +204,9 @@
   },
   "active": "b81ce08c61faaa84",
   "lastOpenFiles": [
-    "tips.md",
+    "Off/BP.md",
     "Artivinco/Configs-Acessos.md",
+    "tips.md",
     "Artivinco/Enviar XML-DANFE.md",
     "Off/Solar Volt.md",
     "Off/Aliberti/Tratho.md",
@@ -231,7 +232,6 @@
     "Off/GB Musical",
     "Off/Sem título.md",
     "GM/Bioclean/Flow/Flow.md",
-    "Diario/03-12-2024.md",
     "Excalidraw",
     "Sem título",
     "Off",

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ea59afcd0c8e9f56",
+        "id": "c9fc15d9b98fbb59",
         "type": "tabs",
         "children": [
           {
-            "id": "a9a86239ffb2edbb",
+            "id": "647516ff2c3bd1a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artivinco/Configs-Acessos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Configs-Acessos"
+              "title": "Nova aba"
             }
           }
         ]
@@ -202,11 +198,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9a86239ffb2edbb",
+  "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
+    "Artivinco/Configs-Acessos.md",
     "Off/BetoSport.md",
     "tips.md",
-    "Artivinco/Configs-Acessos.md",
     "Artivinco/IMGJ.md",
     "Off/BP.md",
     "Artivinco/Enviar XML-DANFE.md",

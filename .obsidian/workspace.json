@@ -11,10 +11,14 @@
             "id": "5d707162ddf3d4b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Artivinco/Configs-Acessos.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Configs-Acessos"
             }
           }
         ]
@@ -198,7 +202,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdbd9ae6bf2082f0",
+  "active": "5d707162ddf3d4b4",
   "lastOpenFiles": [
     "Artivinco/IMGJ.md",
     "Off/BetoSport.md",

@@ -18,6 +18,10 @@ Gerar pedido de venda/nota de venda → aqui vai inserir os itens com base no EA
 
 ---
 
+
+
+---
+
 - [x] Verificar a possibilidade de trazer somente os números cadastrados 
 - [ ] Precisa puxar o preço do produto automático → ?
 - [x] Desconto pode ser até 5%, passando disso, a diferença abate da comissão.

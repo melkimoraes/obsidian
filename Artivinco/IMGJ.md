@@ -40,6 +40,12 @@ Acesso externo: http://177.85.34.36:34480/mge/
 
 User: sup
 
+----
+
+Evidencias IMGJ
+- [ ] não inseriu a ação DELETE na synccad de um pedido
+- [ ] porque tenta inserir o pedido quando tem a acao de DELETE? (sempre vai dar erro já que o pedido foi deletado na IEM)
+
 ---
 
 

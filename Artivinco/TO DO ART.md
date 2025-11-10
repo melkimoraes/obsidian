@@ -58,6 +58,13 @@
 	- [ ] FC_DTFAB_ETQ_ART
 	- [ ] e o ireport ETIQUETA PALETE
 
+----
+
+- [ ] 1 - VER SE AS ESCALAS DE APARAS ATUALMENTE ESTAO COM PESO DE NOTA ERRADO
+
+
+---
+
 
 ## Important 🛑
 

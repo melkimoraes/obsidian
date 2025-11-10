@@ -18,7 +18,13 @@ Gerar pedido de venda/nota de venda → aqui vai inserir os itens com base no EA
 
 ---
 
+8329 -> FICHA TECNICO PRODUTO
 
+25 -> FICHA DE PREPARACAO DO FORRO
+
+25 -> CORTE DE COURO
+
+6 -> FICHA PRODUCAO
 
 ---
 

@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "Configs-Acessos"
             }
-          },
-          {
-            "id": "fe11af23462f7dea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Off/Vortx.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vortx"
-            }
-          },
-          {
-            "id": "3b17ab99a4ea5445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Off/Aliberti/Macboot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Macboot"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,10 +202,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe11af23462f7dea",
+  "active": "5d707162ddf3d4b4",
   "lastOpenFiles": [
-    "Artivinco/Configs-Acessos.md",
     "Off/Vortx.md",
+    "Artivinco/Configs-Acessos.md",
     "Artivinco/TO DO ART.md",
     "tips.md",
     "Off/Aliberti/Macboot.md",
@@ -260,7 +231,6 @@
     "GM/Bioclean/Flow/Flow.excalidraw",
     "Off/GB Musical/Drawing 2025-09-22 22.28.03.excalidraw.md",
     "Off/GB Musical",
-    "Off/Vortx.md",
     "Excalidraw",
     "Sem título",
     "Off",

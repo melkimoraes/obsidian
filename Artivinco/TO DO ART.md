@@ -54,13 +54,13 @@
 - [x] ANALISE DE GIRO
 - [x] ERRO NA HORA DE FINALIZAR REQ
 - [x] chep → em SRV talvez o parceiro que vai baixar é do FIFO pq lá a nota entra como ITA
-- [ ] Data Fabricação etiquetas:
-	- [ ] FC_DTFAB_ETQ_ART
-	- [ ] e o ireport ETIQUETA PALETE
+- [x] Data Fabricação etiquetas:
+	- [x] FC_DTFAB_ETQ_ART
+	- [x] e o ireport ETIQUETA PALETE
 
 ----
 
-- [ ] 1 - VER SE AS ESCALAS DE APARAS ATUALMENTE ESTAO COM PESO DE NOTA ERRADO
+- [x] 1 - VER SE AS ESCALAS DE APARAS ATUALMENTE ESTAO COM PESO DE NOTA ERRADO
 
 
 ---

@@ -63,6 +63,11 @@
 - [x] 1 - VER SE AS ESCALAS DE APARAS ATUALMENTE ESTAO COM PESO DE NOTA ERRADO
 
 
+não pode colocar OC de caixa/chapa(tipo da ordem de carga) no tipo de visita <> 6.
+
+no tipo de visita -> não aceita ordem de carga de caixa/chapa.
+
+
 ---
 
 

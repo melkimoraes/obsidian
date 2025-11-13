@@ -49,8 +49,7 @@
               "title": "TO DO ART"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,10 +230,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c5f849eef7c50131",
+  "active": "9925a89281a3ff7b",
   "lastOpenFiles": [
-    "Artivinco/IMGJ.md",
     "Artivinco/TO DO ART.md",
+    "Artivinco/IMGJ.md",
     "Artivinco/Configs-Acessos.md",
     "GM/⭐.md",
     "Off/Aliberti/Macboot.md",

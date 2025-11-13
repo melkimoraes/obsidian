@@ -18,14 +18,6 @@ Gerar pedido de venda/nota de venda → aqui vai inserir os itens com base no EA
 
 ---
 
-8329 -> FICHA TECNICO PRODUTO → OK
-
-25 -> FICHA DE PREPARACAO DO FORRO → O FILTRO DO IREPORT É SÓ PRA PEGAR O CÓDIGO 7 DO CAMPO COMPONENTE DE PRODUCAO DO IDEFX = 227, TIRAR O FILTRO DO COMPONENTE DE PRODUCAO?
-
-25 -> CORTE DE COURO → MESMA COISA DA PREPARACAO DO FORRO IDEFX = 227 COMPONETEN CODIGO 1
-
----
-
 - [x] Verificar a possibilidade de trazer somente os números cadastrados 
 - [ ] Precisa puxar o preço do produto automático → ?
 - [x] Desconto pode ser até 5%, passando disso, a diferença abate da comissão.

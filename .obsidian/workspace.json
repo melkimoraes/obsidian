@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,10 +245,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdbd9ae6bf2082f0",
+  "active": "dfdf292933b6a027",
   "lastOpenFiles": [
-    "Artivinco/Configs-Acessos.md",
     "Artivinco/Sem título.md",
+    "Artivinco/Configs-Acessos.md",
     "Artivinco/IMGJ.md",
     "Artivinco/TO DO ART.md",
     "Off/Aliberti/Macboot.md",

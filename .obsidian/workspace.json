@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "5bd857696d44b30d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artivinco/Sem título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sem título"
+            }
+          },
+          {
             "id": "3668a9c16d6581aa",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,10 +245,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfdf292933b6a027",
+  "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
-    "Artivinco/IMGJ.md",
     "Artivinco/Configs-Acessos.md",
+    "Artivinco/Sem título.md",
+    "Artivinco/IMGJ.md",
     "Artivinco/TO DO ART.md",
     "Off/Aliberti/Macboot.md",
     "GM/⭐.md",

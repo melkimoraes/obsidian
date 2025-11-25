@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "045750acb253d3fa",
+        "id": "96735f5203c98a85",
         "type": "tabs",
         "children": [
           {
-            "id": "aae1b4efa4325cf3",
+            "id": "802a3057d78dd9f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Off/Vortx.md",
+                "file": "Artivinco/Configs-Acessos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vortx"
+              "title": "Configs-Acessos"
             }
           }
         ]
@@ -202,8 +202,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aae1b4efa4325cf3",
+  "active": "802a3057d78dd9f9",
   "lastOpenFiles": [
+    "Off/Vortx.md",
     "Off/Aliberti/Luitex.md",
     "Artivinco/Configs-Acessos.md",
     "tips.md",
@@ -218,7 +219,6 @@
     "Artivinco/IMGJ.md",
     "Artivinco/Sem título.md",
     "Off/Aliberti/Macboot.md",
-    "Off/Vortx.md",
     "Off/BetoSport.md",
     "Off/BP.md",
     "Artivinco/Enviar XML-DANFE.md",

@@ -6,3 +6,5 @@ inserir as linhas com impostos retidos, nao precisa abater do financeiro.
 
 buscaFinanceiroLiquidacao
 buscaFinanceiroLiquidacaoContratos
+
+TGFIMN

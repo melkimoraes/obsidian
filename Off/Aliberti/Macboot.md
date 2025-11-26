@@ -27,6 +27,7 @@ Gerar pedido de venda/nota de venda → aqui vai inserir os itens com base no EA
 ---
 
 - [ ] ver o evento da AD_TGFITENUM e criar dnv na macboot!
+- [ ] ver campos calculados da AD_TGFITE
 
 
 ---

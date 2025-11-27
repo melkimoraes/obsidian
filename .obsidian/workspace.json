@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "96735f5203c98a85",
+        "id": "cdffe9948f36a494",
         "type": "tabs",
         "children": [
           {
-            "id": "802a3057d78dd9f9",
+            "id": "333f27d6473e4975",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/Configs-Acessos.md",
+                "file": "Off/Aliberti/Macboot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configs-Acessos"
-            }
-          },
-          {
-            "id": "f897f52f82724d29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artivinco/TO DO ART.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TO DO ART"
-            }
-          },
-          {
-            "id": "a166e0d5a751c219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artivinco/IMGJ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IMGJ"
+              "title": "Macboot"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,10 +202,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4285aedc4a8dcf9",
+  "active": "333f27d6473e4975",
   "lastOpenFiles": [
-    "Artivinco/IMGJ.md",
     "tips.md",
+    "Artivinco/IMGJ.md",
     "Artivinco/TO DO ART.md",
     "Artivinco/Configs-Acessos.md",
     "Off/Aliberti/Macboot.md",

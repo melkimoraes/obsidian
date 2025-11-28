@@ -58,6 +58,12 @@
 	- [x] FC_DTFAB_ETQ_ART
 	- [x] e o ireport ETIQUETA PALETE
 
+Pra caixa:
+Peso Bruto Real -> Peso Líquido da Ducker (Balança)
+ + Peso Palete + Peso Tampo (só  se tiver o Peso Líquido da Ducker (Balança))
+Peso Palete -> preencher
+Peso Tampo -> preencher
+
 ---
 targino
 - [ ] VER PRODUTO QUE NAO CONSEGUIMOS REVITALIZAR

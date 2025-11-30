@@ -35,8 +35,7 @@
               "title": "Macboot"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,12 +216,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c473dce49308583f",
+  "active": "1525f2860eddc900",
   "lastOpenFiles": [
+    "Off/Aliberti/Macboot.md",
     "tips.md",
     "Artivinco/TO DO ART.md",
     "Off/Aliberti/Luitex.md",
-    "Off/Aliberti/Macboot.md",
     "Artivinco/IMGJ.md",
     "Artivinco/Configs-Acessos.md",
     "Off/Vortx.md",

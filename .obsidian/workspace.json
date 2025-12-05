@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "TO DO ART"
             }
-          },
-          {
-            "id": "abe28c50e67eb85e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artivinco/Configs-Acessos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Configs-Acessos"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,10 +202,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "abe28c50e67eb85e",
+  "active": "b31fdfc9977547ce",
   "lastOpenFiles": [
-    "tips.md",
     "Artivinco/Configs-Acessos.md",
+    "tips.md",
     "Artivinco/TO DO ART.md",
     "Off/Aliberti/Luitex.md",
     "Artivinco/IMGJ.md",

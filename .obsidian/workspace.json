@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e420f52004bba5cf",
+        "id": "4d156969bd5bddc3",
         "type": "tabs",
         "children": [
           {
-            "id": "55a27857b0323277",
+            "id": "f85a0a5e6930f27f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Off/Aliberti/Luitex.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Luitex"
+              "title": "Nova aba"
             }
           }
         ]
@@ -202,14 +198,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55a27857b0323277",
+  "active": "f85a0a5e6930f27f",
   "lastOpenFiles": [
-    "Off/Aliberti/FLX.md",
-    "Artivinco/TO DO ART.md",
-    "tips.md",
+    "Artivinco/Almox.md",
+    "Artivinco/Analise de Giro - CURVA ABC.md",
+    "Artivinco/coleta.md",
     "Artivinco/Configs-Acessos.md",
-    "Off/Aliberti/Luitex.md",
     "Artivinco/IMGJ.md",
+    "Artivinco/Integrações.md",
+    "Artivinco/Laudo.md",
+    "Artivinco/PRE-CALCULO ROULET.md",
+    "Artivinco/TO DO ART.md",
+    "Artivinco/Sem título.md",
+    "Off/Aliberti/Luitex.md",
+    "Off/Aliberti/FLX.md",
+    "tips.md",
     "Off/Aliberti/Macboot.md",
     "Off/Aliberti/BR Digital.md",
     "Off/Vortx.md",
@@ -220,20 +223,13 @@
     "Estudos/Investimentos/Pasted image 20251117115307.png",
     "Estudos/Investimentos",
     "Notepad/tips.md",
-    "Artivinco/Sem título.md",
     "Off/BetoSport.md",
     "Off/BP.md",
     "Artivinco/Enviar XML-DANFE.md",
     "Off/Solar Volt.md",
     "Off/Aliberti/Tratho.md",
-    "Artivinco/Analise de Giro - CURVA ABC.md",
-    "Artivinco/PRE-CALCULO ROULET.md",
     "Off/Aliberti/Protec.md",
-    "Artivinco/Almox.md",
     "Estudos/Kotlin/Roadmap.md",
-    "Estudos/Kotlin/KMP.md",
-    "Estudos/Kotlin/Basico (Tipos, functions, lambdas) - 1.md",
-    "Excalidraw/Drawing 2025-10-13 11.24.22.excalidraw.md",
     "GM/Bioclean/Flow/Flow.excalidraw",
     "Off/GB Musical",
     "Excalidraw",

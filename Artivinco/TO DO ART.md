@@ -66,9 +66,16 @@ Peso Tampo -> preencher
 
 ---
 targino
-- [ ] VER PRODUTO QUE NAO CONSEGUIMOS REVITALIZAR
-- [ ] PROBLEMA NA ZIRA → PEDIDO DE VENDA E PREFAT NAO INDO MESMO PRODUTO DO PALETE
-- [ ] VER SE VAI VALIDAR COTA MAQUINA NO FRONERI!
+- [x] VER PRODUTO QUE NAO CONSEGUIMOS REVITALIZAR
+- [x] PROBLEMA NA ZIRA → PEDIDO DE VENDA E PREFAT NAO INDO MESMO PRODUTO DO PALETE
+- [x] VER SE VAI VALIDAR COTA MAQUINA NO FRONERI!
+
+encontra os apontamentos avista na tela de conversão
+exclui os apontamentos avista na op antiga
+cancela a op antiga
+ação agendada vai criar ops novas revitalizadas
+troca o idiproc na tela de conversão e aponta manual
+e vai na tela da ducker e manda apontar manual
 
 ----
 

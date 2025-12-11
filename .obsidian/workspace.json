@@ -49,7 +49,8 @@
               "title": "TO DO ART"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,8 +231,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "810fa7cd594e507b",
+  "active": "b79fc290f2477136",
   "lastOpenFiles": [
+    "Off/Vortx.md",
     "tips.md",
     "Artivinco/Configs-Acessos.md",
     "Artivinco/TO DO ART.md",
@@ -247,7 +249,6 @@
     "Off/Aliberti/FLX.md",
     "Off/Aliberti/Macboot.md",
     "Off/Aliberti/BR Digital.md",
-    "Off/Vortx.md",
     "GM/⭐.md",
     "Estudos/Investimentos/Aposentadoria.md",
     "Estudos/Investimentos/Pasted image 20251117134349.png",

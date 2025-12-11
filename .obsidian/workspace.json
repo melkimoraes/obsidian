@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/Configs-Acessos.md",
+                "file": "Off/Vortx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configs-Acessos"
+              "title": "Vortx"
             }
           },
           {
@@ -230,10 +230,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4285aedc4a8dcf9",
+  "active": "810fa7cd594e507b",
   "lastOpenFiles": [
-    "Artivinco/Configs-Acessos.md",
     "tips.md",
+    "Artivinco/Configs-Acessos.md",
     "Artivinco/TO DO ART.md",
     "Artivinco/IMGJ.md",
     "Artivinco/Almox.md",

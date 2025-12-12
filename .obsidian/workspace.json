@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bd47d85cd8e9a56d",
+        "id": "dd8a02c0fcf2c8a1",
         "type": "tabs",
         "children": [
           {
-            "id": "810fa7cd594e507b",
+            "id": "579c3919c2ec6948",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Off/Vortx.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Vortx"
-            }
-          },
-          {
-            "id": "b017991a9660ed8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artivinco/IMGJ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IMGJ"
-            }
-          },
-          {
-            "id": "b79fc290f2477136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artivinco/Configs-Acessos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Configs-Acessos"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,13 +198,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4285aedc4a8dcf9",
+  "active": "579c3919c2ec6948",
   "lastOpenFiles": [
     "Artivinco/Configs-Acessos.md",
+    "Artivinco/IMGJ.md",
+    "Off/Vortx.md",
     "tips.md",
     "Artivinco/TO DO ART.md",
-    "Off/Vortx.md",
-    "Artivinco/IMGJ.md",
     "Artivinco/Almox.md",
     "Artivinco/Analise de Giro - CURVA ABC.md",
     "Artivinco/coleta.md",

@@ -35,8 +35,7 @@
               "title": "Luitex"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,8 +216,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdbd9ae6bf2082f0",
+  "active": "579c3919c2ec6948",
   "lastOpenFiles": [
+    "Off/Aliberti/Luitex.md",
     "Off/Aliberti/FLX.md",
     "Artivinco/Configs-Acessos.md",
     "Artivinco/TO DO ART.md",
@@ -232,7 +232,6 @@
     "Artivinco/Laudo.md",
     "Artivinco/PRE-CALCULO ROULET.md",
     "Artivinco/Sem título.md",
-    "Off/Aliberti/Luitex.md",
     "Off/Aliberti/Macboot.md",
     "Off/Aliberti/BR Digital.md",
     "GM/⭐.md",

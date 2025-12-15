@@ -15,6 +15,14 @@ eventos?
 
 falta e atraso =soma as horas minutos segundos no caso 1 hora e 8 1,08
 
+sequencia = 0
+tipevento = desconto -1, provento = 1 (colocar no de/para)
+vlrmov = null
+indice = é a soma de horas 1.08 / soma dos dias
+unidade = qtd (d ou h) de/para
+tipmov = M
+dtalter = sysdate
+
 ---
 
 - [ ] login na RHID é por usuario ou posso criar preferecia global?

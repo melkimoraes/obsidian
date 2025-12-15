@@ -35,7 +35,8 @@
               "title": "Luitex"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,12 +217,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "579c3919c2ec6948",
+  "active": "eb5d2b243a0c9170",
   "lastOpenFiles": [
+    "Artivinco/TO DO ART.md",
     "Off/Aliberti/Luitex.md",
     "Off/Aliberti/FLX.md",
     "Artivinco/Configs-Acessos.md",
-    "Artivinco/TO DO ART.md",
     "Artivinco/IMGJ.md",
     "Off/Vortx.md",
     "tips.md",

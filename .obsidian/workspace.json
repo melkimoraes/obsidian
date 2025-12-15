@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Off/Aliberti/Luitex.md",
+                "file": "Off/Aliberti/FLX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luitex"
+              "title": "FLX"
             }
           }
         ],
@@ -217,10 +217,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb5d2b243a0c9170",
+  "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
-    "tips.md",
     "Off/Aliberti/Luitex.md",
+    "tips.md",
     "Artivinco/TO DO ART.md",
     "Off/Aliberti/FLX.md",
     "Artivinco/Configs-Acessos.md",

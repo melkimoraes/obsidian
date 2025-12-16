@@ -27,4 +27,4 @@ se tiver falta (dia) nao somar horas e atraso
 
 ---
 
-- [ ] login na RHID é por usuario ou posso criar preferecia global?
+- [x] login na RHID é por usuario ou posso criar preferecia global?

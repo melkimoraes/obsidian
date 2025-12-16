@@ -15,7 +15,7 @@ AD_INTRHIDEVE
 descricao coluna excel
 evento → TFPEVE
 tipevento → desconto/provente?
-unidade - dia ou hora
+unidade - dia ou hora → unidade na TFPEVE
 
 eventos?
 

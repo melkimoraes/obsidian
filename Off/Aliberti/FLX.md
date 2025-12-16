@@ -23,6 +23,8 @@ unidade = qtd (d ou h) de/para
 tipmov = M
 dtalter = sysdate
 
+se tiver falta (dia) nao somar horas e atraso
+
 ---
 
 - [ ] login na RHID é por usuario ou posso criar preferecia global?

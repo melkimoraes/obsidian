@@ -11,6 +11,12 @@ eles fecham do dia 25 ao 26.
 
 a referencia na TGFMOV é TRUNC, MM da DATAFIM!
 
+AD_INTRHIDEVE
+descricao coluna excel
+evento → TFPEVE
+tipevento → desconto/provente?
+unidade - dia ou hora
+
 eventos?
 
 falta e atraso =soma as horas minutos segundos no caso 1 hora e 8 1,08

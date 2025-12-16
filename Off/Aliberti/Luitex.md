@@ -27,6 +27,3 @@ AND CAB.TIPMOV='C'
 ORDER BY CAB.DTENTSAI DESC
 
 ---
-
-- [ ] tipo RNC inserido somente na tela RNC → validar relatorios com essa alteração
-- [ ] importar todas as tabelas depois por precaução e a TIPRNC

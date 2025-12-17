@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -245,12 +245,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4285aedc4a8dcf9",
+  "active": "fc9a079ec342fbfe",
   "lastOpenFiles": [
+    "tips.md",
     "Off/Aliberti/FLX.md",
     "Artivinco/IMGJ.md",
     "Artivinco/TO DO ART.md",
-    "tips.md",
     "Artivinco/Configs-Acessos.md",
     "Off/Aliberti/Luitex.md",
     "Off/Vortx.md",

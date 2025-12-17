@@ -34,3 +34,5 @@ se tiver falta (dia) nao somar horas e atraso
 ---
 
 - [x] login na RHID é por usuario ou posso criar preferecia global?
+- [ ] tirar mensagem de CSV dos retornos
+- [ ] colocar filtro lateral na tela 

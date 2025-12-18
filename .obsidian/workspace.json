@@ -39,14 +39,12 @@
             "id": "fc9a079ec342fbfe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Artivinco/IMGJ.md",
-                "mode": "source",
-                "source": false
+                "file": "GM/Bioclean/Flow/Flow.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "IMGJ"
+              "icon": "excalidraw-icon",
+              "title": "Flow"
             }
           },
           {
@@ -247,8 +245,9 @@
   },
   "active": "fc9a079ec342fbfe",
   "lastOpenFiles": [
-    "tips.md",
+    "GM/Bioclean/Flow/Flow.md",
     "Artivinco/IMGJ.md",
+    "tips.md",
     "Off/Aliberti/FLX.md",
     "Artivinco/TO DO ART.md",
     "Artivinco/Configs-Acessos.md",
@@ -276,7 +275,6 @@
     "Off/Solar Volt.md",
     "Off/Aliberti/Tratho.md",
     "Off/Aliberti/Protec.md",
-    "Estudos/Kotlin/Roadmap.md",
     "GM/Bioclean/Flow/Flow.excalidraw",
     "Off/GB Musical",
     "Excalidraw",

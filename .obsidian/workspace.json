@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "fc9a079ec342fbfe",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "GM/Bioclean/Flow/Flow.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Flow"
-            }
-          },
-          {
             "id": "1fd5e91e4dfd1444",
             "type": "leaf",
             "state": {
@@ -243,8 +231,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc9a079ec342fbfe",
+  "active": "1fd5e91e4dfd1444",
   "lastOpenFiles": [
+    "GM/Bioclean/Flow/Flow.excalidraw",
     "GM/Bioclean/Flow/Flow.md",
     "Artivinco/IMGJ.md",
     "tips.md",
@@ -274,8 +263,6 @@
     "Artivinco/Enviar XML-DANFE.md",
     "Off/Solar Volt.md",
     "Off/Aliberti/Tratho.md",
-    "Off/Aliberti/Protec.md",
-    "GM/Bioclean/Flow/Flow.excalidraw",
     "Off/GB Musical",
     "Excalidraw",
     "Sem título",

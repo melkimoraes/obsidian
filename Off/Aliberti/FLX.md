@@ -34,5 +34,23 @@ se tiver falta (dia) nao somar horas e atraso
 ---
 
 - [x] login na RHID é por usuario ou posso criar preferecia global?
-- [ ] tirar mensagem de CSV dos retornos
-- [ ] colocar filtro lateral na tela 
+- [x] tirar mensagem de CSV dos retornos
+- [x] colocar filtro lateral na tela 
+
+
+---
+
+Links de acesso:
+
+● Produção- grupocsx.sankhyacloud.com.br
+● Teste - grupocsx-teste.sankhyacloud.com.br
+● Aplicativos - app.grupocsx.sankhyacloud.com.br
+● E-social - esocial-grupocsx.sankhyacloud.com.br/index.html
+
+Senha do usuário SUP:
+
+● Produção - csx.2025
+● Teste - qG^){:Hd1tJQ496xV7;n
+Senha do WPM
+● Produção - }E1n943h+HT:PrJ/b7d#
+● Teste - *6^;=|55>0~)1P398Vp^

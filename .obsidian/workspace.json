@@ -35,8 +35,7 @@
               "title": "Configs-Acessos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,13 +216,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9f9f216560b54f7",
+  "active": "47bfb7b619c8c5b2",
   "lastOpenFiles": [
+    "Artivinco/Configs-Acessos.md",
     "Off/Aliberti/Mustang.md",
     "tips.md",
     "Off/Vortx.md",
     "Off/Aliberti/FLX.md",
-    "Artivinco/Configs-Acessos.md",
     "Artivinco/TO DO ART.md",
     "GM/Bioclean/Flow/Flow.excalidraw",
     "GM/Bioclean/Flow/Flow.md",

@@ -6,7 +6,7 @@ Campo de data, ser automatico, mas livre para alteração. 🆗
 
 No relatorio de RNC, o campo la lateral superior direita, se refere ao numero da RNC, e tambem ao ANO. Exemplo 21 / 07. 21 é o numero, 07 é o ano. 
 
-A numeração da RCN deve ser contabilizada por ano, ou seja, cada ano muda a numeração (inicia zerada).
+A numeração da RCN deve ser contabilizada por ano, ou seja, cada ano muda a numeração (inicia zerada). 🆗
 
 Os textos do relatório estão cortados.
 

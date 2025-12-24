@@ -27,3 +27,9 @@ E cada registro separado um do outro pela linha pontilhada.
 E cada grupo novo, deve ir para uma nova pagina.
 
 Dentro do grupo, a ordenação dos registros deve ser por numero.
+
+
+---
+
+- [ ] campos lupa <> do diego
+- [ ] eles viram a RAC e a RAP?

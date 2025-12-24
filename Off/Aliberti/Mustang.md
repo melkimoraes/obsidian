@@ -31,5 +31,5 @@ Dentro do grupo, a ordenação dos registros deve ser por numero.
 
 ---
 
-- [ ] campos lupa <> do diego
+- [ ] campos lupa <> do diego → fazer igual do diego
 - [ ] eles viram a RAC e a RAP?

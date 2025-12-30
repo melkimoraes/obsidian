@@ -32,7 +32,7 @@ Dentro do grupo, a ordenação dos registros deve ser por numero.
 ---
 
 - [x] campos lupa <> do diego → fazer igual do diego
-- [ ] espaçamento igual ao escopo dos relatorios
+- [x] espaçamento igual ao escopo dos relatorios
 - [x] numero / ano também na RAC e RAP
 
 

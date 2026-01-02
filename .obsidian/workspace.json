@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Off/Aliberti/Luitex.md",
+                "file": "Off/Aliberti/Protec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luitex"
+              "title": "Protec"
             }
           }
         ]
@@ -204,9 +204,10 @@
   },
   "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
-    "Off/Aliberti/Macboot.md",
-    "tips.md",
     "Off/Aliberti/Mustang.md",
+    "Off/Aliberti/Macboot.md",
+    "Off/Aliberti/Luitex.md",
+    "tips.md",
     "Artivinco/Configs-Acessos.md",
     "Off/Vortx.md",
     "Off/Aliberti/FLX.md",
@@ -214,7 +215,6 @@
     "GM/Bioclean/Flow/Flow.excalidraw",
     "GM/Bioclean/Flow/Flow.md",
     "Artivinco/IMGJ.md",
-    "Off/Aliberti/Luitex.md",
     "Artivinco/Almox.md",
     "Artivinco/Analise de Giro - CURVA ABC.md",
     "Artivinco/coleta.md",

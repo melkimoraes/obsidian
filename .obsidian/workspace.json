@@ -35,7 +35,8 @@
               "title": "Configs-Acessos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,11 +217,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4a781cf33d9bd95d",
+  "active": "c9af288770aeaa4c",
   "lastOpenFiles": [
+    "Artivinco/IMGJ.md",
     "Off/Aliberti/Luitex.md",
     "Artivinco/Configs-Acessos.md",
-    "Artivinco/IMGJ.md",
     "tips.md",
     "Off/Aliberti/Protec.md",
     "Off/Aliberti/Mustang.md",

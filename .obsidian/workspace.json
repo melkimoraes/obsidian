@@ -49,8 +49,7 @@
               "title": "Solar Volt"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,11 +230,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdbd9ae6bf2082f0",
+  "active": "4a781cf33d9bd95d",
   "lastOpenFiles": [
+    "Artivinco/Configs-Acessos.md",
+    "Off/Solar Volt.md",
     "ME.md",
     "tips.md",
-    "Artivinco/Configs-Acessos.md",
     "Artivinco/IMGJ.md",
     "Off/Aliberti/Luitex.md",
     "Off/Aliberti/Protec.md",
@@ -263,7 +263,6 @@
     "Notepad/tips.md",
     "Off/BetoSport.md",
     "Off/BP.md",
-    "Artivinco/Enviar XML-DANFE.md",
     "Off/GB Musical",
     "Excalidraw",
     "Sem título",

@@ -49,8 +49,7 @@
               "title": "IMGJ"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,12 +230,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4285aedc4a8dcf9",
+  "active": "935cc8275efb360e",
   "lastOpenFiles": [
+    "tips.md",
     "Artivinco/IMGJ.md",
     "Artivinco/Configs-Acessos.md",
     "Off/Solar Volt.md",
-    "tips.md",
     "ME.md",
     "Off/Aliberti/Luitex.md",
     "Off/Aliberti/Protec.md",

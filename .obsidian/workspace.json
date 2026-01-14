@@ -49,7 +49,8 @@
               "title": "IMGJ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,10 +231,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "935cc8275efb360e",
+  "active": "ef8f78320e6efa03",
   "lastOpenFiles": [
-    "tips.md",
     "Off/Solar Volt.md",
+    "tips.md",
     "Artivinco/IMGJ.md",
     "Artivinco/Configs-Acessos.md",
     "ME.md",

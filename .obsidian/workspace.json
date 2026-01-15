@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,10 +231,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef8f78320e6efa03",
+  "active": "3731a11febd82846",
   "lastOpenFiles": [
-    "tips.md",
     "Artivinco/Configs-Acessos.md",
+    "tips.md",
     "Off/Solar Volt.md",
     "Artivinco/IMGJ.md",
     "ME.md",

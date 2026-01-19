@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/Configs-Acessos.md",
+                "file": "ME.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configs-Acessos"
+              "title": "ME"
             }
           }
         ]
@@ -204,8 +204,8 @@
   },
   "active": "ef8f78320e6efa03",
   "lastOpenFiles": [
-    "tips.md",
     "Artivinco/Configs-Acessos.md",
+    "tips.md",
     "Artivinco/IMGJ.md",
     "Off/Solar Volt.md",
     "ME.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ME.md",
+                "file": "Artivinco/IMGJ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ME"
+              "title": "IMGJ"
             }
           }
         ]
@@ -202,13 +202,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef8f78320e6efa03",
+  "active": "cdbd9ae6bf2082f0",
   "lastOpenFiles": [
+    "ME.md",
     "Artivinco/Configs-Acessos.md",
     "tips.md",
     "Artivinco/IMGJ.md",
     "Off/Solar Volt.md",
-    "ME.md",
     "Off/Aliberti/Luitex.md",
     "Off/Aliberti/Protec.md",
     "Off/Aliberti/Mustang.md",

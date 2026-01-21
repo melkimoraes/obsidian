@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/IMGJ.md",
+                "file": "Artivinco/FLOW/Cadastro Produto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IMGJ"
+              "title": "Cadastro Produto"
             }
           }
         ],
@@ -219,8 +219,10 @@
   },
   "active": "a45da41f3232c72c",
   "lastOpenFiles": [
-    "Off/Aliberti/Luitex.md",
     "Artivinco/IMGJ.md",
+    "Artivinco/FLOW/Cadastro Produto.md",
+    "Artivinco/FLOW",
+    "Off/Aliberti/Luitex.md",
     "ME.md",
     "Artivinco/Configs-Acessos.md",
     "tips.md",
@@ -249,7 +251,6 @@
     "Estudos/Investimentos",
     "Notepad/tips.md",
     "Off/BetoSport.md",
-    "Off/BP.md",
     "Off/GB Musical",
     "Excalidraw",
     "Sem título",
@@ -259,7 +260,6 @@
     "Estudos/Pasted image 20250115104558.png",
     "Estudos/Pasted image 20250117163703.png",
     "Off/Aliberti/Oriente Farma",
-    "Artivinco",
     "Sem título.canvas",
     "Pasted image 20240819175130.png",
     "Pasted image 20240318154059.png",

@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "IMGJ"
             }
+          },
+          {
+            "id": "751fe1e39f302691",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +215,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdbd9ae6bf2082f0",
+  "active": "751fe1e39f302691",
   "lastOpenFiles": [
     "ME.md",
     "Artivinco/Configs-Acessos.md",

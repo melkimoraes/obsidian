@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/IMGJ.md",
+                "file": "Off/Aliberti/Luitex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IMGJ"
-            }
-          },
-          {
-            "id": "751fe1e39f302691",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.11.5"
+              "title": "Luitex"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,12 +202,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "751fe1e39f302691",
+  "active": "ef8f78320e6efa03",
   "lastOpenFiles": [
+    "Artivinco/IMGJ.md",
     "ME.md",
     "Artivinco/Configs-Acessos.md",
     "tips.md",
-    "Artivinco/IMGJ.md",
     "Off/Solar Volt.md",
     "Off/Aliberti/Luitex.md",
     "Off/Aliberti/Protec.md",

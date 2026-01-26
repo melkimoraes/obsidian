@@ -1,1 +1,6 @@
 Colocar Empresa no dash da KPI
+
+
+CADASTRO DE PNEU
+→ USAR NUMERO DE FOGO
+→ TEM QUE TER CONTROLE ADICIONAL → 

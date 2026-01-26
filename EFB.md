@@ -1,1 +1,1 @@
-preferencia de valor de variacao → 
+preferencia de valor de variacao → é igual da macboot de no apontamento nas operaçoes vai mostrar cada numero ( tudo que for controlado por KG, MT, MT2)

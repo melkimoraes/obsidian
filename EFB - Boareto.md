@@ -5,3 +5,5 @@ Produção → sim vai colcoar o tipo da imrpessao: forro/corte/serviço externo
 
 
 Comentario → tela com a atividade + comentario
+
+posto → código e descrição da atividade (código da descrição mesmo), pq muda as numeracoes

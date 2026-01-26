@@ -1,0 +1,1 @@
+preferencia de valor de variacao → 

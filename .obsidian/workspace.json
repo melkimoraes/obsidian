@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "12adcacab5b6b766",
+        "id": "995bede973021f1a",
         "type": "tabs",
         "children": [
           {
-            "id": "a45da41f3232c72c",
+            "id": "c2950f02cb3f60e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artivinco/FLOW/Cadastro Produto.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cadastro Produto"
-            }
-          },
-          {
-            "id": "c6d1df0cfa92837a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artivinco/Configs-Acessos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Configs-Acessos"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,11 +198,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6d1df0cfa92837a",
+  "active": "c2950f02cb3f60e9",
   "lastOpenFiles": [
-    "tips.md",
-    "Artivinco/Configs-Acessos.md",
     "Artivinco/FLOW/Cadastro Produto.md",
+    "Artivinco/Configs-Acessos.md",
+    "tips.md",
     "Artivinco/IMGJ.md",
     "Artivinco/FLOW",
     "Off/Aliberti/Luitex.md",

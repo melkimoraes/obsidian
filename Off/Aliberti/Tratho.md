@@ -4,7 +4,7 @@ Acessos
 https://sankhyaom1.tratho.com.br/mge/
 
 SUP
-``Tratho$$2025``
+Segmentos##2500
 
 
 FWC

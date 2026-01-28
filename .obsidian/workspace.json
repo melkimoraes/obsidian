@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "98a1a2b0c8bf9f83",
+        "id": "484e0501ba9923c0",
         "type": "tabs",
         "children": [
           {
-            "id": "f7d0330038c0a9ed",
+            "id": "f9602c8644325df6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artivinco/IMGJ.md",
+                "file": "Off/Aliberti/Tratho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IMGJ"
-            }
-          },
-          {
-            "id": "15566cd9afd559db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Off/Aliberti/EFB - Boareto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EFB - Boareto"
+              "title": "Tratho"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,11 +202,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15566cd9afd559db",
+  "active": "f9602c8644325df6",
   "lastOpenFiles": [
-    "tips.md",
-    "Off/Aliberti/EFB - Boareto.md",
     "Artivinco/IMGJ.md",
+    "Off/Aliberti/EFB - Boareto.md",
+    "tips.md",
     "Artivinco/SOP.md",
     "Off/Aliberti/Macboot.md",
     "GM/⭐.md",

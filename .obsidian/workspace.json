@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -259,8 +259,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f73e0268d33dec3",
+  "active": "05b78ebdbccc0252",
   "lastOpenFiles": [
+    "Artivinco/Configs-Acessos.md",
     "Artivinco/COMPRAS.md",
     "ME.md",
     "Off/Aliberti/FLX.md",
@@ -272,7 +273,6 @@
     "Artivinco/IMGJ.md",
     "Artivinco/SOP.md",
     "Artivinco/FLOW/Cadastro Produto.md",
-    "Artivinco/Configs-Acessos.md",
     "Artivinco/FLOW",
     "Off/Aliberti/Luitex.md",
     "Off/Solar Volt.md",

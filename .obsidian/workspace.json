@@ -33,7 +33,8 @@
               "title": "Cadastro_Produto.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,10 +217,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d1980eadce6dac28",
+  "active": "894adf9d7396be76",
   "lastOpenFiles": [
-    "Artivinco/FLOW/Cadastro_Produto.excalidraw.md",
     "Artivinco/FLOW/Cadastro Produto.md",
+    "Artivinco/FLOW/Cadastro_Produto.excalidraw.md",
     "Artivinco/Configs-Acessos.md",
     "Artivinco/COMPRAS.md",
     "Off/Aliberti/Tratho.md",

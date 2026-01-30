@@ -11,7 +11,7 @@ FWC
 
 https://suportesankhya.fwc.cloud/
 Usuário: sankhya118.suporte
-senha: Segmentos##2500
+senha: Gte7*23De2
 
 
 ---

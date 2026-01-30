@@ -2,6 +2,8 @@ DESCRIÇÃO, ESPECIFICACAO TECNICA, UNIDADE , APLICAÇÃO, PROJETO, MAQUINA , OR
 
 VAI PRA AMANDA -> CONSULTA SE O PRODUTO DE FATO EXISTE
 	→ USADO COMO
+	→ 
+
  AMANDA AS VEZES MANDA PRA CONTABILIDADE -> PRA VER SE É IMBOLIZADO E ETC.
 	 → aqui criar uma observação pro contabil → caso ela fique na duvida de imobilizado, no geral ela nao vai preencher nada
 

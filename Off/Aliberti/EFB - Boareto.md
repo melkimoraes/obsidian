@@ -10,6 +10,12 @@ posto → código e descrição da atividade (código da descrição mesmo), pq 
 
 ---
 
+Pendencia dos pontos:
+- [ ] Ponto 6
+	- [ ] Dashboard com base no cadastro de formas!
+
+---
+
 Produção : https://enricoboaretto.sankhyacloud.com.br
 sup
 e0H%iR$2p6FA)hD-7d1+

@@ -16,3 +16,6 @@ AMANDA VAI REVISAR NO FINAL E AI SIM VAI ATIVAR O PRODUTO.
 
 [[Cadastro_Produto.excalidraw]]
 
+---
+
+- [ ] fazer a dash pra amanda consultar os produtos caso existam!

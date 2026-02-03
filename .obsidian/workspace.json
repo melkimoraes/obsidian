@@ -49,7 +49,8 @@
               "title": "Tratho"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,12 +232,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdbd9ae6bf2082f0",
+  "active": "3dad2877b4648180",
   "lastOpenFiles": [
-    "Artivinco/Configs-Acessos.md",
-    "Off/Aliberti/Tratho.md",
     "Off/Aliberti/Macboot.md",
     "Off/Aliberti/EFB - Boareto.md",
+    "Artivinco/Configs-Acessos.md",
+    "Off/Aliberti/Tratho.md",
     "Artivinco/FLOW/Cadastro Produto.md",
     "Artivinco/FLOW/Cadastro_Produto.excalidraw.md",
     "Artivinco/COMPRAS.md",

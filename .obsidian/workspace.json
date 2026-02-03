@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM/⭐.md",
+                "file": "Notepad/tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⭐"
+              "title": "tips"
             }
           }
         ],
@@ -261,6 +261,7 @@
   },
   "active": "f3f99e9ae85faaa1",
   "lastOpenFiles": [
+    "GM/⭐.md",
     "tips.md",
     "Artivinco/Configs-Acessos.md",
     "Off/Aliberti/Tratho.md",
@@ -272,7 +273,6 @@
     "Off/Aliberti/Luitex.md",
     "ME.md",
     "Off/Aliberti/FLX.md",
-    "GM/⭐.md",
     "Artivinco/IMGJ.md",
     "Artivinco/SOP.md",
     "Artivinco/FLOW",

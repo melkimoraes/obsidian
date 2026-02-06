@@ -19,3 +19,4 @@ AMANDA VAI REVISAR NO FINAL E AI SIM VAI ATIVAR O PRODUTO.
 ---
 
 - [ ] fazer a dash pra amanda consultar os produtos caso existam!
+	- [ ] 3335 → TESTAR ESSE PRODUTO NA DASH!
